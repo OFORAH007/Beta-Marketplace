@@ -10,6 +10,7 @@
 - [Data Preparation & Cleaning](#Data-Preparation-&-Cleaning)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Data Analysis](#Data-Analysis)
+- [Dashboards](#Dashboards)
 - [Key Findings](#Key-Findings)
 - [Recommendations](#Recommendations)
 - [Limitations](#Limitations)
@@ -17,8 +18,10 @@
 - [References](#References)
 
 
+![pexels-rdne-7947752](https://github.com/user-attachments/assets/de89306b-2eb2-4330-b1a5-4d192a2a0229)
 
 ### Project Overview
+---
 This repository contains the analysis of the Beta Marketplace dataset, focusing on various aspects of Product, Customer, Location and Financial performance. The primary purpose of this analysis is to derive actionable insights that can help Beta Marketplace optimize its operations, improve customer satisfaction, increase profitability, and finally deeper understanding the company's performance.
 
 
@@ -43,8 +46,11 @@ The main objectives of this analysis are to:
   - Data Cleaning & Transformation - Excel [Download here](https://www.microsoft.com/en/microsoft-365/excel?market=af)
   - Data Visualization - Power Bi [Download here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
   - Reporting - Github Markdown for documentation [Access here](https://github.com/)
+    
  
+![pexels-tima-miroshnichenko-5439450](https://github.com/user-attachments/assets/39ae7760-5579-4069-be75-783e7637071c)
 
+ 
  ### Data Preparation/Cleaning
 
   In the initial data preparation phase, I performed the following Task;
@@ -149,6 +155,15 @@ ORDER BY
 ```
 
 
+### Dashboards
+
+
+![Screenshot (88)](https://github.com/user-attachments/assets/ad7f0224-fdd0-4be6-9e19-c8eb955bc35f)
+![Screenshot (89)](https://github.com/user-attachments/assets/9f9b7f67-5f46-46ac-8bfe-c0d54787f3f2)
+![Screenshot (90)](https://github.com/user-attachments/assets/1603cbf5-182e-4437-ab83-7dfb1bb1a0bf)
+![Screenshot (91)](https://github.com/user-attachments/assets/a36efca9-6102-4112-9eb2-a27555535935)
+
+
 ### Key Findings
 
 Based on the analysis, several Key findings  emerged;
@@ -182,6 +197,8 @@ Based on the analysis, several Key findings  emerged;
 - Boost Marketing around June to mitigate sales dips.
 - Analyze the customer behavior further to confirm reasons for mid-year and year-end trends.
 - Plan inventory and staffing around peak months (January, September and October).
+
+![download](https://github.com/user-attachments/assets/7e96d16a-b6d0-4de7-b3fb-9bf32d4d0765)
 
 
 ### Limitations
