@@ -215,9 +215,11 @@ This analysis provides a comprehensive overview of Beta Marketplace's product, c
 
 ### References
 
-1. [Kaggle – Data Cleaning and EDA Guide](https://www.kaggle.com/code/farhanullahkhan/eda-data-cleaning)
-2. [Towards Data Science – Sales Data Analysis Tutorial](https://towardsdatascience.com/sales-analytics-in-python-df6f0eb90e5e)
+1. [Kaggle – Data Cleaning and EDA Guide](https://www.kaggle.com/code/regivm/data-cleaning-and-eda-tutorial)
+2. [Towards Data Science – Sales Data Analysis Tutorial](https://www.youtube.com/watch?v=LOPnZclka0o)
 3. [Microsoft Learn – Analyze data with Power BI](https://learn.microsoft.com/en-us/training/paths/analyze-data-power-bi/)
+4. [Fundamentals with Digitech - Beta Marketplace Data](https://digiteched.co.uk/home/course/data-analysis-feb-2025-bootcamp/108)
+   
 
 
 
