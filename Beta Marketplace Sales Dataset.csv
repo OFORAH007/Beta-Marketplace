@@ -1,0 +1,1501 @@
+Order Date,Order ID,Customer Name,Customer ID,Gender,Product Key,Quantity Sold,Product Category,Product Subcategory,Unit Cost,Unit Price,Region,State
+21/03/2025,ORD566175,Lori Walters,CUST28757,Male,PRD9877,1,Beverages,Soft Drink,844.32,1076.7,South South,Bayelsa
+15/04/2025,ORD564557,Cheryl Hall,CUST19898,Male,PRD8662,1,Household,Toilet Paper,2719.08,3015.91,South West,Lagos
+20/01/2025,ORD547128,Mr. Ryan Moore Jr.,CUST53855,Male,PRD2406,12,Fashion,Trousers,782.53,891.7,South West,Osun
+01/07/2024,ORD797809,Matthew Butler,CUST34434,Female,PRD1213,10,Fashion,Shirt,1675.7,1891.98,North East,Yobe
+11/10/2024,ORD661509,Amy Moore MD,CUST25416,Male,PRD4051,17,Electronics,Smartphone,1611.75,2157.79,North East,Gombe
+08/10/2024,ORD622465,Brandon Butler,CUST71370,Female,PRD1427,15,Electronics,Smartphone,1300.21,1770.12,North Central,Kwara
+20/05/2024,ORD871006,Janet Mills,CUST25604,Male,PRD3584,7,Beverages,Juice,4270.76,4785.23,South South,Bayelsa
+22/07/2024,ORD537857,Jerry Branch,CUST24575,Male,PRD4833,19,Electronics,Laptop,3241.93,4428.33,South West,Ogun
+02/04/2025,ORD305894,Levi Bryan,CUST22926,Female,PRD4679,19,Fashion,Cap,1153.07,1381.84,North East,Bauchi
+10/05/2024,ORD850328,Kimberly Orr,CUST1397,Female,PRD2090,8,Beverages,Bottle Water,4573.89,5938.31,South South,Edo
+10/06/2024,ORD155100,Jason Nelson,CUST39978,Male,PRD8269,19,Household,Dishwasher,1902.85,2481.99,North Central,Kogi
+29/10/2024,ORD973219,Carrie Jones,CUST7817,Male,PRD6732,17,Beverages,Juice,4021.85,5508.9,North East,Taraba
+25/04/2025,ORD266080,Spencer Drake,CUST63955,Female,PRD9133,8,Household,Toilet Paper,2608.11,3491.31,North Central,Plateau
+05/07/2024,ORD194635,Darrell Medina,CUST16257,Female,PRD5052,12,Household,Toilet Paper,741.9,1031.81,North West,Kano
+21/06/2024,ORD804101,Joshua Farmer,CUST51796,Male,PRD6145,8,Electronics,Charger,3350.22,4494.86,South East,Imo
+23/08/2024,ORD913155,Annette Benitez,CUST33680,Female,PRD4710,19,Electronics,Smartphone,1727.27,2037.22,North East,Borno
+06/03/2025,ORD690778,Kelly Warren,CUST82205,Female,PRD4477,1,Electronics,Tablet,3915.16,4787.2,North East,Bauchi
+10/08/2024,ORD607841,Nancy Jones,CUST65924,Female,PRD4557,13,Electronics,Laptop,1554.98,1998.82,North East,Yobe
+19/09/2024,ORD597159,Michelle Vaughan,CUST64927,Female,PRD3632,19,Household,Dishwasher,1421.72,1772.73,North Central,Plateau
+30/12/2024,ORD683545,Chelsea Walls,CUST40791,Female,PRD3165,9,Beverages,Soft Drink,2505.34,3669.89,North West,Zamfara
+11/10/2024,ORD87933,Melissa Miller,CUST21939,Female,PRD8988,2,Electronics,Smartphone,4572.4,5308.05,North East,Gombe
+11/01/2025,ORD193411,Xavier Rojas,CUST26445,Female,PRD3900,12,Beverages,Soft Drink,3226.85,3562.52,South West,Osun
+11/11/2024,ORD724143,David Ellison,CUST52677,Male,PRD6424,15,Beverages,Juice,4795.52,6243.73,North West,Sokoto
+05/11/2024,ORD968680,Emily Harris,CUST32560,Female,PRD2897,11,Household,Toilet Paper,3627.85,4209.83,South South,Akwa Ibom
+05/11/2024,ORD339116,Charles Klein,CUST33233,Female,PRD6790,17,Beverages,Juice,3012.57,3444.64,South South,Akwa Ibom
+16/07/2024,ORD847012,Bonnie Freeman,CUST38635,Male,PRD7073,2,Fashion,Cap,3015.36,3444.5,North West,Jigawa
+27/02/2025,ORD399891,Sheila Jenkins,CUST92470,Male,PRD1162,20,Fashion,Cap,3398.15,4058.89,North Central,Nasarawa
+19/09/2024,ORD742412,Brett Richards,CUST86204,Male,PRD1346,8,Beverages,Bottle Water,905.62,1111.55,South East,Imo
+05/03/2025,ORD986334,Abigail Hart,CUST67335,Male,PRD7708,10,Fashion,Shirt,2970.99,4025.84,North East,Borno
+27/10/2024,ORD980398,Sydney Reed,CUST98805,Male,PRD8985,15,Groceries,Beans,1231.21,1517.39,North East,Bauchi
+09/09/2024,ORD888863,George Adams,CUST30894,Male,PRD5638,14,Groceries,Vegetable Oil,4972.95,6229.88,North East,Borno
+20/10/2024,ORD15824,Tammy Stone,CUST86930,Female,PRD2422,16,Electronics,Smartphone,2190.66,2858.1,South East,Enugu
+04/05/2025,ORD8753,James Cooper,CUST78958,Male,PRD1286,1,Electronics,Tablet,1061.93,1462,North West,Kano
+23/11/2024,ORD578172,Derrick Shelton,CUST57223,Male,PRD8324,11,Fashion,Shoes,2284.2,2769.99,South South,Bayelsa
+21/11/2024,ORD357021,Richard Weber,CUST9608,Male,PRD1473,15,Beverages,Soft Drink,2480.91,3555.01,North West,Zamfara
+15/03/2025,ORD637566,William Williams,CUST24128,Male,PRD2873,2,Fashion,Trousers,2905.87,3775.27,South East,Ebonyi
+30/07/2024,ORD218619,Maria Matthews,CUST61058,Male,PRD6676,4,Groceries,Palm Oil,1206.52,1586.56,North West,Sokoto
+15/01/2025,ORD32533,John Lambert,CUST15104,Male,PRD2346,19,Electronics,Tablet,3988.58,4673.83,North Central,Benue
+09/11/2024,ORD798050,Cody Espinoza,CUST33052,Male,PRD6873,5,Electronics,Charger,3542.03,3948.54,North East,Borno
+02/08/2024,ORD817653,Alexander Gordon,CUST66186,Female,PRD2882,10,Electronics,Tablet,1964.14,2199.08,South East,Abia
+26/01/2025,ORD800273,Jackson Dalton,CUST37770,Female,PRD1369,12,Household,Toilet Paper,3597.32,4235.55,South South,Delta
+02/09/2024,ORD284484,Cole Hayes,CUST91057,Female,PRD3465,5,Beverages,Soft Drink,4822.41,6603.79,North Central,Kogi
+09/01/2025,ORD83761,William Yang,CUST15655,Male,PRD5221,15,Beverages,Soft Drink,1911.39,2862.16,North West,Kano
+26/11/2024,ORD996472,Thomas Scott,CUST78549,Female,PRD8430,9,Beverages,Juice,2369.32,3297.42,South West,Ondo
+16/04/2025,ORD48139,Jeffrey Henderson,CUST29814,Male,PRD8859,12,Groceries,Palm Oil,2115.79,2461.97,North Central,Niger
+11/09/2024,ORD282973,Amanda Shepard,CUST32217,Female,PRD6070,8,Fashion,Shoes,628.61,711.96,North West,Zamfara
+12/06/2024,ORD941454,Robert Singleton,CUST90038,Female,PRD3219,2,Groceries,Palm Oil,3529.53,4511.08,South West,Osun
+28/02/2025,ORD851670,Matthew Gilbert,CUST4738,Male,PRD5303,18,Fashion,Shoes,4415.61,5372.98,South West,Lagos
+29/12/2024,ORD41507,Duane Evans,CUST39440,Female,PRD7867,16,Beverages,Soft Drink,1170.54,1735.96,South West,Ondo
+12/11/2024,ORD413886,Heather Jones,CUST30930,Female,PRD3054,16,Groceries,Rice,2087.71,3093.32,South East,Anambra
+18/06/2024,ORD410139,Samuel Bishop,CUST69013,Female,PRD5791,18,Fashion,Shirt,3301.17,4927.02,North East,Yobe
+18/03/2025,ORD467433,Lucas Charles,CUST71078,Female,PRD9970,20,Household,Toilet Paper,916.39,1353.77,South West,Oyo
+03/09/2024,ORD624827,Scott Cruz,CUST67581,Female,PRD9302,3,Household,Dishwasher,3118.32,4494.48,North East,Gombe
+23/12/2024,ORD960407,Larry Morrow,CUST93212,Female,PRD6266,1,Household,Detergent,2830.71,3717.28,South West,Ekiti
+22/07/2024,ORD268204,Brittany Silva,CUST42763,Female,PRD4803,9,Electronics,Tablet,4673.19,5864.53,South West,Oyo
+16/12/2024,ORD37247,Elizabeth Gonzalez,CUST21967,Male,PRD8756,1,Electronics,Tablet,4064.2,5354.21,North East,Taraba
+29/03/2025,ORD450871,Brian Brown,CUST29705,Male,PRD3248,9,Fashion,Shirt,2336.78,3317.83,South South,Rivers
+21/02/2025,ORD535008,Billy Henry DDS,CUST75865,Male,PRD9072,3,Beverages,Bottle Water,3005.83,3838.77,South East,Enugu
+09/09/2024,ORD452046,Brian Clay,CUST55097,Female,PRD9472,15,Groceries,Rice,899.86,1143.05,South West,Lagos
+17/04/2025,ORD121076,Nicole Nash,CUST28282,Female,PRD6324,13,Groceries,Palm Oil,2590.71,3680.22,North West,Zamfara
+14/12/2024,ORD385982,Travis Armstrong,CUST9704,Female,PRD8161,20,Fashion,Shirt,1088.12,1463.32,South South,Rivers
+12/06/2024,ORD787007,Jose Steele,CUST76473,Female,PRD7064,19,Beverages,Juice,4302.33,6016.16,North Central,Plateau
+01/05/2025,ORD294615,Sean Prince,CUST90272,Female,PRD6555,8,Groceries,Vegetable Oil,1174.1,1521.22,South West,Ogun
+11/07/2024,ORD532031,Christine Wang,CUST69659,Female,PRD8524,7,Groceries,Beans,889.29,1088.04,North East,Yobe
+09/12/2024,ORD671423,Joshua Lopez,CUST69250,Female,PRD3474,13,Beverages,Juice,707.92,914.21,South East,Ebonyi
+30/05/2024,ORD470720,Judy Lowery,CUST61337,Female,PRD9690,17,Household,Toilet Paper,2515.29,3123.61,North Central,Nasarawa
+07/05/2024,ORD177006,Teresa York,CUST65639,Female,PRD8055,5,Fashion,Trousers,3124.39,4491.2,South South,Delta
+02/05/2025,ORD61989,Chelsey Lynch,CUST75354,Female,PRD3151,18,Electronics,Tablet,2987.3,3673.48,North West,Jigawa
+23/06/2024,ORD635498,Brad Travis,CUST55269,Female,PRD2432,3,Fashion,Cap,4474.15,5333.6,South South,Rivers
+18/11/2024,ORD833508,Crystal Wilson,CUST1594,Male,PRD6732,9,Groceries,Palm Oil,1668.47,1921.42,North Central,FCT
+21/09/2024,ORD793703,John Branch,CUST33961,Male,PRD4494,14,Fashion,Shoes,1980.6,2521.32,South South,Akwa Ibom
+24/03/2025,ORD207156,Gina Young,CUST8599,Male,PRD1863,15,Groceries,Beans,2370.1,3503.05,South West,Ekiti
+26/03/2025,ORD69322,Lisa Miller,CUST44933,Female,PRD2398,15,Fashion,Trousers,4306.83,6204.52,North West,Jigawa
+19/06/2024,ORD86019,Dana Smith,CUST22565,Male,PRD1550,20,Groceries,Palm Oil,1582.23,1846.34,South East,Abia
+10/07/2024,ORD665681,Mary Tapia,CUST59812,Female,PRD9774,12,Beverages,Bottle Water,3419.14,4317.64,North Central,Kogi
+31/05/2024,ORD937651,Christopher Ashley,CUST99400,Female,PRD9520,12,Electronics,Laptop,4203.35,4851.75,South West,Osun
+16/10/2024,ORD773110,Justin Lawrence,CUST28407,Male,PRD2142,15,Electronics,Charger,2129.04,2792.65,South West,Oyo
+27/02/2025,ORD508766,Lisa Lopez,CUST37934,Male,PRD3224,12,Electronics,Charger,4941.47,6270.31,South East,Abia
+19/05/2024,ORD102247,Sarah Mcneil,CUST90891,Male,PRD3520,8,Groceries,Vegetable Oil,3413.83,4647.34,North West,Jigawa
+05/02/2025,ORD108651,Emily Snyder,CUST42167,Female,PRD4025,11,Groceries,Vegetable Oil,1703.49,2384.47,North West,Kebbi
+30/04/2025,ORD135882,Brooke Edwards,CUST71262,Male,PRD7876,15,Groceries,Palm Oil,1786.78,2514.24,North Central,Kwara
+13/02/2025,ORD575646,Laura Berry,CUST56479,Female,PRD2017,19,Beverages,Juice,3488.22,4243.51,North Central,Benue
+06/11/2024,ORD474504,Robert Fleming,CUST87446,Female,PRD3953,11,Groceries,Beans,3922.55,5277.14,North East,Adamawa
+12/06/2024,ORD37620,Sarah Murray,CUST15935,Male,PRD5879,4,Groceries,Palm Oil,4797.45,6785.72,South West,Lagos
+22/03/2025,ORD967968,Monica Miller,CUST15353,Female,PRD3642,15,Fashion,Cap,1362,1741.6,South East,Ebonyi
+01/10/2024,ORD236787,Shari Roberts,CUST26360,Male,PRD2194,9,Beverages,Soft Drink,3887.37,5221.56,North East,Taraba
+12/07/2024,ORD350115,Vanessa Cook,CUST48376,Female,PRD6592,13,Groceries,Beans,2815.37,3265.86,South South,Delta
+03/07/2024,ORD493147,Bryan Heath,CUST17221,Male,PRD5198,7,Electronics,Charger,1220.97,1586.9,South East,Enugu
+17/05/2024,ORD374035,Cody Young,CUST62893,Female,PRD3785,4,Electronics,Charger,2675,3133.49,North West,Kano
+26/03/2025,ORD562030,William Hartman,CUST57473,Female,PRD1854,5,Fashion,Cap,796.18,926.68,South West,Osun
+21/11/2024,ORD454947,Leslie Huber,CUST96014,Male,PRD4636,17,Household,Toilet Paper,1663.85,2305.68,South East,Anambra
+03/07/2024,ORD77108,Kathleen Jones,CUST67849,Male,PRD3177,12,Fashion,Shirt,1105.1,1283.87,South South,Delta
+28/11/2024,ORD218706,Kristina Francis,CUST45928,Male,PRD6819,15,Fashion,Shoes,4471.04,6510.35,South South,Delta
+19/06/2024,ORD179000,Amber Hurley,CUST11174,Female,PRD1604,16,Electronics,Charger,3777.23,4789.97,South West,Ondo
+04/03/2025,ORD327841,Richard Gallagher,CUST75634,Male,PRD7229,16,Beverages,Bottle Water,2336.8,2824.4,North East,Borno
+30/01/2025,ORD352476,Cody Wilson,CUST26039,Male,PRD2674,4,Groceries,Vegetable Oil,1795.19,2144.24,North Central,Niger
+11/01/2025,ORD387973,Mary Williams,CUST85174,Female,PRD4052,19,Beverages,Soft Drink,3309.45,4747.28,South East,Imo
+26/05/2024,ORD822304,Jo Pearson,CUST15906,Male,PRD6826,9,Beverages,Soft Drink,1988.63,2474.68,South South,Cross River
+01/02/2025,ORD184631,Rachel Ward,CUST36504,Female,PRD9776,13,Groceries,Palm Oil,1814.88,2482.85,South East,Ebonyi
+20/05/2024,ORD311197,Catherine Smith,CUST96779,Male,PRD2265,20,Beverages,Soft Drink,3853.29,5752.19,North Central,Kwara
+26/08/2024,ORD114177,Nicholas Tanner,CUST61022,Male,PRD7838,7,Household,Toilet Paper,3919.55,4848.1,North Central,Benue
+27/01/2025,ORD407013,Michael Walker,CUST25726,Male,PRD5193,16,Fashion,Shoes,4694.43,6019.23,South West,Ekiti
+26/10/2024,ORD456660,Amanda Sullivan,CUST26136,Female,PRD3785,13,Groceries,Vegetable Oil,4212.57,5771.47,South East,Imo
+15/02/2025,ORD716055,Amber Coffey,CUST52077,Female,PRD5907,8,Electronics,Smartphone,2179.66,2425.65,South South,Cross River
+04/09/2024,ORD89840,Jennifer Snyder,CUST75195,Male,PRD6996,10,Electronics,Smartphone,4818.83,6229.51,North East,Adamawa
+04/10/2024,ORD714399,Danielle Acevedo,CUST96467,Male,PRD2348,13,Groceries,Beans,1496.83,1859.5,North East,Adamawa
+27/08/2024,ORD942616,William Dougherty,CUST51148,Male,PRD5365,17,Beverages,Juice,2194.89,3130.68,South South,Delta
+08/02/2025,ORD508216,Jonathan Whitney,CUST26702,Male,PRD9653,10,Groceries,Palm Oil,1288.08,1580.22,South South,Rivers
+19/11/2024,ORD722204,Kevin Herrera,CUST88884,Male,PRD5503,5,Electronics,Laptop,3302.25,4918.35,South West,Oyo
+16/10/2024,ORD227670,Stacy Miles MD,CUST81385,Female,PRD6172,19,Household,Dishwasher,4454.05,5515.26,South South,Edo
+10/04/2025,ORD601532,Nancy Cook,CUST80283,Male,PRD4916,12,Household,Toilet Paper,4529.25,6402.49,North West,Zamfara
+12/05/2024,ORD299361,Steven Baker,CUST56310,Female,PRD6721,13,Fashion,Shoes,3386.66,4136.78,North Central,Niger
+07/08/2024,ORD511501,Donna Barry,CUST55608,Male,PRD9026,1,Groceries,Palm Oil,4772.76,5520.94,South South,Cross River
+20/06/2024,ORD630369,Cynthia Rice,CUST33601,Male,PRD5697,7,Beverages,Juice,2062.23,2879.48,South South,Rivers
+09/08/2024,ORD101843,Carmen Ray,CUST28442,Male,PRD4127,8,Groceries,Palm Oil,4273.64,6100.24,South South,Delta
+25/11/2024,ORD510419,Destiny Miller,CUST98171,Male,PRD9276,1,Beverages,Soft Drink,2684.84,3633.3,North Central,Niger
+08/02/2025,ORD962851,Dr. Sally Christian,CUST19639,Male,PRD4674,16,Household,Detergent,3564.54,5094.09,North Central,Kogi
+28/08/2024,ORD359080,Michael Baldwin,CUST25530,Male,PRD1607,11,Electronics,Charger,4986.65,5814.39,North West,Kano
+25/10/2024,ORD429179,Heidi Harris,CUST40257,Female,PRD2689,20,Groceries,Beans,790.68,1164.12,South East,Enugu
+08/06/2024,ORD351751,Tamara Gonzalez,CUST33117,Female,PRD2783,19,Fashion,Trousers,4026.83,5773.75,North West,Jigawa
+19/04/2025,ORD672176,Robert Ramirez,CUST31432,Male,PRD6974,8,Fashion,Trousers,1957.71,2293.59,North East,Adamawa
+04/01/2025,ORD216143,Dana Roberts,CUST55205,Male,PRD4671,10,Beverages,Soft Drink,4832.6,6554.22,North Central,Kwara
+04/11/2024,ORD92622,Julie Brown,CUST16294,Male,PRD1260,10,Groceries,Rice,3588.9,4171.96,South East,Enugu
+15/05/2024,ORD117930,Adrienne Pittman,CUST93372,Male,PRD7403,3,Groceries,Vegetable Oil,2089.74,3078.25,North Central,Kogi
+06/12/2024,ORD878878,Kathryn Hernandez,CUST47618,Male,PRD6579,6,Beverages,Juice,2400.77,2848.13,North West,Kano
+13/01/2025,ORD227368,Andrew Mcintyre,CUST69411,Male,PRD2645,12,Groceries,Palm Oil,3458.65,4407.25,South South,Akwa Ibom
+05/02/2025,ORD803515,Mrs. Susan Zamora DDS,CUST13006,Male,PRD5999,7,Household,Detergent,4513.29,5835.76,South South,Bayelsa
+28/11/2024,ORD31413,Jacob Davis,CUST70311,Male,PRD6442,14,Household,Dishwasher,2044.92,2744.83,North West,Katsina
+02/01/2025,ORD409087,Johnny David,CUST92049,Female,PRD2924,11,Groceries,Palm Oil,3043.52,3627.63,North Central,Niger
+28/03/2025,ORD735287,Nathaniel Cobb,CUST36717,Female,PRD3308,10,Fashion,Cap,1806.85,2337.3,North West,Kano
+20/01/2025,ORD492887,Robert Harrison,CUST16996,Male,PRD3606,6,Beverages,Soft Drink,2308.96,2544.43,North East,Adamawa
+17/08/2024,ORD467638,Ruben Reese,CUST46745,Female,PRD7135,8,Household,Detergent,3409.83,4994.93,South East,Ebonyi
+16/11/2024,ORD225843,Melissa Rogers,CUST20723,Male,PRD9186,12,Electronics,Charger,2474.98,3698.38,North East,Yobe
+02/06/2024,ORD312463,Ann Raymond,CUST10741,Male,PRD1217,8,Beverages,Soft Drink,3177.89,3649.57,North Central,Kwara
+14/12/2024,ORD727895,Kaitlyn Young,CUST56195,Male,PRD7413,19,Groceries,Vegetable Oil,868.18,1249.79,South East,Enugu
+17/04/2025,ORD376354,Jennifer Johnson,CUST34869,Female,PRD4146,7,Beverages,Juice,2131.39,2442.96,North East,Gombe
+17/11/2024,ORD33826,Andrew Douglas,CUST74388,Male,PRD1338,9,Beverages,Juice,1602.05,2063.99,North West,Zamfara
+28/11/2024,ORD977374,Lauren Woodward,CUST28234,Male,PRD2042,13,Household,Detergent,2325.24,3398.12,North Central,FCT
+09/05/2024,ORD517751,Steven Johnson,CUST71806,Female,PRD2806,8,Fashion,Trousers,3996.92,5565.39,South East,Imo
+28/12/2024,ORD476366,Carla Pruitt,CUST95902,Female,PRD6906,9,Beverages,Bottle Water,4681.95,6172.04,North West,Zamfara
+26/06/2024,ORD376143,James Knight,CUST58083,Female,PRD8936,19,Fashion,Shirt,3370.94,4279.61,North West,Kaduna
+11/08/2024,ORD566631,Joel Ray,CUST24501,Male,PRD7275,18,Household,Toilet Paper,2010.79,2959.1,North Central,FCT
+15/08/2024,ORD353968,Vanessa Grant,CUST13118,Female,PRD9939,20,Groceries,Rice,4879.13,6159.42,South South,Rivers
+10/01/2025,ORD431105,Kim Bennett,CUST52443,Male,PRD1759,6,Beverages,Soft Drink,1153.62,1388.85,South East,Ebonyi
+15/04/2025,ORD538367,Eric Alvarez,CUST94952,Male,PRD9839,6,Fashion,Cap,3440.05,4081.97,North East,Gombe
+14/09/2024,ORD748052,Tammy Wilson,CUST10685,Male,PRD1864,16,Household,Toilet Paper,3264.25,3646.89,South South,Bayelsa
+16/06/2024,ORD594408,Wanda Weber,CUST76634,Male,PRD2482,14,Groceries,Beans,3397.09,4690.59,South East,Enugu
+30/11/2024,ORD27762,Monique Galloway,CUST50274,Male,PRD3408,3,Groceries,Beans,979.87,1328.02,North East,Yobe
+27/12/2024,ORD267086,Ms. Angela Jennings,CUST82471,Female,PRD9125,7,Fashion,Shirt,3741.08,5094.44,South South,Bayelsa
+14/02/2025,ORD642850,Laura White,CUST4833,Female,PRD9934,11,Fashion,Shirt,737.57,1080.12,North West,Katsina
+31/10/2024,ORD635304,Pamela Pena,CUST34276,Female,PRD2568,12,Groceries,Palm Oil,3030.44,4394.37,South East,Ebonyi
+17/07/2024,ORD954103,Danielle Green,CUST80483,Female,PRD3600,10,Groceries,Rice,531.25,791.86,South West,Oyo
+17/01/2025,ORD500131,James Romero,CUST74113,Female,PRD2968,14,Electronics,Charger,4297.02,6371.67,North East,Yobe
+10/07/2024,ORD728889,Margaret Smith,CUST75229,Female,PRD1393,11,Electronics,Smartphone,4671.94,6660.82,South East,Imo
+16/09/2024,ORD974819,Tammy Klein,CUST39206,Female,PRD9271,18,Household,Detergent,3419,4993.88,South South,Bayelsa
+22/12/2024,ORD585291,Bobby Green,CUST56315,Male,PRD3851,2,Beverages,Juice,4530.04,5552.24,South South,Cross River
+02/04/2025,ORD495410,Stephanie Munoz,CUST69365,Female,PRD8483,8,Electronics,Tablet,2583.71,2959.22,North East,Borno
+13/10/2024,ORD866304,Jose Howe,CUST58455,Female,PRD4681,1,Electronics,Laptop,3181.13,4646.65,North East,Borno
+18/09/2024,ORD516794,Erin Ross,CUST13571,Male,PRD8659,8,Household,Dishwasher,3144.66,4005.17,South East,Anambra
+07/08/2024,ORD493801,Russell Warren,CUST79931,Male,PRD2563,19,Electronics,Tablet,2791.07,3792.9,North East,Gombe
+22/11/2024,ORD227176,Kristin Henry,CUST29568,Male,PRD6466,19,Beverages,Bottle Water,3279.25,4403.7,North East,Adamawa
+27/04/2025,ORD315647,Cynthia Young,CUST9595,Male,PRD1237,8,Beverages,Bottle Water,3194.12,4629.37,North East,Bauchi
+29/09/2024,ORD425180,Sandra Mcmahon,CUST86918,Male,PRD9010,19,Household,Dishwasher,4098.56,4809.64,North West,Katsina
+29/01/2025,ORD27072,Brendan Jones,CUST54742,Male,PRD2084,18,Electronics,Tablet,4573.5,6791.06,South West,Lagos
+21/09/2024,ORD924425,Angela Russo,CUST55616,Male,PRD3010,7,Household,Toilet Paper,2514.1,3499.31,North West,Kebbi
+26/08/2024,ORD855407,Robert Thomas,CUST28813,Male,PRD2117,8,Electronics,Tablet,3536.58,4185.68,South East,Imo
+19/02/2025,ORD983017,Andrew Pratt,CUST94788,Female,PRD3243,16,Groceries,Vegetable Oil,3715.01,5109.51,North Central,Nasarawa
+12/10/2024,ORD958836,Danny Bright,CUST85679,Male,PRD2760,3,Fashion,Trousers,4145.43,5704.3,North East,Gombe
+10/12/2024,ORD645960,Curtis Bryant,CUST50573,Female,PRD6163,1,Beverages,Juice,1065.01,1203.83,North West,Kano
+20/10/2024,ORD233291,Pamela Edwards,CUST78305,Male,PRD4225,1,Beverages,Bottle Water,2708.04,3537.74,North Central,Benue
+27/03/2025,ORD326575,Amy Smith,CUST8459,Female,PRD7487,1,Household,Detergent,4344.67,5125.01,North East,Taraba
+26/05/2024,ORD530396,Veronica Bell,CUST53289,Female,PRD2347,1,Household,Detergent,686.13,871.06,South East,Ebonyi
+26/04/2025,ORD956089,Matthew Haney,CUST52762,Male,PRD6116,1,Groceries,Palm Oil,2069.26,2579.16,North West,Sokoto
+11/04/2025,ORD491782,Kimberly Sosa,CUST74760,Male,PRD7640,1,Fashion,Shoes,1600.36,2348.11,North East,Adamawa
+12/11/2024,ORD488780,Gary Mclaughlin,CUST24792,Female,PRD8696,10,Electronics,Laptop,3498.01,4830.48,South West,Ogun
+15/09/2024,ORD163821,Keith Hughes,CUST60476,Female,PRD1112,15,Household,Dishwasher,1275.56,1575.25,South West,Oyo
+11/03/2025,ORD180504,Jon Petersen,CUST14136,Female,PRD4624,13,Electronics,Charger,1587.54,2217.37,South South,Akwa Ibom
+01/07/2024,ORD197454,Mark Lopez,CUST87885,Male,PRD8954,2,Electronics,Tablet,969.06,1227.93,North West,Kano
+15/02/2025,ORD843962,Richard Bishop,CUST37513,Female,PRD4127,11,Groceries,Rice,3955.5,4842.92,North West,Sokoto
+25/03/2025,ORD587404,Jasmine Porter,CUST64421,Female,PRD4910,3,Groceries,Vegetable Oil,3642.66,4024.54,North West,Jigawa
+25/09/2024,ORD461138,Lauren Lawson,CUST88409,Female,PRD4848,14,Groceries,Vegetable Oil,1341.4,1483.18,North East,Borno
+28/01/2025,ORD293493,Philip Everett,CUST88601,Female,PRD3769,12,Beverages,Bottle Water,1183,1502.94,South South,Cross River
+21/05/2024,ORD237578,Sara Stout,CUST57746,Female,PRD9676,10,Electronics,Smartphone,2067.68,3101.07,South South,Bayelsa
+21/05/2024,ORD914582,Colin Knight,CUST6967,Female,PRD4117,7,Groceries,Palm Oil,2757.2,3591.14,South South,Akwa Ibom
+12/03/2025,ORD219695,Amy Rice,CUST12117,Female,PRD9377,9,Groceries,Vegetable Oil,1565.27,1925.54,North East,Bauchi
+23/10/2024,ORD302406,Andrew Jones,CUST55508,Female,PRD6717,13,Household,Dishwasher,3701.15,5381.72,South West,Ekiti
+07/02/2025,ORD955838,Jamie Thompson,CUST85125,Female,PRD4462,15,Beverages,Bottle Water,3209.41,4012.18,South West,Oyo
+26/10/2024,ORD347340,Emily Moreno,CUST35198,Male,PRD8898,13,Electronics,Tablet,2470.12,2840.55,North West,Jigawa
+30/09/2024,ORD535487,Brittany Robertson,CUST28105,Male,PRD8661,3,Fashion,Trousers,1406.25,1638.98,South South,Edo
+26/01/2025,ORD932496,Albert Gibson,CUST99607,Male,PRD2359,7,Household,Toilet Paper,4701.65,5574.44,South West,Ekiti
+01/10/2024,ORD848922,Joy Perry,CUST91436,Male,PRD3111,9,Fashion,Shirt,2700.12,3394.08,North East,Bauchi
+05/06/2024,ORD159859,Susan Conner,CUST36257,Female,PRD3577,15,Beverages,Juice,4864.89,6753.49,South South,Delta
+23/08/2024,ORD652466,William Blevins,CUST4039,Female,PRD5933,3,Groceries,Rice,4961.55,6052.22,North West,Kebbi
+29/09/2024,ORD565314,William Clark,CUST81587,Female,PRD1240,14,Electronics,Charger,2966.83,3533.95,South South,Cross River
+18/03/2025,ORD32122,Rodney Chase,CUST72710,Male,PRD7164,3,Electronics,Smartphone,4803.07,5509.81,South West,Ekiti
+15/05/2024,ORD219080,Michelle Holder,CUST15697,Male,PRD9025,15,Groceries,Rice,4876.23,6618.19,South South,Bayelsa
+23/04/2025,ORD10659,Elizabeth Martinez,CUST71278,Female,PRD8729,19,Fashion,Shirt,1366.64,2018.06,South West,Osun
+09/10/2024,ORD489671,Jodi Hughes,CUST79807,Female,PRD8313,9,Groceries,Beans,4636.95,5828.61,South East,Abia
+09/05/2024,ORD111666,Sarah Mccann,CUST26277,Male,PRD5948,1,Fashion,Shirt,1553.85,2066.65,North East,Yobe
+04/08/2024,ORD730085,Brandon Boyd,CUST49686,Female,PRD1270,12,Groceries,Palm Oil,4417.81,5092.38,South East,Ebonyi
+01/12/2024,ORD826786,Leslie Galvan,CUST19536,Male,PRD3132,12,Groceries,Beans,3239.43,4764.54,South East,Ebonyi
+15/07/2024,ORD550785,Angel Lopez,CUST92452,Male,PRD7976,7,Household,Dishwasher,1438.22,2041.99,North Central,Plateau
+01/10/2024,ORD323486,Ian Faulkner,CUST51614,Female,PRD5734,4,Beverages,Bottle Water,699.42,905,North West,Zamfara
+09/10/2024,ORD331761,Michael Baker,CUST30607,Male,PRD4171,3,Household,Toilet Paper,4699.48,6306.88,North West,Kebbi
+18/08/2024,ORD265734,Michael Hernandez,CUST45813,Male,PRD7585,14,Household,Detergent,3701.65,4959.45,North West,Jigawa
+16/05/2024,ORD422161,Sharon Scott MD,CUST88013,Male,PRD7905,18,Beverages,Juice,1315.55,1598.63,South South,Delta
+15/10/2024,ORD608330,Stephanie Brown,CUST45793,Male,PRD5937,7,Groceries,Beans,4553.83,6322.25,South East,Abia
+11/12/2024,ORD845204,Dr. Emily Walsh,CUST97524,Female,PRD1180,2,Beverages,Soft Drink,1691.25,2467.05,South East,Anambra
+12/06/2024,ORD604687,Hannah Gibson,CUST82933,Female,PRD2876,19,Groceries,Palm Oil,3393.17,4770.94,South South,Cross River
+08/03/2025,ORD681393,Amy Riley,CUST73167,Male,PRD1172,16,Household,Detergent,4262.44,5278.79,North East,Gombe
+05/01/2025,ORD889654,William Miller,CUST51492,Male,PRD6942,1,Groceries,Palm Oil,2429.67,3586.07,North Central,Nasarawa
+05/04/2025,ORD216365,Christopher Rice,CUST19300,Male,PRD2666,2,Household,Toilet Paper,2529.15,2992.77,North West,Katsina
+07/11/2024,ORD307217,Karen Horton,CUST71410,Male,PRD4674,18,Household,Detergent,4435.09,5105.06,South East,Ebonyi
+23/12/2024,ORD139975,Joseph Norman,CUST20344,Male,PRD8735,3,Groceries,Beans,1518.84,1864.77,South East,Anambra
+23/09/2024,ORD116088,John Rodriguez,CUST50741,Female,PRD6217,12,Fashion,Shoes,3409.11,3813.16,South South,Akwa Ibom
+19/04/2025,ORD313830,Frank Johnson,CUST62162,Female,PRD2620,9,Electronics,Charger,868.99,1240.61,North West,Kebbi
+21/04/2025,ORD385910,Kathy Ortiz,CUST25083,Female,PRD9293,13,Groceries,Vegetable Oil,2744.03,3039.82,North East,Taraba
+24/12/2024,ORD188794,Larry Hughes,CUST11124,Male,PRD6657,19,Beverages,Juice,4267.49,5778.57,North Central,Plateau
+23/05/2024,ORD990665,Zachary Romero,CUST8695,Male,PRD3293,4,Electronics,Charger,1715.56,1990.36,South West,Lagos
+17/02/2025,ORD606160,Erin Harris,CUST11443,Male,PRD3077,4,Electronics,Smartphone,2663.88,3240.93,South East,Ebonyi
+14/07/2024,ORD109261,Robert Carter,CUST42386,Female,PRD2702,4,Fashion,Cap,2600.01,3665.82,South West,Ondo
+05/10/2024,ORD107244,Becky Boyer,CUST25539,Male,PRD2143,7,Fashion,Cap,4980,6402.52,North West,Kebbi
+10/08/2024,ORD584767,Deborah Turner,CUST47549,Male,PRD7423,14,Fashion,Trousers,3787.48,5387.61,North West,Kaduna
+14/05/2024,ORD691377,Anna Reyes,CUST70956,Male,PRD5318,15,Groceries,Rice,1457.73,1999.3,South East,Abia
+01/07/2024,ORD201590,Michael Best,CUST6011,Male,PRD6353,2,Groceries,Beans,4188.03,6110.81,North Central,Nasarawa
+15/04/2025,ORD783609,Jade Campbell,CUST69196,Female,PRD7755,17,Beverages,Juice,4803.72,5936.47,South East,Ebonyi
+09/01/2025,ORD31223,William Hall,CUST35357,Male,PRD4950,9,Beverages,Bottle Water,2306.14,3078.84,South West,Osun
+28/03/2025,ORD220558,Jerry Johnson DDS,CUST94912,Female,PRD2538,15,Household,Toilet Paper,871.76,1168.08,South South,Edo
+14/03/2025,ORD984037,Tanya Gilmore,CUST14394,Male,PRD8642,16,Electronics,Smartphone,1622.11,2345.95,South South,Edo
+15/09/2024,ORD704483,William Wilson,CUST96175,Male,PRD9348,17,Beverages,Juice,4181.22,6131.74,North Central,FCT
+02/02/2025,ORD57826,Angelica Poole,CUST4831,Female,PRD7037,12,Fashion,Cap,3860.16,4416.58,South West,Ekiti
+01/04/2025,ORD726687,Amanda Johnson,CUST90359,Female,PRD3833,9,Fashion,Cap,519.95,674.6,North Central,Niger
+07/03/2025,ORD448957,Carl Ball,CUST96412,Female,PRD4467,10,Fashion,Trousers,4550.9,5985.29,North Central,Kogi
+09/01/2025,ORD407043,Stacey Wolfe,CUST74185,Female,PRD5850,15,Fashion,Shirt,4663.52,5593.23,North East,Adamawa
+21/07/2024,ORD168253,Diana Stone,CUST45508,Male,PRD3702,16,Groceries,Palm Oil,1809.77,2544.25,South East,Enugu
+04/03/2025,ORD235246,David Beck,CUST45096,Female,PRD9556,18,Electronics,Charger,2496.78,3701.26,South East,Imo
+01/06/2024,ORD44279,Mary Bell,CUST88107,Male,PRD3194,14,Household,Detergent,2406.4,3044.5,North West,Katsina
+13/10/2024,ORD180106,Adam Baird,CUST87261,Female,PRD8353,1,Groceries,Vegetable Oil,1810.03,2406.76,South East,Anambra
+28/02/2025,ORD280470,Jacqueline Griffin,CUST80595,Male,PRD8422,2,Electronics,Tablet,3406.66,4082.77,South South,Delta
+15/04/2025,ORD240399,Erin Moreno,CUST4059,Female,PRD3895,3,Beverages,Soft Drink,2824.12,3739.82,North West,Kaduna
+02/04/2025,ORD927526,Joshua Russell,CUST73374,Female,PRD4259,9,Electronics,Tablet,3518.33,5034.08,North Central,Benue
+05/07/2024,ORD860356,David Cline,CUST44058,Male,PRD1053,17,Groceries,Beans,2659.07,3515.12,South East,Ebonyi
+13/10/2024,ORD693946,Walter Kline,CUST26296,Female,PRD8885,4,Fashion,Trousers,1057.54,1455.07,South West,Oyo
+19/01/2025,ORD639998,Amy Watson,CUST6748,Male,PRD8410,8,Electronics,Tablet,3269.46,4599.41,North Central,Benue
+24/09/2024,ORD60353,Brian Decker,CUST8333,Female,PRD4408,5,Household,Dishwasher,3291.4,4582.04,South South,Delta
+23/08/2024,ORD594516,Bryce Young,CUST24476,Female,PRD3760,12,Groceries,Palm Oil,4856.69,7193.39,South South,Delta
+24/03/2025,ORD43050,Robert Jackson,CUST38846,Male,PRD3840,1,Fashion,Shirt,3450.34,4168.23,North West,Jigawa
+04/09/2024,ORD665096,Ryan Flores,CUST23780,Male,PRD3880,9,Groceries,Vegetable Oil,4945.4,6328.11,North Central,FCT
+28/07/2024,ORD409029,Joseph Hardy,CUST41605,Male,PRD6512,6,Electronics,Smartphone,2808.83,4009.56,North East,Gombe
+17/12/2024,ORD676053,Martha Pearson,CUST41438,Male,PRD9049,11,Beverages,Soft Drink,4919.27,6357.06,South East,Anambra
+10/03/2025,ORD202248,Larry Combs,CUST11928,Male,PRD8858,8,Fashion,Shirt,2775.52,3501.18,North East,Gombe
+24/07/2024,ORD625775,Lisa Horne MD,CUST62692,Female,PRD7060,19,Electronics,Tablet,624.58,882.04,North Central,Niger
+02/12/2024,ORD673103,Mrs. Mercedes Goodman,CUST67109,Female,PRD3575,15,Electronics,Charger,2345.2,2879.78,South East,Ebonyi
+06/10/2024,ORD994044,Olivia Donaldson,CUST80317,Female,PRD7823,20,Fashion,Trousers,3286.22,4414.65,North Central,Nasarawa
+16/01/2025,ORD876211,Shannon Kim,CUST46549,Male,PRD4668,11,Beverages,Juice,4136.43,6132.48,North East,Bauchi
+21/05/2024,ORD868986,Crystal Dean,CUST31222,Male,PRD9869,3,Beverages,Bottle Water,3569.67,4361,North Central,Plateau
+21/10/2024,ORD249906,Kevin Collins,CUST86736,Female,PRD8966,19,Electronics,Tablet,4023.33,5539.47,South South,Edo
+20/03/2025,ORD553366,Eric Gonzales,CUST94566,Female,PRD7428,2,Fashion,Shoes,2756.9,4056.83,South South,Akwa Ibom
+22/03/2025,ORD333396,Eric Mann,CUST59978,Female,PRD1363,16,Household,Detergent,2972.35,4201.86,North Central,FCT
+15/01/2025,ORD447905,Shelley Smith,CUST35282,Female,PRD3360,13,Groceries,Vegetable Oil,823.47,1199.89,North West,Sokoto
+03/11/2024,ORD11788,Susan Padilla,CUST40000,Female,PRD8126,8,Electronics,Laptop,4205.67,4822.12,South West,Ogun
+28/04/2025,ORD474540,Debbie Sanders,CUST2809,Male,PRD2928,12,Electronics,Charger,1362.25,1702.96,North East,Gombe
+11/12/2024,ORD741479,Kevin West,CUST54136,Female,PRD7992,19,Beverages,Juice,2616.05,3707.03,South West,Lagos
+11/12/2024,ORD532266,Danielle Osborn,CUST54556,Male,PRD7346,11,Groceries,Vegetable Oil,3936.2,4589.98,North West,Sokoto
+13/12/2024,ORD90018,Robert Pierce,CUST13324,Male,PRD7740,14,Fashion,Cap,2084.26,2494.18,North West,Sokoto
+18/02/2025,ORD863844,John Meadows,CUST43357,Male,PRD1775,15,Household,Dishwasher,1211.79,1421.18,South South,Edo
+10/06/2024,ORD385004,Daniel Barnett,CUST32539,Male,PRD9440,5,Fashion,Shirt,844.59,1249.82,South West,Ekiti
+01/03/2025,ORD481909,Sean Wilson,CUST98245,Male,PRD2313,18,Fashion,Trousers,4033.14,5486.63,South East,Anambra
+05/04/2025,ORD628198,Robert Horne,CUST96705,Male,PRD3299,1,Groceries,Beans,1903.64,2196.74,South West,Ondo
+23/12/2024,ORD426518,Marie Combs,CUST91688,Male,PRD1197,2,Fashion,Shoes,4372.69,4969.01,North East,Adamawa
+10/10/2024,ORD921869,Robin Delacruz,CUST90902,Female,PRD1555,1,Household,Toilet Paper,4030.22,5488.91,North Central,Plateau
+17/07/2024,ORD792719,Kelli Walker,CUST43458,Female,PRD1298,4,Groceries,Beans,3417.96,4609.9,South South,Akwa Ibom
+31/01/2025,ORD529436,Christopher Conrad,CUST46852,Male,PRD4483,6,Household,Toilet Paper,564.24,753.54,South South,Cross River
+11/05/2024,ORD735273,Paula Ryan,CUST29779,Female,PRD8200,12,Fashion,Cap,1381.59,1918.86,North West,Jigawa
+19/01/2025,ORD71952,Benjamin Baker,CUST77084,Female,PRD9589,12,Household,Detergent,1415.61,1903.98,North Central,Kogi
+12/11/2024,ORD399542,Collin Young,CUST53518,Female,PRD7744,10,Electronics,Tablet,3372.41,4700.1,North Central,Kwara
+01/11/2024,ORD256336,Ralph Palmer,CUST7590,Female,PRD4953,19,Groceries,Rice,1008.26,1307.9,North Central,Plateau
+30/06/2024,ORD567569,Peter Murphy,CUST55872,Male,PRD2582,18,Household,Dishwasher,3095.56,3578.28,North West,Kano
+30/10/2024,ORD736936,Emily Moore,CUST71492,Female,PRD7596,4,Fashion,Cap,4747.06,6810,South East,Abia
+29/11/2024,ORD411024,Frederick Morgan,CUST74148,Male,PRD6396,17,Beverages,Juice,4383.68,5834.94,South East,Ebonyi
+15/09/2024,ORD545358,William Cruz PhD,CUST10742,Male,PRD3981,6,Fashion,Shirt,4181.4,4700.43,North Central,Plateau
+06/08/2024,ORD354988,Lisa Harris,CUST83539,Female,PRD1018,2,Groceries,Vegetable Oil,4499.69,5077.85,North West,Kebbi
+01/05/2025,ORD17510,Donald Tapia,CUST13306,Male,PRD5945,17,Groceries,Beans,2678.53,3768.43,North East,Adamawa
+20/12/2024,ORD411071,Robert Duffy,CUST96007,Female,PRD2774,7,Groceries,Vegetable Oil,598.69,842.2,South South,Delta
+24/02/2025,ORD23534,Elizabeth Hensley,CUST17108,Male,PRD3647,13,Electronics,Tablet,3518.2,4888.72,North East,Yobe
+18/11/2024,ORD650682,Sara Mason,CUST94544,Male,PRD9868,17,Household,Dishwasher,3873.73,5026.98,North East,Bauchi
+08/11/2024,ORD158608,Anita Williams,CUST4896,Female,PRD8125,14,Groceries,Vegetable Oil,2812.07,3318.99,South West,Ekiti
+08/03/2025,ORD222178,Danielle Kelly,CUST57667,Female,PRD7645,4,Electronics,Charger,3766.72,4172.95,North West,Zamfara
+22/07/2024,ORD956237,Michael Roberts,CUST78192,Male,PRD7055,15,Fashion,Shirt,3671.78,4464.52,North West,Kaduna
+30/03/2025,ORD870101,David Peters,CUST23399,Male,PRD7104,11,Household,Detergent,4713.82,5241.81,North Central,Kwara
+15/05/2024,ORD326459,Julie Taylor,CUST79600,Male,PRD3915,11,Groceries,Palm Oil,3212.68,4580.93,South East,Abia
+26/05/2024,ORD148678,Patrick Martinez,CUST96647,Female,PRD7736,4,Groceries,Beans,2595.26,3181.21,North East,Adamawa
+18/09/2024,ORD767967,Emily Walker,CUST3139,Female,PRD9734,7,Groceries,Rice,2080.52,2946.64,North East,Adamawa
+24/02/2025,ORD772728,Patricia Lewis,CUST1160,Male,PRD2715,19,Beverages,Soft Drink,3725.64,4286.55,North Central,Niger
+05/08/2024,ORD935598,Jamie Yoder,CUST40952,Female,PRD3592,18,Beverages,Juice,1789.76,2473.09,South East,Enugu
+30/04/2025,ORD793665,Barbara Morris,CUST36055,Female,PRD3224,17,Groceries,Beans,634.81,907.25,North West,Jigawa
+24/06/2024,ORD866289,Alexander Mooney,CUST80274,Male,PRD7826,14,Electronics,Smartphone,3969.08,4535.14,South West,Ogun
+30/04/2025,ORD697258,Lauren Williams,CUST14268,Female,PRD4236,2,Groceries,Palm Oil,2710.28,3488.62,South South,Bayelsa
+05/07/2024,ORD971873,Alicia Miller,CUST55367,Female,PRD5635,13,Electronics,Charger,2000.99,2415.14,South West,Osun
+27/10/2024,ORD475038,Courtney Johnston,CUST94339,Male,PRD6055,11,Groceries,Beans,793.71,1009.2,North West,Sokoto
+26/11/2024,ORD315882,Gregory Avila,CUST46956,Female,PRD6890,13,Household,Dishwasher,4149.66,4959.43,South West,Ogun
+07/01/2025,ORD903444,Emily Warren,CUST95271,Female,PRD9785,18,Electronics,Smartphone,3444.84,4112.15,North West,Kaduna
+13/08/2024,ORD109284,Alice Clark,CUST19579,Female,PRD8009,7,Electronics,Tablet,3653.88,5161.32,North West,Zamfara
+22/09/2024,ORD330026,Michael Oconnell,CUST61315,Female,PRD9053,18,Household,Dishwasher,4088.83,5109.53,South West,Osun
+09/07/2024,ORD896125,Jason Welch,CUST28346,Female,PRD1534,4,Electronics,Smartphone,4111.57,5486.57,North Central,Niger
+30/04/2025,ORD194909,Robert Williamson,CUST87379,Female,PRD9641,16,Groceries,Beans,3867.33,5563.58,South West,Osun
+09/02/2025,ORD459569,Alexis Barnes,CUST37262,Female,PRD7159,11,Household,Detergent,3560.95,5174.63,North West,Kebbi
+16/10/2024,ORD437433,Charlene Taylor,CUST33465,Male,PRD8303,9,Household,Detergent,910.56,1231.95,North East,Taraba
+16/02/2025,ORD354338,Marco Young,CUST61542,Male,PRD1944,15,Household,Dishwasher,741.96,1018.75,South East,Abia
+27/09/2024,ORD992667,Donna Decker,CUST99414,Male,PRD9447,4,Fashion,Shirt,2145.14,2815.05,South West,Lagos
+20/03/2025,ORD792063,Vincent Price,CUST76974,Male,PRD3458,9,Beverages,Bottle Water,1021.58,1247.65,South South,Akwa Ibom
+08/12/2024,ORD363419,Mr. Jimmy Newton,CUST26060,Female,PRD2035,12,Electronics,Smartphone,3598.05,5323.99,South South,Rivers
+17/02/2025,ORD795122,Philip Coleman,CUST25137,Female,PRD4226,13,Household,Dishwasher,1416.92,1673.55,North East,Yobe
+08/02/2025,ORD375992,Teresa Wright,CUST68456,Male,PRD5981,20,Fashion,Cap,554.08,616.21,South West,Ondo
+25/06/2024,ORD36304,Pamela Carr,CUST13484,Male,PRD3609,9,Electronics,Tablet,1559.44,2091.28,South East,Imo
+29/12/2024,ORD464643,Joseph Williams,CUST74726,Female,PRD2985,13,Fashion,Shoes,3268.43,4421.72,South West,Lagos
+09/09/2024,ORD271699,Rachel Cruz,CUST37667,Male,PRD5121,13,Fashion,Trousers,2955.89,3364.84,North West,Zamfara
+31/03/2025,ORD778164,Deanna Lane,CUST40178,Female,PRD5414,20,Beverages,Soft Drink,2780.2,3665.87,South East,Anambra
+17/10/2024,ORD257393,Cassidy Cruz,CUST48224,Female,PRD3747,10,Household,Dishwasher,1352.51,1596.2,South South,Akwa Ibom
+27/02/2025,ORD429704,Kristen Robinson,CUST2162,Male,PRD7541,14,Electronics,Laptop,1316.84,1842.77,North Central,Nasarawa
+26/04/2025,ORD740555,Jason Roberts,CUST96058,Female,PRD4279,14,Beverages,Juice,4583.37,5780.88,South South,Cross River
+16/11/2024,ORD974071,Eric Taylor,CUST43041,Male,PRD1191,17,Household,Dishwasher,4421.66,4946.52,South West,Ekiti
+06/08/2024,ORD240975,Paige Wu,CUST50253,Male,PRD9786,2,Groceries,Palm Oil,3809.66,5158.96,South South,Rivers
+18/07/2024,ORD647585,Adam Murphy,CUST22777,Female,PRD4284,10,Household,Detergent,2535.51,3132.63,South South,Bayelsa
+11/01/2025,ORD53684,Ashley Gomez,CUST61569,Male,PRD1006,1,Beverages,Juice,1600.28,1796.98,North East,Adamawa
+16/02/2025,ORD322238,Chelsea Boyle,CUST30596,Male,PRD7258,20,Groceries,Vegetable Oil,2826.42,3604.99,South South,Akwa Ibom
+09/02/2025,ORD553469,Emma Jarvis,CUST8862,Female,PRD7143,12,Fashion,Shoes,2271.18,3183.21,North East,Bauchi
+25/02/2025,ORD101131,Dean Pearson,CUST88284,Female,PRD5226,1,Beverages,Soft Drink,3856.37,5175.4,South West,Ekiti
+20/07/2024,ORD164911,Mark Mcbride,CUST24048,Female,PRD7121,9,Household,Toilet Paper,1431.16,2106.84,South West,Oyo
+02/10/2024,ORD538612,Rachel Smith,CUST59993,Male,PRD8006,7,Household,Dishwasher,2220.2,3027.11,South West,Lagos
+01/06/2024,ORD942592,Mark Lewis,CUST66433,Female,PRD8465,6,Fashion,Cap,4906.77,6572.74,South West,Lagos
+03/10/2024,ORD5939,Stephen Jacobs,CUST85672,Male,PRD1555,14,Beverages,Bottle Water,1278.82,1734.67,North West,Zamfara
+23/02/2025,ORD594923,Aaron Dickerson,CUST47026,Male,PRD8196,19,Beverages,Juice,3318.65,3928.12,North West,Zamfara
+28/09/2024,ORD74489,Jessica Travis,CUST66077,Male,PRD9794,8,Household,Dishwasher,4476.48,5180.02,North West,Jigawa
+15/12/2024,ORD393260,Christopher Day,CUST24025,Female,PRD4884,20,Household,Toilet Paper,4184.63,5984.73,South South,Rivers
+06/08/2024,ORD229135,Gary Scott,CUST531,Male,PRD1821,8,Beverages,Bottle Water,4966.83,6964.97,South South,Akwa Ibom
+06/10/2024,ORD875696,Michele Johnson,CUST64124,Female,PRD1430,18,Electronics,Charger,1866.72,2194.34,North East,Gombe
+18/03/2025,ORD464399,Mary Bowen,CUST12173,Female,PRD6476,6,Fashion,Cap,927.03,1141.12,South West,Osun
+26/04/2025,ORD811128,Matthew Gallagher,CUST76812,Male,PRD5850,13,Fashion,Cap,2515.12,2804.81,North East,Bauchi
+08/06/2024,ORD995672,Joe Hall,CUST94812,Female,PRD2167,17,Household,Dishwasher,2144.27,3037.06,North West,Kaduna
+24/10/2024,ORD892956,Patricia Clark,CUST59564,Male,PRD9142,1,Groceries,Beans,3375.06,4484.87,South East,Enugu
+11/01/2025,ORD674537,Brian Johnson,CUST6278,Female,PRD9086,18,Electronics,Laptop,2041.87,2967.57,South West,Ondo
+02/11/2024,ORD30743,Andrea Shah,CUST2053,Male,PRD8353,18,Fashion,Cap,2392.66,2697.75,South West,Ogun
+31/10/2024,ORD314872,Charlene Hughes,CUST14190,Male,PRD8045,11,Groceries,Vegetable Oil,3840.45,5067.58,South West,Ekiti
+19/03/2025,ORD776159,Joseph Jordan,CUST41911,Male,PRD7567,19,Groceries,Vegetable Oil,921.37,1306.48,North West,Katsina
+16/09/2024,ORD776875,Breanna Kelly,CUST79234,Female,PRD6516,16,Electronics,Charger,1862.03,2180.47,South South,Delta
+04/02/2025,ORD821525,Jonathan Walters,CUST51155,Male,PRD6940,16,Beverages,Juice,2657.18,3778.03,North East,Gombe
+03/11/2024,ORD555683,Christine Burns,CUST59865,Female,PRD4617,16,Fashion,Cap,2118.53,2531.84,South West,Ekiti
+26/02/2025,ORD337864,Ellen Lopez,CUST12954,Female,PRD5133,5,Household,Detergent,3026.76,3445.97,North East,Borno
+10/06/2024,ORD121671,Dylan Thomas,CUST79901,Female,PRD2761,20,Electronics,Smartphone,1842.95,2533.39,North East,Bauchi
+04/09/2024,ORD439404,Crystal Davis,CUST2089,Female,PRD2193,4,Electronics,Smartphone,1538.78,1767.37,South West,Osun
+16/04/2025,ORD565646,Andrea Thompson,CUST34407,Male,PRD4162,14,Beverages,Juice,1065.32,1577.96,South South,Akwa Ibom
+25/08/2024,ORD919824,Christina Lee,CUST68802,Female,PRD9673,20,Fashion,Shoes,3435.65,3792.66,South South,Akwa Ibom
+16/05/2024,ORD987400,Madeline Knox,CUST21325,Male,PRD3577,4,Groceries,Vegetable Oil,2383.39,3269,North West,Katsina
+20/01/2025,ORD385641,Kimberly Rios,CUST42659,Female,PRD6969,15,Electronics,Smartphone,1943.77,2598.01,North East,Yobe
+02/10/2024,ORD392639,Heidi Hardy,CUST10625,Female,PRD4747,3,Beverages,Soft Drink,2429.65,3609.26,South South,Rivers
+24/06/2024,ORD817550,Anthony Berry,CUST92041,Male,PRD9607,1,Groceries,Beans,780.26,1036.21,South East,Imo
+11/06/2024,ORD765084,Lucas Lewis,CUST38549,Male,PRD3468,2,Fashion,Cap,3720.61,4606.76,North East,Borno
+19/05/2024,ORD172508,Bonnie Ellis,CUST61118,Male,PRD7410,15,Fashion,Trousers,1220.85,1746.02,North East,Yobe
+25/12/2024,ORD736436,Hannah Edwards,CUST27560,Male,PRD9974,9,Beverages,Bottle Water,4757.22,6601.57,North West,Jigawa
+20/07/2024,ORD484447,Daniel Simmons,CUST76027,Female,PRD7835,9,Household,Dishwasher,1326.38,1596.89,North West,Zamfara
+27/01/2025,ORD630318,Donald Flowers,CUST72190,Female,PRD1487,20,Fashion,Shirt,3325.66,4546.24,South West,Ogun
+07/12/2024,ORD977548,Debra Carpenter,CUST32504,Male,PRD1867,15,Electronics,Tablet,4140.02,5390.2,South East,Abia
+12/03/2025,ORD299269,Krista Cobb,CUST57535,Male,PRD6988,16,Electronics,Smartphone,732.14,902.89,North West,Zamfara
+18/07/2024,ORD554437,Chelsea Rios,CUST74874,Male,PRD5749,3,Beverages,Soft Drink,3969.14,4646.81,South East,Anambra
+16/02/2025,ORD606475,Hannah Green,CUST5441,Female,PRD8952,5,Fashion,Shirt,1748.3,2140.64,South South,Edo
+18/03/2025,ORD68116,Lisa Mccarthy,CUST39254,Male,PRD1052,17,Beverages,Juice,1846.73,2577.46,North West,Sokoto
+27/04/2025,ORD847835,Theresa Key,CUST6762,Female,PRD5860,9,Household,Detergent,3579.16,5248.45,South West,Ekiti
+26/03/2025,ORD656757,Michelle Harmon,CUST6080,Male,PRD9792,17,Fashion,Shoes,2591.15,3595.17,South East,Ebonyi
+04/09/2024,ORD44206,Tara Carter,CUST30559,Female,PRD7819,18,Electronics,Charger,2004.11,2578.88,South East,Imo
+13/09/2024,ORD674671,Jonathan Hunter,CUST49279,Male,PRD2446,17,Beverages,Juice,4520.32,5980.45,South West,Lagos
+22/11/2024,ORD915838,Sherry Caldwell,CUST92159,Male,PRD5578,19,Groceries,Rice,1786.63,2121.09,North West,Kaduna
+17/01/2025,ORD424826,Andrew Lopez,CUST31645,Male,PRD7294,8,Household,Dishwasher,1013.48,1426.26,South West,Oyo
+15/06/2024,ORD487194,Charles Reyes,CUST91995,Male,PRD3781,9,Beverages,Soft Drink,1774.92,2197.44,North Central,FCT
+16/08/2024,ORD856033,Jay Walker,CUST19544,Female,PRD3012,18,Groceries,Vegetable Oil,1490.55,1863.64,North East,Borno
+03/12/2024,ORD793016,John Roberts,CUST73024,Male,PRD3941,1,Electronics,Charger,4200.36,4740.59,North East,Taraba
+05/02/2025,ORD886717,Joanne Peters,CUST36378,Female,PRD4683,5,Groceries,Palm Oil,2925.25,3407.36,South South,Delta
+28/09/2024,ORD547401,Thomas Garner,CUST53833,Male,PRD7164,18,Fashion,Shirt,4721.13,6498.45,North West,Kebbi
+04/01/2025,ORD448284,Robert Singleton,CUST17181,Female,PRD4066,1,Beverages,Juice,3064.33,3379.72,South South,Akwa Ibom
+26/06/2024,ORD986852,Natalie Rodriguez,CUST33583,Female,PRD1329,6,Beverages,Bottle Water,2562.71,3514.67,North West,Kebbi
+23/02/2025,ORD35108,Brianna Coleman,CUST46899,Male,PRD3498,2,Fashion,Shirt,777.41,1079.74,South East,Imo
+17/12/2024,ORD98741,Leslie Saunders,CUST16627,Female,PRD4277,6,Electronics,Laptop,2468.26,3062.8,North Central,Nasarawa
+29/06/2024,ORD353182,Robert Phillips,CUST16387,Male,PRD2983,4,Electronics,Charger,4434.15,6081.76,North West,Jigawa
+29/09/2024,ORD20231,Colleen Morse,CUST98526,Female,PRD3405,4,Electronics,Laptop,3853.93,5302.63,South South,Akwa Ibom
+17/09/2024,ORD896161,Michael Bolton,CUST91510,Male,PRD4736,17,Electronics,Smartphone,1580.31,2293.31,South East,Abia
+24/11/2024,ORD331890,Mrs. Emily Wright,CUST57739,Female,PRD1207,12,Household,Detergent,3207.64,4261.2,North West,Katsina
+03/02/2025,ORD882585,Gabriella Walker,CUST16595,Male,PRD4335,19,Household,Toilet Paper,4264.19,6119.75,North East,Gombe
+07/12/2024,ORD415668,Sherry Ochoa,CUST85573,Female,PRD1383,9,Fashion,Trousers,3111.4,3781.42,North Central,Benue
+06/11/2024,ORD615800,Mark Richardson,CUST85666,Male,PRD6226,6,Fashion,Cap,4626.65,5403.5,North West,Kano
+06/04/2025,ORD163137,Hannah Davis,CUST30770,Male,PRD7281,6,Household,Dishwasher,1249.41,1588.64,South East,Ebonyi
+21/03/2025,ORD658057,Michael Smith,CUST17981,Female,PRD5048,12,Electronics,Tablet,649.9,900.68,South South,Delta
+02/02/2025,ORD11305,Cody Carroll,CUST27668,Male,PRD5425,17,Household,Detergent,1751.74,2176.43,North West,Kaduna
+02/02/2025,ORD225726,Christopher Coleman,CUST63061,Female,PRD8516,10,Electronics,Tablet,728.42,1048.23,South West,Ondo
+06/11/2024,ORD591101,Larry Ward,CUST85321,Male,PRD6440,20,Groceries,Beans,3242.41,4339.65,North Central,Plateau
+09/02/2025,ORD1577,Susan Davis,CUST28797,Male,PRD8385,18,Household,Detergent,1813.52,2716.35,North Central,Plateau
+26/03/2025,ORD621220,Renee Brown,CUST14761,Male,PRD7482,6,Household,Toilet Paper,1731.21,2102.6,South East,Abia
+27/04/2025,ORD659805,Victoria Lee,CUST82411,Female,PRD5585,6,Electronics,Tablet,3106.34,4416.02,South West,Lagos
+25/04/2025,ORD321530,Jennifer Cole,CUST10256,Male,PRD2661,13,Beverages,Juice,2746.54,3446.41,North West,Kaduna
+16/11/2024,ORD387774,Michelle Clark,CUST64500,Male,PRD9568,5,Household,Dishwasher,3723.06,5016.22,South East,Enugu
+27/08/2024,ORD109211,Kristen Larson,CUST79111,Female,PRD3268,18,Beverages,Soft Drink,4679.92,5486.48,North East,Borno
+13/01/2025,ORD368216,Nancy Garcia,CUST79185,Female,PRD7025,7,Household,Detergent,3315.48,3723.16,North East,Borno
+04/01/2025,ORD984642,Elizabeth Adams,CUST96515,Male,PRD6401,1,Groceries,Rice,4487.13,6635.68,North Central,Kogi
+26/09/2024,ORD237937,Brenda Munoz,CUST16083,Female,PRD9938,14,Household,Toilet Paper,1337.39,1489.7,South West,Ogun
+05/09/2024,ORD434103,Brandon Grant,CUST48920,Female,PRD6481,7,Household,Dishwasher,3263.92,4560.28,South West,Oyo
+18/04/2025,ORD182112,Jerry Kerr,CUST6754,Female,PRD9724,15,Groceries,Vegetable Oil,4411.27,5005.9,North West,Kaduna
+05/01/2025,ORD193281,Michael Arellano,CUST35013,Female,PRD3469,12,Electronics,Charger,1742.42,2427.61,North Central,Kogi
+08/11/2024,ORD406396,Larry Moses,CUST91326,Female,PRD7217,14,Household,Toilet Paper,635.19,738.88,North East,Bauchi
+11/07/2024,ORD107829,Kevin Hall,CUST11535,Male,PRD1340,13,Groceries,Vegetable Oil,2525.34,3351.34,South West,Osun
+31/08/2024,ORD68002,John Young,CUST74708,Male,PRD3165,18,Beverages,Juice,1544.19,2056.13,South East,Ebonyi
+16/11/2024,ORD885567,Michael Walker,CUST69116,Male,PRD3557,9,Groceries,Beans,4724.29,6292.08,South East,Imo
+03/12/2024,ORD977082,Dr. Vanessa Griffin,CUST25615,Female,PRD8506,15,Beverages,Soft Drink,4610.95,6268.9,North West,Katsina
+30/11/2024,ORD95694,Steven Benitez,CUST89205,Male,PRD8179,4,Electronics,Charger,1017.92,1515.31,North Central,Nasarawa
+08/01/2025,ORD337457,Willie Crawford,CUST76628,Female,PRD6058,7,Electronics,Tablet,4984.35,6512.53,North East,Gombe
+06/07/2024,ORD528,Cody Peters,CUST54259,Female,PRD9338,1,Fashion,Shirt,2324.17,2631.61,South East,Anambra
+17/10/2024,ORD896283,Kimberly Ryan,CUST32198,Male,PRD9657,18,Fashion,Shoes,4655.85,5898.56,South East,Ebonyi
+01/12/2024,ORD386550,Crystal Gutierrez,CUST41372,Female,PRD8489,9,Household,Dishwasher,3302.07,3865.14,North Central,FCT
+21/07/2024,ORD595743,Eric Robbins,CUST99096,Female,PRD7350,4,Electronics,Charger,2082.99,3008.59,South East,Imo
+03/05/2025,ORD983415,Mark Stewart,CUST97,Female,PRD5440,9,Groceries,Vegetable Oil,4714.81,6461.09,South East,Imo
+11/03/2025,ORD838023,Derrick Lindsey,CUST40735,Male,PRD5017,13,Electronics,Charger,2822.48,3973.52,North Central,Nasarawa
+09/04/2025,ORD835114,Don Davis,CUST73738,Male,PRD8190,16,Beverages,Juice,4733.68,7053.97,North Central,Kwara
+05/09/2024,ORD2496,Elijah Foley,CUST15162,Female,PRD7899,15,Household,Detergent,2223.82,3103.04,South South,Akwa Ibom
+10/10/2024,ORD329325,Catherine Thompson,CUST5535,Female,PRD6186,11,Electronics,Tablet,4429.66,6489.95,North West,Kebbi
+16/01/2025,ORD444821,Russell Mckenzie,CUST44334,Male,PRD9790,9,Beverages,Juice,1942.57,2597.62,North West,Sokoto
+18/04/2025,ORD820116,Courtney Garcia,CUST99009,Female,PRD5345,12,Fashion,Trousers,2591.05,3357.18,North East,Adamawa
+07/08/2024,ORD577957,Marcus Reed,CUST46335,Male,PRD6641,4,Groceries,Beans,2866.69,3603.8,South West,Osun
+15/08/2024,ORD783590,Patricia Adkins,CUST72180,Male,PRD9696,15,Fashion,Trousers,2917.65,3822.66,North West,Sokoto
+29/01/2025,ORD596684,Kathryn Farrell,CUST48740,Female,PRD9574,19,Beverages,Juice,4988.25,6601.81,North West,Jigawa
+21/12/2024,ORD326101,Michael Pena,CUST72253,Male,PRD7278,11,Groceries,Beans,4695.37,5644.47,North East,Taraba
+05/06/2024,ORD299077,Kevin Johnson,CUST90947,Female,PRD4247,7,Beverages,Soft Drink,4974.12,6737.11,South East,Imo
+06/03/2025,ORD28809,Bryan Velez,CUST77890,Male,PRD1330,20,Household,Dishwasher,1203.24,1736.95,North Central,Plateau
+21/02/2025,ORD769993,Kyle Holloway,CUST1486,Female,PRD7233,17,Beverages,Soft Drink,4624.72,6137.76,North Central,FCT
+15/06/2024,ORD171747,Joshua Mitchell,CUST51590,Male,PRD4791,13,Beverages,Juice,1416.68,1963.12,North Central,Kogi
+26/07/2024,ORD795087,Ryan Chase,CUST13631,Female,PRD2854,13,Beverages,Juice,3538.96,5024.73,South South,Bayelsa
+08/06/2024,ORD651756,Kurt Murphy,CUST99271,Female,PRD2253,2,Household,Toilet Paper,965.21,1091.8,South East,Ebonyi
+02/02/2025,ORD109440,Kevin Foster,CUST78955,Male,PRD4384,16,Beverages,Bottle Water,3779.72,5464.68,South West,Osun
+18/08/2024,ORD731397,Julie Elliott,CUST38413,Male,PRD4733,8,Electronics,Charger,3548.55,4636.51,North West,Jigawa
+21/10/2024,ORD934419,Chad Lopez,CUST50664,Male,PRD4125,6,Beverages,Soft Drink,601.21,794.41,South East,Imo
+10/04/2025,ORD108710,Matthew Finley,CUST1521,Male,PRD9295,1,Electronics,Laptop,1676.56,2444.19,South West,Ondo
+27/06/2024,ORD124196,Elizabeth Marshall,CUST19587,Female,PRD9404,19,Fashion,Shoes,1687.96,2028.41,South South,Akwa Ibom
+13/08/2024,ORD642846,Daniel Pierce,CUST9823,Male,PRD5786,13,Groceries,Palm Oil,3748.31,4761.4,North Central,Kogi
+01/09/2024,ORD171099,Edward Jones,CUST81630,Male,PRD6817,8,Electronics,Tablet,3830.49,4795,South West,Ondo
+01/11/2024,ORD832660,Stephen Lloyd,CUST75730,Female,PRD8832,13,Beverages,Juice,4194.21,6157.13,South West,Oyo
+27/06/2024,ORD629362,James Hall,CUST85515,Female,PRD3168,8,Beverages,Soft Drink,4708.78,6538.94,South South,Akwa Ibom
+13/12/2024,ORD287045,Kathleen Steele MD,CUST25331,Male,PRD9097,16,Electronics,Charger,2874.67,4153.81,South East,Enugu
+13/04/2025,ORD560044,Brandon Wilson,CUST84926,Female,PRD3996,12,Household,Detergent,4495.7,5573.94,North West,Kano
+16/04/2025,ORD607779,Jorge Strickland,CUST77402,Female,PRD3526,2,Groceries,Rice,2697.14,3480.92,South West,Ondo
+22/11/2024,ORD434141,Tammy Edwards,CUST87670,Male,PRD4404,20,Beverages,Bottle Water,2866.4,3589.8,South South,Delta
+07/09/2024,ORD683388,Mary Cook,CUST2572,Female,PRD7024,14,Household,Detergent,4180.94,5940.46,South West,Oyo
+09/05/2024,ORD612742,Nicole Mason,CUST41215,Female,PRD9018,3,Beverages,Juice,1939.32,2570.83,South East,Enugu
+10/12/2024,ORD176408,Dominique Davidson,CUST27133,Female,PRD3568,1,Fashion,Shoes,1021.15,1160.06,North West,Katsina
+21/06/2024,ORD327643,Melissa Rose,CUST17276,Male,PRD6801,7,Fashion,Shirt,2642.03,3649.21,North East,Taraba
+13/11/2024,ORD329240,Amber Martinez,CUST7955,Male,PRD9146,6,Electronics,Tablet,622.43,815.47,North West,Zamfara
+04/04/2025,ORD71839,Susan Cardenas,CUST14002,Female,PRD8492,20,Electronics,Smartphone,3072.43,4462.89,North West,Kano
+07/10/2024,ORD668428,Laura Rios,CUST16552,Female,PRD8366,13,Household,Detergent,2267.26,2806.26,North West,Kano
+30/03/2025,ORD506455,Karen Anderson,CUST9796,Female,PRD3144,14,Groceries,Beans,4228.6,5886.74,North East,Borno
+31/05/2024,ORD240107,Samantha Hill,CUST1152,Male,PRD4444,2,Fashion,Shirt,1889.1,2230.12,South West,Oyo
+11/04/2025,ORD838101,Robert Villanueva,CUST5625,Female,PRD8033,3,Fashion,Cap,1674.54,1885.19,South East,Ebonyi
+09/02/2025,ORD267398,Rhonda Rhodes,CUST3107,Female,PRD9804,3,Household,Dishwasher,1209.83,1437.28,North West,Kaduna
+29/10/2024,ORD440742,Donna Chambers,CUST40914,Female,PRD2726,15,Beverages,Soft Drink,1622.96,1892.9,South West,Lagos
+19/11/2024,ORD202342,Karla Kennedy,CUST8350,Female,PRD8853,5,Fashion,Cap,2241.91,3080.42,South West,Ondo
+21/10/2024,ORD895417,Russell Juarez,CUST68921,Male,PRD8147,14,Fashion,Cap,861.65,1199.15,South South,Akwa Ibom
+06/11/2024,ORD654624,Trevor Clayton,CUST78591,Male,PRD1704,5,Groceries,Vegetable Oil,3065.16,3690.1,North West,Kaduna
+20/02/2025,ORD502767,Timothy Simpson,CUST60251,Female,PRD2489,19,Electronics,Smartphone,637.54,851.81,South West,Ekiti
+14/04/2025,ORD426139,Mr. Robert Brown,CUST71908,Male,PRD6172,7,Electronics,Laptop,3558.57,4898.44,North East,Gombe
+26/01/2025,ORD196524,Karen Rivera,CUST27670,Female,PRD6078,20,Fashion,Shoes,1356.2,1972.31,North Central,Kogi
+20/01/2025,ORD485279,Kayla Nolan,CUST43053,Male,PRD3430,2,Household,Dishwasher,1685.18,1892.44,North Central,Kogi
+12/03/2025,ORD681328,Dr. Tony Brown,CUST2244,Female,PRD6858,8,Beverages,Soft Drink,1010.32,1236.5,South West,Ondo
+13/05/2024,ORD68487,Tiffany Owens,CUST86663,Female,PRD2482,20,Fashion,Shirt,847.66,973.01,North West,Jigawa
+28/09/2024,ORD763671,Anthony Pierce,CUST25314,Male,PRD4217,20,Groceries,Vegetable Oil,2152.06,2446.12,North Central,Niger
+29/01/2025,ORD303078,Courtney Smith,CUST28095,Male,PRD4146,9,Beverages,Bottle Water,3692.72,4260.56,North Central,Niger
+23/10/2024,ORD472063,Kelly Thompson,CUST38673,Female,PRD6661,3,Beverages,Bottle Water,2924.27,3852.99,North East,Borno
+16/03/2025,ORD237687,Robert Hanna,CUST63711,Male,PRD8515,20,Household,Detergent,3866.47,4999.64,North East,Yobe
+12/12/2024,ORD719454,Jason Stevens,CUST43390,Female,PRD8945,1,Fashion,Shoes,3142.72,3739.25,North Central,Kwara
+05/11/2024,ORD735728,Sandra Lee,CUST74096,Male,PRD6474,13,Household,Dishwasher,2126.72,2832.42,North West,Jigawa
+17/11/2024,ORD284319,Katherine Thompson,CUST69855,Female,PRD5657,16,Groceries,Vegetable Oil,2527.4,3472.44,North Central,Niger
+21/03/2025,ORD522568,Anita Valdez MD,CUST16450,Female,PRD8675,4,Groceries,Rice,2255.88,2880.33,South West,Oyo
+16/05/2024,ORD432696,Melissa Stone,CUST50735,Female,PRD7297,11,Beverages,Bottle Water,2709.15,3639.64,South South,Bayelsa
+11/11/2024,ORD867705,John Lewis,CUST92063,Male,PRD9377,1,Groceries,Beans,3680.61,5100.34,North West,Jigawa
+08/12/2024,ORD694292,Meghan Martinez,CUST18805,Female,PRD2355,10,Groceries,Palm Oil,4162.8,5983.22,South South,Cross River
+11/08/2024,ORD375768,Rachel Garrison,CUST2184,Female,PRD4009,3,Fashion,Shoes,1360.43,1721.45,South East,Ebonyi
+07/05/2024,ORD310858,Christopher Petersen,CUST78056,Female,PRD3423,20,Fashion,Shoes,2955.62,3790.42,North Central,Niger
+04/11/2024,ORD518850,Dorothy Watson,CUST12496,Male,PRD2108,9,Electronics,Smartphone,1940.12,2427.96,North West,Sokoto
+06/06/2024,ORD586611,Craig Rice,CUST78651,Female,PRD7124,12,Groceries,Vegetable Oil,2704.71,3163.56,North Central,Niger
+20/06/2024,ORD802930,Lisa Henderson,CUST2547,Female,PRD9605,12,Beverages,Bottle Water,1249.84,1494.19,North West,Zamfara
+07/09/2024,ORD810882,David Martinez,CUST57088,Female,PRD7085,14,Household,Toilet Paper,4448.59,6044.98,North West,Kaduna
+06/02/2025,ORD415159,Robert Martin,CUST57652,Male,PRD6012,8,Beverages,Juice,4336.33,5122.4,South South,Cross River
+17/09/2024,ORD429072,Pamela Robinson,CUST34596,Male,PRD6050,13,Fashion,Shoes,4082.92,5887.84,South South,Cross River
+19/12/2024,ORD215610,Jon Love,CUST22311,Male,PRD4216,20,Beverages,Juice,790.29,1034.82,South East,Enugu
+14/05/2024,ORD455300,David Duncan,CUST96088,Male,PRD4468,5,Household,Toilet Paper,2046.83,2901.03,South South,Delta
+28/09/2024,ORD653052,Monica Johnson,CUST23300,Male,PRD5758,9,Groceries,Rice,4032.81,5380.43,North Central,Plateau
+03/06/2024,ORD427992,Amy Davis,CUST88156,Male,PRD8155,7,Fashion,Trousers,846.54,1111.29,South East,Imo
+19/02/2025,ORD927955,John Barker,CUST39035,Female,PRD2523,12,Fashion,Shoes,2556.55,3116.22,North Central,Nasarawa
+07/03/2025,ORD490037,William Perez,CUST52919,Female,PRD9610,19,Fashion,Cap,3718.82,5042.62,North West,Kebbi
+04/05/2025,ORD262057,Tiffany Moore,CUST67707,Male,PRD2002,10,Household,Detergent,3683.01,4315.02,South East,Imo
+14/11/2024,ORD777052,Franklin Oneill,CUST47810,Male,PRD4897,3,Fashion,Shirt,1370.49,1823.58,North West,Sokoto
+21/05/2024,ORD602165,Christopher Byrd,CUST42624,Male,PRD6831,11,Fashion,Shirt,2931.38,4212.94,North East,Adamawa
+23/12/2024,ORD741873,David Mason,CUST89109,Male,PRD1608,10,Fashion,Shoes,893.9,1290.42,North East,Adamawa
+07/06/2024,ORD687009,Kelly Hanson,CUST49823,Female,PRD2248,2,Beverages,Juice,1140.04,1556.66,North West,Kaduna
+12/03/2025,ORD410597,William Schultz,CUST68897,Female,PRD2286,18,Household,Toilet Paper,900.04,1144.4,South West,Ekiti
+21/09/2024,ORD462413,Alexandria Hall,CUST96682,Female,PRD4572,16,Fashion,Shirt,2564.1,2982.3,North West,Zamfara
+06/07/2024,ORD542838,Daniel Galloway,CUST3725,Male,PRD3538,16,Groceries,Palm Oil,3393.35,4870.89,North West,Jigawa
+16/02/2025,ORD943662,Stephanie Blanchard,CUST8371,Female,PRD5881,13,Electronics,Tablet,2460.27,3613.12,North West,Kebbi
+15/03/2025,ORD270099,Linda Wright,CUST58462,Female,PRD8461,11,Fashion,Shirt,2158.6,2415.44,North East,Adamawa
+12/06/2024,ORD676784,William Obrien,CUST1450,Male,PRD7940,20,Fashion,Shoes,872.62,1238.76,South South,Rivers
+20/08/2024,ORD90534,Aaron Rodriguez,CUST49639,Female,PRD7591,5,Household,Dishwasher,4547.9,5237.91,South East,Abia
+10/04/2025,ORD820202,Krystal Garrison,CUST16591,Female,PRD8925,3,Fashion,Cap,1488.6,1709.94,South West,Ogun
+15/03/2025,ORD786760,Donald Lewis,CUST75764,Male,PRD1209,6,Groceries,Vegetable Oil,1544.32,2246.86,North West,Kano
+08/05/2024,ORD364670,Susan Paul,CUST4099,Female,PRD5644,4,Electronics,Charger,3687.83,5013.7,South South,Delta
+02/03/2025,ORD261859,Rachel Wilson,CUST12232,Female,PRD2789,8,Fashion,Shirt,2058.49,2732.99,North Central,Kogi
+26/04/2025,ORD104176,Sandra Tucker,CUST86302,Female,PRD7659,12,Electronics,Tablet,1509.32,2070.62,South West,Ogun
+01/07/2024,ORD254095,William Contreras,CUST52453,Female,PRD7432,8,Fashion,Cap,4586.51,6083.08,South West,Oyo
+27/02/2025,ORD6710,Lisa Guzman,CUST26180,Male,PRD9220,17,Beverages,Bottle Water,4091.87,5093.27,North Central,Plateau
+04/04/2025,ORD549079,Allison Harvey,CUST54111,Male,PRD2731,3,Household,Dishwasher,3842.39,4313.62,North Central,Kogi
+16/07/2024,ORD181906,Denise Padilla,CUST43805,Male,PRD2200,18,Fashion,Shoes,1208.06,1715.9,North West,Kaduna
+16/06/2024,ORD462145,Scott Gonzalez,CUST31471,Female,PRD3219,4,Fashion,Shirt,3695.74,4412.83,North East,Taraba
+01/06/2024,ORD77294,Walter Beck,CUST52560,Female,PRD8346,8,Groceries,Rice,2333.35,3082.1,North West,Kano
+16/02/2025,ORD300712,Marissa Myers,CUST53820,Female,PRD6325,12,Fashion,Trousers,1335.32,1825.09,North West,Kano
+02/04/2025,ORD993754,Nancy Martin,CUST79119,Male,PRD1330,3,Fashion,Trousers,1704.74,2050.23,North Central,Niger
+30/04/2025,ORD399744,Laura Carter,CUST70039,Female,PRD7269,13,Beverages,Bottle Water,1870.62,2325.11,South West,Oyo
+05/02/2025,ORD501066,Noah Gould,CUST16144,Female,PRD9968,6,Electronics,Charger,707.56,861.77,North West,Zamfara
+15/05/2024,ORD931035,Dennis Miller,CUST79001,Male,PRD9500,12,Groceries,Vegetable Oil,4791.49,6350.32,North West,Sokoto
+09/09/2024,ORD767756,Vickie Wu,CUST73589,Male,PRD3886,8,Fashion,Shirt,4632.02,6491.44,South West,Ekiti
+24/02/2025,ORD976377,Amy Fisher,CUST78867,Male,PRD8476,19,Electronics,Laptop,3763.76,4686.49,South South,Rivers
+09/10/2024,ORD307926,Christina Stout,CUST12725,Female,PRD4242,18,Beverages,Juice,1985.01,2448.16,North Central,Benue
+19/01/2025,ORD758139,James Smith,CUST1173,Female,PRD1404,7,Fashion,Cap,689.18,784.05,South West,Lagos
+14/05/2024,ORD654821,Kevin Lambert,CUST91431,Female,PRD2256,5,Beverages,Bottle Water,1413.93,1696.48,South East,Enugu
+05/10/2024,ORD689005,Craig Rowe,CUST92965,Female,PRD8540,4,Household,Toilet Paper,1832.53,2182.17,South South,Rivers
+19/05/2024,ORD392037,Debra Hansen,CUST71967,Female,PRD5174,1,Electronics,Laptop,1322.16,1534.61,North East,Adamawa
+20/11/2024,ORD788936,Kevin Ortiz,CUST77569,Male,PRD5162,10,Groceries,Rice,1440.29,1730.67,South West,Ogun
+23/11/2024,ORD538206,Charles Cabrera,CUST96265,Male,PRD7061,1,Beverages,Juice,4095.84,5317.51,North Central,Niger
+09/02/2025,ORD203278,Gwendolyn Anderson,CUST61100,Female,PRD4124,6,Groceries,Rice,2777.16,3546.59,South West,Ogun
+05/12/2024,ORD758957,Darlene Nguyen,CUST76763,Female,PRD2805,6,Beverages,Bottle Water,3422,3946.12,South South,Rivers
+26/10/2024,ORD8103,Ryan Wu,CUST58896,Male,PRD4841,17,Fashion,Shoes,4627.68,5467.81,North Central,Nasarawa
+12/12/2024,ORD693694,Lori Robertson,CUST67994,Male,PRD7340,16,Groceries,Beans,3707.95,5195.39,North East,Adamawa
+05/01/2025,ORD711179,Gloria Garcia,CUST63851,Female,PRD7939,12,Household,Toilet Paper,3376.22,4875.66,South West,Ogun
+18/02/2025,ORD688058,Christopher Adkins,CUST81761,Female,PRD1060,4,Beverages,Soft Drink,3494.36,4512.33,South South,Cross River
+07/06/2024,ORD977354,Donna Torres,CUST77649,Male,PRD8100,12,Beverages,Bottle Water,2343.09,3404.9,North West,Jigawa
+09/01/2025,ORD819506,Steven Ramirez,CUST78105,Male,PRD8859,7,Groceries,Rice,4936.9,5581.03,South South,Cross River
+28/01/2025,ORD234021,Kelsey Sullivan,CUST44719,Male,PRD7444,14,Household,Dishwasher,3542.56,4716.4,South East,Abia
+30/03/2025,ORD929693,Kayla Davis,CUST25614,Female,PRD3723,16,Groceries,Palm Oil,2982.65,3934.24,North East,Gombe
+26/09/2024,ORD329619,Tracy Frederick,CUST65781,Female,PRD2629,1,Household,Detergent,2424.6,3588.31,North East,Yobe
+28/07/2024,ORD896230,Andrew Ruiz,CUST70766,Female,PRD2316,7,Electronics,Smartphone,1440.82,1691.33,South East,Imo
+03/11/2024,ORD406566,Christopher Johnson,CUST77142,Female,PRD5575,5,Electronics,Charger,868.53,1073.34,North East,Yobe
+12/06/2024,ORD339836,Jacqueline Sanchez,CUST85748,Female,PRD9795,6,Electronics,Laptop,4241.87,5411.09,North West,Kaduna
+31/03/2025,ORD110121,Shawn Davis,CUST74227,Female,PRD3925,7,Groceries,Beans,2911.11,3511.18,South East,Anambra
+26/03/2025,ORD202664,Paul Pineda,CUST65593,Male,PRD4164,10,Groceries,Rice,1340.92,1888.2,North East,Adamawa
+29/01/2025,ORD372535,Teresa Jackson,CUST12223,Male,PRD4915,16,Beverages,Juice,1346.38,1825.27,North Central,Kogi
+01/07/2024,ORD415992,Rebecca Lee,CUST45961,Female,PRD4465,20,Fashion,Shoes,3393.44,3734.76,South South,Cross River
+21/04/2025,ORD482011,Amy House,CUST47213,Female,PRD2480,19,Household,Toilet Paper,1307.63,1547.48,South West,Osun
+16/11/2024,ORD149991,Darrell Glover,CUST33888,Male,PRD9724,15,Groceries,Palm Oil,3442.44,4542.65,South East,Imo
+02/01/2025,ORD589544,Christy Johnson,CUST93589,Female,PRD4858,18,Fashion,Shoes,3593.9,4755.45,North East,Adamawa
+17/11/2024,ORD128554,Seth Johnson,CUST88301,Female,PRD2717,13,Household,Toilet Paper,3879.15,4399.33,South East,Imo
+21/04/2025,ORD475988,Scott Melton,CUST97996,Female,PRD4858,20,Electronics,Laptop,1532,2264.97,South West,Ondo
+28/07/2024,ORD93333,Charles Mueller,CUST91252,Female,PRD7667,13,Groceries,Beans,4248.7,6329.1,North East,Borno
+15/08/2024,ORD500253,Nicholas Delacruz,CUST73398,Female,PRD7545,16,Groceries,Rice,4882.56,5895.67,North Central,Kogi
+20/05/2024,ORD629916,Katrina Walton,CUST16564,Male,PRD5295,13,Fashion,Cap,4478.71,6304.06,South South,Edo
+01/01/2025,ORD256573,Denise Rose,CUST49682,Female,PRD9322,9,Groceries,Vegetable Oil,4408.9,6523.85,South South,Delta
+06/02/2025,ORD602736,Carl Nguyen,CUST93828,Female,PRD9155,13,Fashion,Shoes,1088,1486.8,South South,Cross River
+06/05/2024,ORD726794,Dean Edwards,CUST85731,Male,PRD5465,20,Beverages,Bottle Water,3788.81,4798.01,South East,Ebonyi
+29/09/2024,ORD127527,Ana May,CUST53045,Male,PRD3189,17,Household,Detergent,2737.05,3230.14,North East,Taraba
+20/01/2025,ORD41357,Craig Bright,CUST78601,Male,PRD8360,14,Fashion,Cap,4770.25,6934.59,South East,Ebonyi
+20/07/2024,ORD24336,Melissa Glenn,CUST60964,Female,PRD1512,9,Beverages,Bottle Water,4380.1,4963.53,North East,Borno
+02/01/2025,ORD991498,Scott Cochran,CUST3977,Male,PRD3484,11,Electronics,Tablet,4719.13,5554.33,South West,Ogun
+22/08/2024,ORD218067,Travis Lee,CUST98143,Female,PRD1487,9,Household,Detergent,3212.77,4685.43,North West,Zamfara
+09/04/2025,ORD712328,Kathleen Lopez,CUST51550,Female,PRD2560,4,Groceries,Beans,786.28,1092.41,South West,Oyo
+15/11/2024,ORD891023,Stephanie Murphy,CUST62009,Male,PRD4121,14,Beverages,Juice,4814.15,6887.01,North Central,Kogi
+20/03/2025,ORD254921,Mary Kirk,CUST17317,Male,PRD8152,20,Groceries,Beans,2302.8,3296.42,North West,Kano
+06/04/2025,ORD371909,Andrew Decker,CUST84209,Male,PRD3933,2,Household,Toilet Paper,1520.27,1800.76,South South,Edo
+12/04/2025,ORD372451,Timothy Smith,CUST27444,Male,PRD3216,10,Groceries,Palm Oil,1570.5,1986.04,South East,Abia
+14/01/2025,ORD275789,Michael Howard,CUST2721,Male,PRD4313,2,Groceries,Vegetable Oil,4254.59,5816.79,South West,Oyo
+01/04/2025,ORD988473,David Cole,CUST39862,Male,PRD8062,12,Groceries,Vegetable Oil,3908.07,4850.8,South South,Edo
+25/09/2024,ORD974336,Jennifer Clark,CUST18526,Male,PRD5763,8,Groceries,Palm Oil,1796.23,2554.85,North Central,Benue
+29/03/2025,ORD860162,Stephanie Carter,CUST53362,Male,PRD5612,9,Fashion,Shirt,2601.72,3544.67,South South,Cross River
+30/12/2024,ORD156486,Geoffrey Benitez DVM,CUST97230,Male,PRD1838,7,Household,Toilet Paper,1502.57,1873.55,South South,Rivers
+08/02/2025,ORD280340,Anthony Brown,CUST72557,Female,PRD2368,2,Household,Toilet Paper,2699.29,3626.48,South West,Osun
+19/11/2024,ORD371544,Michael Harmon,CUST53415,Female,PRD4827,19,Groceries,Rice,3089.33,4491.26,South West,Ogun
+22/10/2024,ORD79178,Steven Henderson,CUST41349,Female,PRD1391,13,Fashion,Cap,3021.62,3333.88,South West,Ondo
+05/03/2025,ORD106194,Gerald Vasquez,CUST72794,Male,PRD6606,1,Groceries,Palm Oil,3904.89,4407.04,South West,Osun
+05/01/2025,ORD190695,Kelsey Hobbs,CUST84064,Male,PRD9585,18,Household,Dishwasher,4477.49,6174.85,South South,Delta
+02/06/2024,ORD705522,James Kim,CUST22517,Male,PRD6463,19,Fashion,Shoes,2107.06,2644.48,South West,Oyo
+10/05/2024,ORD370907,Bradley Barker,CUST36898,Male,PRD8759,19,Household,Dishwasher,1109.73,1645.51,South West,Osun
+18/11/2024,ORD74762,Tina Blake,CUST87484,Female,PRD3268,15,Groceries,Palm Oil,1522.04,2199.87,South South,Bayelsa
+16/05/2024,ORD527774,Matthew Meyer,CUST86868,Male,PRD3548,13,Beverages,Bottle Water,3396.28,4761,South East,Anambra
+24/07/2024,ORD48311,Kelly Duffy,CUST68923,Male,PRD3615,16,Household,Toilet Paper,1751.51,2403.51,South West,Osun
+30/08/2024,ORD95282,Laura Ferguson,CUST51271,Male,PRD5663,6,Fashion,Cap,1572.76,2350.29,North Central,Kwara
+07/06/2024,ORD351048,Kristie Downs,CUST1442,Male,PRD7960,9,Electronics,Charger,3611.28,4551.13,South East,Enugu
+10/09/2024,ORD521071,Kyle Day,CUST58070,Male,PRD6182,10,Household,Toilet Paper,1699.97,2320.59,North Central,Niger
+08/03/2025,ORD537106,Amanda Lin,CUST49926,Female,PRD1683,20,Fashion,Trousers,1397.19,1746.02,North West,Katsina
+10/01/2025,ORD856046,Rachel Nguyen,CUST7147,Male,PRD8093,19,Groceries,Palm Oil,597.95,746.24,South East,Ebonyi
+22/11/2024,ORD451441,Eric Henderson,CUST97808,Male,PRD1769,5,Beverages,Bottle Water,4333.04,4873.05,South West,Lagos
+16/12/2024,ORD816138,Carl Moore,CUST9898,Male,PRD1755,16,Household,Detergent,4105.08,5696.82,North West,Katsina
+17/02/2025,ORD962482,Elizabeth Campbell,CUST96385,Female,PRD9694,2,Electronics,Tablet,3666.34,4139.1,North East,Yobe
+21/12/2024,ORD604910,Kenneth Hayes,CUST11258,Female,PRD2459,7,Beverages,Juice,3193.1,3562.38,North West,Kano
+09/07/2024,ORD370754,Grace Cunningham,CUST41034,Male,PRD7025,16,Electronics,Charger,4052.56,5541.79,South South,Edo
+11/01/2025,ORD661732,Roy Brown,CUST98912,Female,PRD4799,11,Electronics,Smartphone,1812.48,2153.56,South East,Imo
+24/03/2025,ORD464821,Alexandra Rodriguez,CUST28291,Male,PRD6872,11,Groceries,Palm Oil,2911.11,3378.45,North Central,Benue
+16/07/2024,ORD961843,Jennifer Miller,CUST41996,Female,PRD1286,15,Beverages,Soft Drink,583.16,845.77,North West,Kaduna
+14/01/2025,ORD477290,Duane Merritt,CUST40161,Female,PRD9157,10,Electronics,Smartphone,4163.43,5249.35,North West,Kebbi
+17/06/2024,ORD976127,Erik Wilson,CUST49638,Female,PRD6285,17,Fashion,Trousers,2098.55,2967.14,North East,Gombe
+08/10/2024,ORD843825,Christopher Wolfe,CUST71521,Female,PRD1624,2,Groceries,Palm Oil,4918.83,5488.8,South West,Ogun
+19/04/2025,ORD567952,Mark Spears,CUST66073,Female,PRD8958,15,Fashion,Shoes,1417.06,1805.45,South West,Ondo
+17/02/2025,ORD839668,Ruth Fisher,CUST77634,Female,PRD2231,11,Groceries,Vegetable Oil,1529.09,2202.84,North East,Borno
+23/06/2024,ORD47682,David Woods,CUST28170,Male,PRD5213,17,Groceries,Palm Oil,673.09,998.11,South South,Bayelsa
+08/05/2024,ORD560508,Rebecca Vaughn,CUST83858,Male,PRD4602,3,Groceries,Palm Oil,4796.58,5465.78,North West,Kaduna
+23/08/2024,ORD451288,Kevin Cooley DDS,CUST55881,Female,PRD2981,19,Electronics,Smartphone,1632.15,1998.82,South South,Rivers
+12/04/2025,ORD583109,Shannon Mills,CUST18134,Female,PRD2085,6,Electronics,Tablet,1237.64,1822.97,North West,Kebbi
+15/03/2025,ORD327802,Larry Lawrence,CUST35294,Female,PRD8036,5,Electronics,Charger,2126.19,2647.38,North East,Gombe
+24/04/2025,ORD792445,Michelle Patterson,CUST51534,Male,PRD6852,4,Household,Dishwasher,2016.31,2721.72,South West,Oyo
+30/04/2025,ORD871281,Robert Rios,CUST70339,Female,PRD2944,15,Groceries,Palm Oil,2958.29,4002.9,South South,Bayelsa
+18/07/2024,ORD314716,Susan Hawkins,CUST70187,Female,PRD3778,7,Groceries,Beans,700.49,1014.96,North West,Zamfara
+23/09/2024,ORD643023,Mary Wright,CUST48412,Male,PRD6749,18,Electronics,Laptop,4604.02,6627.18,North West,Kebbi
+09/11/2024,ORD645251,Danielle Hicks,CUST31690,Female,PRD3930,14,Household,Toilet Paper,1154.18,1542.6,South West,Ekiti
+12/06/2024,ORD95125,Donald Schroeder,CUST63084,Male,PRD8187,11,Fashion,Shirt,1225.78,1473.78,North East,Yobe
+10/07/2024,ORD151662,Anita Chen,CUST21907,Female,PRD1926,10,Electronics,Tablet,3447.48,4991.42,South West,Osun
+08/09/2024,ORD167450,Ian Bartlett,CUST64818,Male,PRD1554,10,Electronics,Smartphone,2220.96,3081.69,South West,Ondo
+16/08/2024,ORD436268,Michele Acosta,CUST36531,Male,PRD2913,8,Household,Detergent,3805.74,4576.04,North Central,FCT
+29/05/2024,ORD686894,Kathryn Martinez,CUST92979,Female,PRD4218,9,Beverages,Bottle Water,746.84,853.21,North West,Kaduna
+23/11/2024,ORD1763,Lisa Wilson,CUST92247,Female,PRD5883,13,Household,Detergent,3056.25,3998.72,South East,Imo
+07/12/2024,ORD452435,Kenneth Andrews,CUST27505,Female,PRD8277,18,Beverages,Bottle Water,4026.84,5826.95,South South,Cross River
+02/01/2025,ORD140492,Eric Watson Jr.,CUST42149,Female,PRD6945,3,Beverages,Juice,4827.72,5711.77,North East,Yobe
+18/11/2024,ORD941032,Zachary Morgan,CUST45991,Male,PRD3665,19,Groceries,Palm Oil,4973.78,6008.1,North East,Taraba
+30/01/2025,ORD304589,Jeffrey Whitehead,CUST75488,Male,PRD1774,8,Groceries,Beans,1154.56,1720.84,South South,Rivers
+02/05/2025,ORD640538,Rachel Alexander,CUST22753,Male,PRD1275,12,Household,Toilet Paper,1734.51,2319.48,North East,Yobe
+17/07/2024,ORD695166,Christy Morris,CUST72725,Male,PRD1352,6,Fashion,Shoes,2425.16,2672.47,North Central,Nasarawa
+24/06/2024,ORD626109,Brenda Brewer,CUST6620,Female,PRD3638,5,Groceries,Vegetable Oil,1936.65,2203.99,South West,Osun
+26/08/2024,ORD573882,Joanne Cameron DVM,CUST84274,Female,PRD4156,12,Beverages,Bottle Water,728.56,1006.89,North Central,Plateau
+12/06/2024,ORD637659,Jacob Harper,CUST27707,Male,PRD8427,8,Fashion,Cap,4941.97,7046.84,North West,Zamfara
+09/11/2024,ORD896870,Jill Smith,CUST25635,Female,PRD8395,3,Fashion,Shoes,3385.84,4919.55,South South,Rivers
+10/01/2025,ORD794429,Nathan Cannon,CUST76503,Male,PRD2419,5,Beverages,Bottle Water,3925.13,4447.03,North West,Kebbi
+28/11/2024,ORD109582,Jeremy Ramirez,CUST70254,Female,PRD8729,17,Electronics,Charger,2301.24,3100.8,South South,Delta
+17/09/2024,ORD545197,Crystal Mccullough,CUST43660,Female,PRD2431,1,Fashion,Shoes,2127.21,2549.28,North West,Jigawa
+09/08/2024,ORD735460,Carla Mcmahon,CUST36654,Female,PRD7922,18,Groceries,Vegetable Oil,3852.96,5336.12,North West,Kebbi
+29/06/2024,ORD218448,Elizabeth Weaver,CUST92902,Male,PRD9003,11,Beverages,Bottle Water,1425.43,1611.21,South South,Rivers
+12/03/2025,ORD944092,Randall Owens,CUST33424,Female,PRD4294,16,Groceries,Palm Oil,3941.65,5245.38,South South,Bayelsa
+07/06/2024,ORD249889,Dr. Morgan Walker,CUST51840,Male,PRD3033,7,Household,Dishwasher,2835.73,3252.71,North Central,Plateau
+01/07/2024,ORD706228,James Benson,CUST80248,Female,PRD4702,15,Groceries,Beans,3080.58,4409.9,South West,Lagos
+08/02/2025,ORD292315,Chad Baker,CUST80234,Male,PRD9659,8,Household,Dishwasher,4120.91,6166.73,North West,Sokoto
+28/01/2025,ORD550704,Anthony Johnson,CUST98400,Female,PRD5339,10,Beverages,Soft Drink,3931.67,5370.41,South West,Oyo
+15/01/2025,ORD179705,Brandon Oconnell,CUST60427,Male,PRD4299,14,Groceries,Beans,4714.89,6238.36,South East,Anambra
+06/03/2025,ORD831766,William Jones,CUST88253,Female,PRD7754,15,Electronics,Laptop,2622.23,3524.55,North West,Jigawa
+23/05/2024,ORD943224,Oscar Glass,CUST62370,Male,PRD9040,12,Fashion,Trousers,3418.74,3794.9,North East,Adamawa
+16/11/2024,ORD471461,Christine Howe,CUST98272,Male,PRD6467,16,Beverages,Bottle Water,2981.55,4287.09,North West,Sokoto
+11/04/2025,ORD59895,Timothy Carpenter,CUST18838,Male,PRD8600,17,Groceries,Rice,2937.49,3922.72,North West,Zamfara
+24/03/2025,ORD53539,Debra Garcia,CUST72604,Female,PRD6305,20,Household,Toilet Paper,1397.88,1735.96,North West,Kebbi
+30/07/2024,ORD38257,Steven Williams,CUST18773,Female,PRD6681,1,Household,Detergent,3206.78,4099.6,South South,Akwa Ibom
+17/11/2024,ORD961737,Donald Clark,CUST99839,Male,PRD4832,10,Household,Dishwasher,4433.62,5559.01,North West,Kano
+31/01/2025,ORD668116,Jacob Lee,CUST63885,Male,PRD6185,16,Fashion,Shoes,4734.18,6026.85,North West,Kano
+27/01/2025,ORD327723,Stacey Smith,CUST92963,Male,PRD8967,8,Electronics,Laptop,2105.65,2489.46,South East,Anambra
+29/08/2024,ORD408641,Kevin Costa,CUST34891,Male,PRD1069,16,Household,Toilet Paper,3860.3,5332.63,South East,Enugu
+28/08/2024,ORD642324,Jonathan Johnson,CUST73599,Male,PRD9169,14,Beverages,Juice,2799.88,3213.11,South South,Edo
+09/12/2024,ORD720005,Susan Francis,CUST87648,Male,PRD5935,6,Electronics,Tablet,3635.02,4184.9,South South,Rivers
+15/07/2024,ORD550683,Jeremiah Dean,CUST60439,Male,PRD3822,4,Beverages,Soft Drink,1756.96,2456.69,North West,Kebbi
+28/03/2025,ORD229373,Lee Holloway,CUST29569,Male,PRD1395,13,Groceries,Beans,3180.55,4695.23,South West,Oyo
+31/10/2024,ORD532240,Nicholas Fritz,CUST5536,Female,PRD1776,12,Groceries,Beans,2020.33,2806.94,North East,Bauchi
+28/04/2025,ORD576717,James Hicks,CUST42194,Male,PRD1823,8,Electronics,Laptop,4918.65,7014.41,North Central,Benue
+23/04/2025,ORD376180,Cheryl Larson,CUST30196,Female,PRD2272,2,Fashion,Trousers,3882.35,4541.52,North Central,Kogi
+29/06/2024,ORD539494,Andrew Baldwin,CUST77734,Female,PRD9212,16,Electronics,Smartphone,2467.64,3554.19,North West,Kebbi
+22/12/2024,ORD895434,Kevin Vasquez,CUST61243,Female,PRD1233,17,Fashion,Trousers,2585.7,3014.18,South South,Rivers
+29/10/2024,ORD301881,Elizabeth Powell,CUST61587,Male,PRD3524,7,Fashion,Shoes,3925.5,4949.87,South East,Imo
+11/10/2024,ORD230161,Melissa Gonzalez,CUST11725,Male,PRD4792,16,Groceries,Rice,761.33,932.73,South South,Akwa Ibom
+25/11/2024,ORD474768,Vincent Foster,CUST14024,Male,PRD5515,14,Groceries,Rice,3292.92,3807.65,North East,Adamawa
+03/10/2024,ORD238241,Lisa Fisher,CUST14039,Male,PRD6818,9,Groceries,Vegetable Oil,2356.95,2827.33,North Central,Niger
+13/02/2025,ORD270349,Louis Knight,CUST97543,Female,PRD9712,3,Groceries,Palm Oil,4568.98,5055.58,North West,Kebbi
+11/09/2024,ORD569972,Yolanda Flores,CUST85990,Female,PRD6612,10,Groceries,Vegetable Oil,2990.76,3603.9,South East,Imo
+18/10/2024,ORD678567,Patrick Ray,CUST47339,Male,PRD3337,11,Beverages,Soft Drink,2880.08,4310.3,North East,Adamawa
+28/08/2024,ORD409830,Tara Ross,CUST82944,Female,PRD6651,4,Groceries,Beans,1072.24,1404.29,South West,Lagos
+17/08/2024,ORD577822,Charles Walls,CUST13893,Female,PRD9475,15,Groceries,Palm Oil,2823.41,3178.61,North Central,Kogi
+26/04/2025,ORD971099,Carolyn Thomas,CUST11276,Female,PRD2018,4,Fashion,Shoes,3205.74,3617.08,North West,Kebbi
+28/12/2024,ORD68143,Gary Vasquez,CUST78541,Male,PRD1271,14,Fashion,Shirt,3995.92,5687.21,North Central,Nasarawa
+10/03/2025,ORD722954,Brian Ochoa,CUST79518,Male,PRD7292,15,Groceries,Palm Oil,4313.52,5185.27,North West,Katsina
+06/04/2025,ORD526457,Angela Garrison,CUST97840,Male,PRD1998,6,Beverages,Juice,1617.74,1920.29,North East,Yobe
+01/11/2024,ORD301945,Joseph Kane,CUST89390,Male,PRD6898,15,Beverages,Juice,2227.2,3257.77,South East,Enugu
+23/01/2025,ORD510529,Joseph Reeves,CUST80619,Male,PRD6115,18,Fashion,Shirt,3630.96,5396.5,North West,Sokoto
+23/06/2024,ORD520851,Michael Payne,CUST9423,Male,PRD5016,15,Fashion,Shoes,1536.03,1895.85,South East,Imo
+02/04/2025,ORD154417,Richard Luna,CUST98360,Male,PRD6650,14,Electronics,Tablet,1445.73,2146,North East,Taraba
+18/01/2025,ORD320682,Maria Huerta,CUST91568,Female,PRD1031,10,Fashion,Cap,3443.84,4136.95,South West,Ekiti
+30/10/2024,ORD89925,Jill Cook,CUST38811,Female,PRD2713,7,Beverages,Soft Drink,652.62,863.04,South South,Bayelsa
+24/04/2025,ORD908620,Diana Taylor MD,CUST1673,Male,PRD1108,16,Electronics,Smartphone,1985.24,2383.57,North East,Bauchi
+02/05/2025,ORD826292,Leslie Salas,CUST78534,Male,PRD7902,17,Fashion,Cap,1246.05,1413.73,South South,Cross River
+31/10/2024,ORD781017,Elizabeth Ryan,CUST24768,Female,PRD4814,16,Electronics,Smartphone,4934.01,5602.29,South South,Edo
+21/06/2024,ORD812252,Lucas Williams,CUST1080,Female,PRD4988,1,Groceries,Rice,937.97,1084.26,North Central,Plateau
+27/03/2025,ORD391667,Yolanda Rodriguez,CUST21257,Male,PRD7002,10,Beverages,Bottle Water,2779.58,3516.99,North East,Gombe
+14/04/2025,ORD337116,Jerry Randall,CUST12234,Female,PRD9500,16,Beverages,Juice,4116.26,5689.35,South West,Oyo
+21/03/2025,ORD514354,Michelle Bailey,CUST41335,Male,PRD7514,12,Groceries,Palm Oil,1468.83,1872.04,North Central,Plateau
+03/05/2025,ORD785950,Jeremy Simmons,CUST57804,Male,PRD7227,7,Electronics,Tablet,2482.04,2804.17,South South,Delta
+30/06/2024,ORD569428,Amy Becker,CUST9036,Female,PRD1772,14,Household,Detergent,1514.72,2165.28,North Central,Benue
+10/08/2024,ORD692320,Heather Johnson,CUST57123,Male,PRD8504,2,Groceries,Beans,1310.99,1447.14,South East,Imo
+24/06/2024,ORD763786,William Martin,CUST74561,Male,PRD9264,3,Electronics,Laptop,3125.28,4605.37,South South,Edo
+23/06/2024,ORD599339,Robert Perez,CUST80511,Male,PRD6441,13,Electronics,Tablet,2955.73,4159.48,North West,Zamfara
+25/12/2024,ORD666491,Pamela Carter,CUST10996,Male,PRD1637,7,Fashion,Trousers,4427.85,5299.84,North West,Kebbi
+21/06/2024,ORD874628,Ian Strong,CUST17120,Female,PRD5199,15,Beverages,Bottle Water,1365.26,1828.25,North West,Zamfara
+30/11/2024,ORD620387,Ashley Watson,CUST91276,Female,PRD4958,16,Fashion,Shirt,2894.26,3935.31,South East,Enugu
+10/09/2024,ORD851402,Krista Powell,CUST71189,Male,PRD6778,20,Fashion,Shirt,3847.65,4495.92,North Central,Nasarawa
+01/12/2024,ORD486597,Tiffany Smith,CUST46297,Male,PRD9817,10,Household,Detergent,1796.9,2436.33,South South,Bayelsa
+02/10/2024,ORD404323,Michael Rodriguez,CUST83360,Male,PRD9967,7,Fashion,Shirt,1971.98,2306.04,North East,Bauchi
+30/12/2024,ORD430371,Todd Flowers,CUST94148,Male,PRD6806,8,Fashion,Cap,4819.69,5644.02,North West,Jigawa
+04/09/2024,ORD680071,Michelle Simmons,CUST45717,Female,PRD2683,13,Fashion,Shoes,2843.23,4264.34,North Central,FCT
+18/01/2025,ORD675013,Dr. Joshua Dalton,CUST46749,Female,PRD6225,20,Fashion,Cap,2563.52,3442.17,North East,Borno
+05/05/2024,ORD420209,Nathan Allen,CUST27573,Female,PRD3943,7,Groceries,Beans,3799.07,5062.26,North West,Katsina
+05/08/2024,ORD619224,Amanda Williams,CUST96999,Male,PRD4534,10,Electronics,Charger,2765.52,3181.68,South East,Imo
+12/03/2025,ORD83534,Catherine Jimenez,CUST4204,Male,PRD6789,6,Household,Detergent,644.61,807.93,South South,Akwa Ibom
+10/11/2024,ORD446010,Thomas Scott,CUST35526,Female,PRD7803,7,Household,Dishwasher,3246.09,4146.86,North West,Kebbi
+09/12/2024,ORD389664,Sara Hubbard,CUST43489,Male,PRD6032,20,Groceries,Rice,1389.93,1737.83,North East,Gombe
+18/02/2025,ORD690814,Adrienne Rodriguez,CUST73124,Male,PRD2266,18,Beverages,Juice,4044.56,4501.81,South South,Edo
+30/04/2025,ORD920490,Chad Harrison,CUST42294,Male,PRD4203,2,Household,Toilet Paper,993.09,1280.02,North Central,Plateau
+29/10/2024,ORD885940,Leah Marsh,CUST22289,Female,PRD7007,10,Beverages,Juice,3573.93,4338.71,South South,Bayelsa
+10/11/2024,ORD258309,Lindsey Ruiz,CUST98740,Male,PRD4760,11,Beverages,Soft Drink,1192.49,1686.27,South South,Edo
+08/12/2024,ORD716660,Danielle Nelson,CUST86004,Female,PRD7109,4,Fashion,Shirt,3889.45,5253.55,South East,Enugu
+13/10/2024,ORD808118,Joshua Taylor,CUST28237,Male,PRD2763,14,Electronics,Tablet,4847.94,6373.02,South West,Ekiti
+08/02/2025,ORD90832,Arthur Anderson,CUST22963,Female,PRD1573,7,Beverages,Soft Drink,3334.06,4970.46,North Central,Plateau
+03/11/2024,ORD300443,Jordan Gonzalez,CUST87316,Female,PRD9040,7,Fashion,Cap,2239.24,3167.41,North West,Katsina
+08/02/2025,ORD619319,Steven Bryan,CUST47068,Male,PRD6932,20,Fashion,Trousers,4727.99,5994.63,South West,Ekiti
+10/12/2024,ORD101265,Rebecca Parsons,CUST13013,Female,PRD7389,6,Household,Detergent,4955.99,6386.28,South South,Edo
+21/07/2024,ORD907773,Regina Farmer,CUST92397,Male,PRD3073,19,Household,Dishwasher,1388.47,1861.68,North East,Gombe
+16/05/2024,ORD948896,Katie Christian,CUST57856,Female,PRD5290,14,Groceries,Vegetable Oil,2993.41,4225.53,South West,Lagos
+07/12/2024,ORD489773,Alan Moore,CUST99979,Female,PRD1193,12,Electronics,Smartphone,2501.7,3095.95,South West,Ogun
+12/03/2025,ORD174338,Terry Bell,CUST15197,Female,PRD4178,2,Groceries,Rice,1163.1,1651.08,South South,Rivers
+14/11/2024,ORD666293,Daryl Osborne,CUST57800,Male,PRD9257,7,Electronics,Tablet,3552.75,5211.56,South South,Cross River
+21/08/2024,ORD795193,Douglas Huber,CUST22526,Female,PRD7219,13,Household,Dishwasher,700.22,774.89,South West,Ondo
+08/01/2025,ORD265625,Kelly Jackson,CUST42678,Female,PRD4605,16,Fashion,Shirt,1713.76,2060.66,North West,Kebbi
+11/02/2025,ORD335480,Mariah Allen,CUST28593,Male,PRD2144,18,Fashion,Shirt,2449.75,2703.5,South South,Akwa Ibom
+04/06/2024,ORD861852,Stephanie Johnson,CUST14289,Male,PRD4990,15,Household,Dishwasher,584.34,786.64,North Central,Kogi
+07/12/2024,ORD807609,Shaun Patel,CUST69467,Female,PRD4648,20,Fashion,Shoes,2681.08,3188.26,South South,Bayelsa
+27/07/2024,ORD751695,David Wright,CUST79932,Male,PRD7058,6,Electronics,Tablet,1489.6,1683.32,South West,Ondo
+10/10/2024,ORD348439,Laura Chan,CUST91512,Female,PRD6249,20,Electronics,Laptop,938.23,1341.44,North East,Borno
+22/10/2024,ORD843805,Angela Gay,CUST44587,Male,PRD7819,13,Beverages,Juice,2604.19,2906.76,North East,Taraba
+09/10/2024,ORD979028,Benjamin Haynes,CUST63496,Female,PRD5152,16,Fashion,Trousers,1923.46,2385.36,South West,Ogun
+17/04/2025,ORD219019,John Hall,CUST2024,Male,PRD5655,16,Fashion,Shirt,1796.48,2324.71,South South,Akwa Ibom
+08/07/2024,ORD629120,Marvin Wells,CUST61978,Male,PRD5418,15,Groceries,Beans,4136.23,5964.15,South South,Cross River
+06/06/2024,ORD9302,Charlene Le,CUST8399,Female,PRD5240,20,Household,Dishwasher,1712.9,2114.95,North West,Kaduna
+08/11/2024,ORD956808,Cynthia Atkinson,CUST30688,Male,PRD1636,18,Fashion,Shirt,2488.03,3030.89,South South,Bayelsa
+10/05/2024,ORD487868,Brian Garcia,CUST72473,Male,PRD6636,6,Beverages,Bottle Water,3438.84,4428.61,North East,Borno
+07/07/2024,ORD810356,Kirk Boyd,CUST96717,Male,PRD4059,1,Groceries,Rice,4509.48,6701.9,South West,Oyo
+13/03/2025,ORD547894,Suzanne Hogan MD,CUST36005,Male,PRD3005,7,Groceries,Palm Oil,2400.88,3590.76,South South,Akwa Ibom
+25/04/2025,ORD803920,Christopher Martin,CUST36742,Male,PRD7185,5,Electronics,Charger,2692.91,3191.4,South East,Enugu
+30/08/2024,ORD609235,Melanie Myers,CUST42370,Female,PRD8490,19,Groceries,Palm Oil,1252.52,1748.95,North East,Gombe
+01/10/2024,ORD755050,Matthew Johnson,CUST66914,Female,PRD3694,17,Household,Dishwasher,3936.72,4816.59,North East,Yobe
+10/05/2024,ORD164659,Jenna Blankenship,CUST21175,Female,PRD4760,16,Household,Toilet Paper,916.38,1335.38,North East,Adamawa
+14/12/2024,ORD708962,April Adkins,CUST47222,Female,PRD8845,8,Groceries,Palm Oil,1566.68,2058.87,South South,Edo
+06/01/2025,ORD262240,Elizabeth Anderson,CUST16161,Female,PRD8465,10,Household,Toilet Paper,697.13,909.57,North East,Taraba
+27/08/2024,ORD668484,Abigail Holmes,CUST69807,Male,PRD1193,3,Groceries,Beans,2888.42,4187.05,South West,Ogun
+09/04/2025,ORD955669,Michele Jones,CUST14926,Female,PRD8808,16,Household,Dishwasher,1933.02,2498,South East,Anambra
+12/11/2024,ORD444212,Andrew West,CUST19236,Male,PRD1070,13,Electronics,Tablet,957.89,1385.57,North East,Gombe
+17/05/2024,ORD297363,John Miller,CUST58972,Male,PRD5995,4,Groceries,Palm Oil,2348.95,2987.19,South East,Imo
+29/07/2024,ORD812842,Tonya Walters,CUST64318,Female,PRD3324,13,Fashion,Shoes,4574.57,5563.11,North West,Katsina
+23/03/2025,ORD892603,Sharon Daniel DDS,CUST34272,Female,PRD8431,12,Fashion,Trousers,1072.08,1278.25,South East,Abia
+03/12/2024,ORD601936,Laura Perez,CUST27237,Female,PRD4899,6,Fashion,Cap,1722.31,2231.11,North Central,FCT
+12/08/2024,ORD655862,Stephanie Woods,CUST83207,Male,PRD2632,8,Fashion,Cap,4224.02,5256.36,North Central,Kwara
+25/07/2024,ORD585431,Kimberly Bailey,CUST26728,Female,PRD1557,15,Fashion,Trousers,4658.37,6154.98,South West,Ekiti
+18/06/2024,ORD233206,Anna Lee,CUST80077,Male,PRD4226,19,Beverages,Juice,4343.03,5835.78,South West,Lagos
+22/04/2025,ORD336499,Mr. Vincent Sanders DDS,CUST83438,Male,PRD3479,5,Beverages,Soft Drink,1145.46,1402.56,South South,Delta
+01/09/2024,ORD908194,Nicole Davis,CUST254,Female,PRD4813,15,Groceries,Rice,741.02,984.71,South East,Anambra
+15/06/2024,ORD259284,Mr. Ronald Lowery,CUST30249,Male,PRD8530,11,Electronics,Charger,1428.15,2137.21,South South,Cross River
+08/07/2024,ORD178947,Sharon Hill,CUST13581,Female,PRD1366,4,Beverages,Bottle Water,1847.31,2240.25,South West,Osun
+27/01/2025,ORD47123,Matthew Pham,CUST47215,Female,PRD8382,17,Electronics,Charger,849.92,1188.14,South East,Abia
+16/08/2024,ORD984625,David Watson,CUST89045,Female,PRD1299,20,Beverages,Soft Drink,3031.33,3375.33,South West,Osun
+08/02/2025,ORD132539,Ronald Harris,CUST63118,Female,PRD5184,3,Electronics,Laptop,3671.16,5036.46,South South,Edo
+21/03/2025,ORD553739,Henry Taylor,CUST10931,Male,PRD3463,7,Fashion,Cap,2154.18,2726.71,North West,Jigawa
+27/08/2024,ORD496108,Tina Johnson,CUST32730,Male,PRD8105,16,Fashion,Shoes,2558.38,3464.56,North West,Kano
+21/02/2025,ORD792392,Carlos Cole,CUST91764,Female,PRD1715,9,Groceries,Rice,622.71,856.85,North West,Kano
+14/06/2024,ORD446479,Alfred Robinson,CUST68280,Female,PRD4248,20,Household,Toilet Paper,979.44,1368.15,North East,Yobe
+19/01/2025,ORD687061,Kevin Mercer,CUST71119,Female,PRD7759,10,Fashion,Cap,3328.85,3911.46,North Central,Niger
+15/08/2024,ORD910399,John Carter,CUST51560,Female,PRD5235,4,Fashion,Trousers,4106.11,6088.7,South West,Ekiti
+25/12/2024,ORD324083,Faith Schmidt,CUST93902,Male,PRD7022,20,Groceries,Vegetable Oil,2621.77,2998.27,North West,Zamfara
+03/01/2025,ORD855687,Kelsey Walsh,CUST1180,Female,PRD6198,15,Fashion,Cap,2348.47,2650.92,South South,Akwa Ibom
+29/03/2025,ORD782145,David Watkins,CUST70437,Female,PRD5001,10,Household,Dishwasher,2023.15,2795.95,North East,Yobe
+13/04/2025,ORD432148,Kevin Kim,CUST96317,Female,PRD8724,8,Groceries,Vegetable Oil,4415.12,5794.48,South South,Cross River
+06/05/2024,ORD236153,Kimberly Marsh,CUST44869,Female,PRD4261,2,Household,Dishwasher,4760.41,5703.98,North East,Taraba
+04/05/2025,ORD38775,Angela Ross,CUST44352,Female,PRD2417,15,Electronics,Tablet,4058.09,4524.67,South West,Oyo
+03/06/2024,ORD783202,Samantha Lawrence,CUST37310,Male,PRD8834,19,Fashion,Shoes,4985.51,5508.63,North West,Jigawa
+06/07/2024,ORD825017,Kathryn Kline,CUST26227,Male,PRD7266,20,Groceries,Palm Oil,951.41,1382.33,South West,Lagos
+24/12/2024,ORD76271,Linda Martinez,CUST7875,Male,PRD7843,8,Beverages,Juice,2546.53,3590.33,North Central,Plateau
+10/07/2024,ORD371597,Morgan Johnson,CUST80091,Male,PRD9505,4,Household,Detergent,547.02,648.73,South East,Abia
+17/11/2024,ORD628235,Luke Anderson,CUST13762,Female,PRD2247,15,Groceries,Rice,4500.54,6187.42,South South,Edo
+23/07/2024,ORD944537,James Hughes,CUST9672,Male,PRD2848,14,Groceries,Vegetable Oil,1350.71,1982.09,South East,Ebonyi
+05/11/2024,ORD249842,Mr. Michael Burgess MD,CUST99146,Male,PRD1423,5,Household,Toilet Paper,4681.96,6889.51,North Central,FCT
+18/01/2025,ORD918470,Julie Hopkins,CUST48731,Male,PRD7073,14,Electronics,Charger,1703.82,2409.72,South West,Ondo
+22/09/2024,ORD426388,Amanda Aguilar,CUST43900,Female,PRD5216,18,Household,Dishwasher,3808.79,5138.25,North East,Taraba
+27/03/2025,ORD249337,Daniel Garner,CUST98472,Male,PRD5542,2,Beverages,Bottle Water,3687.59,5075.47,North East,Yobe
+15/09/2024,ORD734331,Leslie Gutierrez,CUST31325,Male,PRD8259,10,Electronics,Laptop,2467.13,3275.6,South West,Oyo
+01/03/2025,ORD346288,Ryan Wagner,CUST45322,Female,PRD5882,6,Electronics,Smartphone,3021.43,4016.57,North Central,Kwara
+02/08/2024,ORD225854,Mr. Mark Barnes,CUST16862,Male,PRD3137,6,Electronics,Smartphone,3423.53,4645.25,North Central,Kogi
+08/06/2024,ORD164266,Edwin Baker,CUST52314,Female,PRD1844,15,Electronics,Laptop,1987.87,2908.88,North East,Gombe
+20/07/2024,ORD112815,Gabrielle Underwood,CUST9063,Male,PRD9858,19,Fashion,Trousers,3580.11,4279.44,North East,Gombe
+08/10/2024,ORD196368,Bernard Boyd,CUST3083,Female,PRD7596,11,Groceries,Beans,704.96,906.12,North Central,Nasarawa
+22/08/2024,ORD375097,Regina Benitez,CUST50284,Female,PRD8552,3,Beverages,Soft Drink,2965.93,4206.94,South South,Cross River
+03/06/2024,ORD528938,Megan Hughes,CUST25913,Female,PRD9793,19,Beverages,Bottle Water,692.15,809.39,South East,Abia
+29/04/2025,ORD701411,Jason Diaz,CUST70745,Male,PRD7528,15,Beverages,Bottle Water,2691.36,3639.23,North West,Zamfara
+31/07/2024,ORD234063,Vincent May,CUST71307,Male,PRD7537,15,Fashion,Shirt,2239.59,3276.97,North Central,Niger
+12/08/2024,ORD112368,Cynthia Johnson,CUST68535,Female,PRD1706,1,Electronics,Charger,4247.96,6243.24,North West,Kano
+05/01/2025,ORD108158,Heather White,CUST17019,Male,PRD5368,18,Household,Toilet Paper,1907.01,2737.54,South East,Ebonyi
+18/05/2024,ORD257559,Lindsay Holmes,CUST9720,Female,PRD1877,1,Beverages,Soft Drink,3541.6,4027.69,North Central,Benue
+19/08/2024,ORD930927,Ernest Robbins,CUST16343,Male,PRD6947,14,Groceries,Palm Oil,2770.44,3372.62,South West,Lagos
+07/08/2024,ORD589149,Nichole Parker,CUST29469,Male,PRD2240,1,Beverages,Soft Drink,4066.62,6084.66,North West,Sokoto
+29/05/2024,ORD415145,Caroline Glass,CUST84966,Male,PRD8346,1,Fashion,Shoes,3026.78,3787.92,North Central,Niger
+28/01/2025,ORD790797,Marc Estrada,CUST25601,Male,PRD6422,17,Beverages,Juice,2152.95,3132.72,North West,Kaduna
+06/09/2024,ORD306204,Patrick Diaz,CUST1419,Male,PRD6047,5,Household,Dishwasher,693.31,1009.81,South South,Rivers
+27/01/2025,ORD60869,Katherine Anderson,CUST57107,Male,PRD6585,10,Fashion,Shoes,2970.28,4367.28,South South,Bayelsa
+10/04/2025,ORD397410,Alejandra Sanchez,CUST56190,Male,PRD9373,20,Household,Toilet Paper,936.62,1152.87,South East,Ebonyi
+27/02/2025,ORD451217,Cameron Miller,CUST20186,Male,PRD7231,4,Electronics,Tablet,3228.32,4240.76,North Central,Nasarawa
+19/05/2024,ORD27543,Nathan Reid,CUST87942,Female,PRD8462,12,Fashion,Shoes,4529.38,5429.04,South West,Lagos
+13/07/2024,ORD969750,Jordan Becker,CUST26177,Male,PRD9664,4,Fashion,Shoes,864.44,1273.06,South East,Anambra
+23/10/2024,ORD644878,Brandon Williams,CUST65251,Male,PRD5685,1,Electronics,Charger,2998.97,3644.93,South West,Lagos
+16/10/2024,ORD90840,Robert Salazar,CUST73984,Female,PRD7261,6,Household,Dishwasher,1022.9,1419.74,South East,Anambra
+15/01/2025,ORD749814,Wayne Silva,CUST84786,Male,PRD8032,7,Groceries,Vegetable Oil,3863.12,5179.73,South West,Ogun
+03/05/2025,ORD211205,Amy Potter,CUST33344,Female,PRD8996,17,Groceries,Palm Oil,1540.07,1704.28,South South,Akwa Ibom
+28/11/2024,ORD606080,Justin Smith,CUST80780,Female,PRD2538,14,Fashion,Shoes,2048.9,2324.34,South South,Cross River
+30/03/2025,ORD956155,Theresa Gomez,CUST21074,Male,PRD3962,12,Groceries,Palm Oil,655.53,904.81,North East,Adamawa
+26/03/2025,ORD7270,Bobby Barnes,CUST56832,Male,PRD6612,17,Household,Detergent,2400.83,2824.82,South West,Lagos
+07/01/2025,ORD563094,Kathy Lopez,CUST26950,Female,PRD3839,11,Groceries,Rice,2107.69,3062.16,North East,Yobe
+23/07/2024,ORD254488,Eric Simmons,CUST84620,Male,PRD5465,1,Household,Toilet Paper,4843.39,5384.53,South East,Abia
+20/03/2025,ORD711840,Edward Walton,CUST99498,Female,PRD2917,12,Fashion,Shirt,1179.63,1348.51,North Central,FCT
+03/07/2024,ORD122617,Gloria Myers,CUST59171,Female,PRD1568,19,Electronics,Tablet,1169.78,1740.56,North Central,Niger
+13/12/2024,ORD315002,Kevin Morris,CUST75340,Male,PRD1353,10,Beverages,Soft Drink,4976.49,5734.89,North Central,Plateau
+18/06/2024,ORD589983,James Daugherty,CUST93430,Male,PRD6808,14,Fashion,Cap,2755.58,3551.21,South South,Akwa Ibom
+29/06/2024,ORD530624,Melanie Wilson,CUST52458,Male,PRD6590,12,Beverages,Juice,3423.89,5091.74,North Central,Niger
+30/09/2024,ORD658782,John Mcdaniel MD,CUST3406,Female,PRD5073,17,Household,Dishwasher,1106.87,1338.66,South East,Ebonyi
+10/02/2025,ORD993688,Brooke Ortiz,CUST37416,Female,PRD6692,2,Groceries,Rice,984.25,1083.11,North East,Gombe
+18/03/2025,ORD855864,Donald Drake,CUST29790,Female,PRD8800,8,Household,Dishwasher,4801.58,5540.05,North West,Zamfara
+11/12/2024,ORD616354,Ashley Garcia,CUST36053,Female,PRD6943,19,Household,Dishwasher,3170.36,4332.28,South South,Cross River
+06/05/2024,ORD367297,Robin Harris,CUST76895,Male,PRD8806,15,Household,Toilet Paper,1918,2267.49,North East,Yobe
+26/03/2025,ORD453519,Gary Perez,CUST70174,Female,PRD2193,1,Fashion,Shoes,2208.54,2538.5,South West,Oyo
+10/08/2024,ORD485778,Lisa Ward,CUST40487,Female,PRD7511,20,Household,Dishwasher,3357.4,3730.55,North Central,FCT
+05/06/2024,ORD565397,Jill Macdonald,CUST14814,Female,PRD8836,4,Household,Dishwasher,3306.14,4530.66,South West,Osun
+08/01/2025,ORD531491,April Butler,CUST41259,Male,PRD2459,11,Fashion,Shirt,2978.95,3330.81,South West,Osun
+06/01/2025,ORD92342,Rhonda Taylor,CUST30520,Female,PRD2561,19,Fashion,Shirt,2105.05,2975.03,South East,Anambra
+12/01/2025,ORD555245,Caitlin Barnett,CUST81566,Female,PRD5253,10,Groceries,Beans,3368.91,3711.27,North East,Borno
+01/04/2025,ORD561697,Jesse Ortega,CUST21719,Female,PRD7439,10,Groceries,Rice,2182.61,3059.59,North West,Zamfara
+30/01/2025,ORD513394,Kristen Perkins,CUST24818,Female,PRD5800,7,Fashion,Shirt,4361.16,6068.68,South East,Imo
+28/12/2024,ORD274887,Jeffrey Martin,CUST77822,Male,PRD6975,13,Electronics,Tablet,4362.36,5131.16,North East,Taraba
+03/01/2025,ORD254068,Sean Long,CUST66370,Female,PRD6352,7,Beverages,Soft Drink,4567.02,5357.96,North East,Yobe
+02/12/2024,ORD437811,Colleen Holland,CUST35001,Female,PRD7660,1,Groceries,Vegetable Oil,545.03,709.12,South West,Lagos
+02/01/2025,ORD375289,James Craig,CUST10458,Male,PRD8787,18,Beverages,Soft Drink,4192.02,4611.39,North East,Adamawa
+18/07/2024,ORD4585,Bryan Lewis,CUST34138,Female,PRD8878,18,Beverages,Bottle Water,4365.54,5551.69,North Central,FCT
+03/12/2024,ORD756550,Sandra Trevino,CUST40098,Female,PRD2639,17,Household,Dishwasher,2065.26,2650.88,South West,Ekiti
+30/10/2024,ORD414623,Charlotte Stewart,CUST13951,Female,PRD7727,17,Fashion,Shoes,869.38,1293.83,South South,Delta
+19/02/2025,ORD38170,Rhonda Martinez,CUST14411,Male,PRD3601,4,Household,Dishwasher,664.75,902.07,South East,Enugu
+17/03/2025,ORD813610,Daniel Lozano,CUST36967,Female,PRD9844,10,Household,Toilet Paper,3336.46,4979.18,North East,Borno
+09/02/2025,ORD40816,Tiffany Conway,CUST92035,Male,PRD1202,18,Groceries,Palm Oil,1347.52,1565.36,South East,Imo
+07/05/2024,ORD281637,Andrea Patterson,CUST72936,Male,PRD5716,12,Groceries,Beans,1808.39,2606.88,South East,Anambra
+03/10/2024,ORD63019,Jacqueline Nelson,CUST45207,Male,PRD8587,16,Groceries,Vegetable Oil,2472.43,3082.06,South West,Lagos
+27/01/2025,ORD899138,Jonathon Cooke,CUST90641,Female,PRD3206,10,Beverages,Soft Drink,503,662.12,North Central,Plateau
+20/12/2024,ORD140139,Mary Morales,CUST99068,Female,PRD2707,2,Beverages,Bottle Water,3953.14,5385.83,North East,Borno
+31/03/2025,ORD505959,Paul House,CUST56643,Female,PRD5115,7,Groceries,Beans,3968.28,5584.89,North East,Borno
+19/12/2024,ORD455891,Derrick Curry,CUST8801,Female,PRD8006,9,Groceries,Rice,890.66,1216.42,South South,Akwa Ibom
+07/09/2024,ORD498324,Carolyn Williams,CUST7102,Female,PRD6360,9,Household,Detergent,4855.38,5824.84,South South,Rivers
+29/04/2025,ORD865221,Kimberly Nelson,CUST32113,Male,PRD3496,14,Household,Toilet Paper,3099.36,4244.6,North Central,Niger
+05/06/2024,ORD787697,Megan Simmons,CUST93025,Male,PRD5119,14,Household,Toilet Paper,745.66,948.08,North East,Taraba
+27/05/2024,ORD505557,Michael Scott,CUST938,Female,PRD3730,10,Electronics,Smartphone,1661.01,2293,North West,Katsina
+17/03/2025,ORD509701,Sandra Ross,CUST83909,Female,PRD8035,20,Fashion,Shoes,3708.87,4332.17,North Central,Kwara
+10/11/2024,ORD49567,Kristin Harvey,CUST3311,Female,PRD2064,5,Groceries,Vegetable Oil,4642.63,6848.35,North Central,Niger
+22/12/2024,ORD447207,Maureen Cooper,CUST83449,Male,PRD4231,14,Beverages,Soft Drink,2143.93,2870.64,North West,Kebbi
+13/09/2024,ORD908923,Adam Myers,CUST12545,Female,PRD3340,19,Beverages,Soft Drink,1339.67,1794.48,South South,Bayelsa
+03/12/2024,ORD821005,Gregory Olsen,CUST84468,Female,PRD8414,9,Beverages,Juice,4754.24,5560.57,North Central,Kwara
+15/12/2024,ORD763033,Kyle Brooks,CUST69916,Male,PRD6797,2,Groceries,Vegetable Oil,4879.12,5857.22,South South,Rivers
+28/03/2025,ORD599159,Gregory Marshall,CUST90875,Male,PRD4998,20,Fashion,Shirt,2749.99,3918.27,South East,Enugu
+16/06/2024,ORD192463,Bradley Flowers,CUST60790,Female,PRD2928,2,Electronics,Charger,4538.55,6394.69,North East,Adamawa
+29/08/2024,ORD676229,Juan Mills,CUST17002,Male,PRD4756,7,Household,Toilet Paper,1936.95,2452.2,South West,Osun
+17/12/2024,ORD880676,Alexander Rowe,CUST72803,Male,PRD1308,15,Household,Toilet Paper,910.65,1003.16,South South,Cross River
+05/09/2024,ORD954495,Johnathan Dickerson,CUST87469,Male,PRD4257,19,Electronics,Charger,676.81,746.61,North East,Adamawa
+05/03/2025,ORD74367,James Perkins,CUST80257,Male,PRD6892,12,Household,Dishwasher,4376.36,6312.59,North East,Gombe
+17/04/2025,ORD125261,Rebecca Miller,CUST61936,Male,PRD1691,5,Groceries,Beans,3134.69,4248.74,North Central,Kogi
+20/11/2024,ORD788125,Gina Butler,CUST15606,Male,PRD8250,13,Household,Detergent,2965.11,4021.62,North Central,Kogi
+08/04/2025,ORD422157,Susan Morgan,CUST8865,Female,PRD5546,18,Household,Toilet Paper,1545.26,2016.31,South South,Rivers
+01/10/2024,ORD203503,Todd Sexton MD,CUST71614,Female,PRD6104,12,Groceries,Vegetable Oil,4297.8,5802.83,North Central,Nasarawa
+08/03/2025,ORD328851,James Young,CUST16549,Female,PRD3145,5,Household,Dishwasher,1213.75,1627.78,South South,Rivers
+20/06/2024,ORD956172,Lynn Bright,CUST388,Female,PRD6266,16,Household,Dishwasher,2105.97,2867.25,South West,Osun
+16/02/2025,ORD648284,Brandi Fowler,CUST66835,Male,PRD1871,6,Electronics,Tablet,4351.41,5391.3,South South,Rivers
+11/06/2024,ORD676829,James Williams,CUST23743,Female,PRD4553,3,Beverages,Soft Drink,3210.21,4062.21,South East,Enugu
+01/04/2025,ORD645569,Janet Nelson DDS,CUST14280,Male,PRD8303,3,Groceries,Rice,877.51,1141.68,South South,Bayelsa
+30/10/2024,ORD717725,Darrell Thompson,CUST35097,Female,PRD4199,4,Groceries,Vegetable Oil,4446.74,5475.88,South South,Rivers
+25/09/2024,ORD368518,Rhonda Herrera,CUST4553,Female,PRD1805,13,Electronics,Laptop,1526.28,1998.38,South East,Abia
+18/09/2024,ORD52134,Jonathan Marshall,CUST24713,Male,PRD4123,4,Electronics,Smartphone,4553.83,5117.89,North Central,Kwara
+30/08/2024,ORD626003,Miranda Greene,CUST2825,Female,PRD1728,9,Electronics,Charger,4207.64,5390.47,South West,Ondo
+24/03/2025,ORD460881,Jeffrey Ali,CUST21509,Male,PRD1932,18,Groceries,Rice,2637.55,3295.47,South South,Bayelsa
+07/08/2024,ORD575153,Yolanda Johnson,CUST69624,Female,PRD1390,7,Groceries,Vegetable Oil,3470.25,5101.33,South West,Osun
+16/08/2024,ORD152000,Thomas Perkins,CUST85243,Male,PRD9035,4,Household,Detergent,3024.78,3938.51,North Central,Benue
+29/01/2025,ORD891348,Sharon Grimes,CUST56681,Female,PRD2033,1,Groceries,Vegetable Oil,2847.86,3191.28,South East,Ebonyi
+11/10/2024,ORD679955,John Smith,CUST81692,Male,PRD9600,6,Groceries,Rice,1160.35,1433.27,South West,Ondo
+09/12/2024,ORD894509,James Blevins,CUST51017,Female,PRD5627,11,Electronics,Laptop,2649.47,3268.24,North East,Borno
+30/11/2024,ORD146807,Heather Brady,CUST4794,Male,PRD2749,5,Electronics,Tablet,4456.57,5326.54,South South,Akwa Ibom
+15/07/2024,ORD314437,Kathleen Clark,CUST90325,Male,PRD6097,6,Household,Dishwasher,2728.61,3940.51,North Central,Benue
+10/02/2025,ORD197017,Carol Moon,CUST82980,Female,PRD4178,5,Beverages,Bottle Water,3683.8,5018.69,North Central,FCT
+28/07/2024,ORD93385,Brittney Hudson,CUST90766,Female,PRD7767,12,Electronics,Laptop,4189.58,4822.06,North East,Borno
+22/03/2025,ORD349068,David Smith,CUST10707,Male,PRD6152,3,Groceries,Vegetable Oil,2481.22,3432.46,North Central,Kogi
+03/06/2024,ORD452805,Suzanne Myers,CUST98520,Female,PRD4509,19,Beverages,Juice,4630.35,5800.59,North West,Sokoto
+10/11/2024,ORD400002,Jennifer Owens,CUST56532,Female,PRD4580,9,Electronics,Tablet,1586.82,1845.55,North Central,Niger
+20/02/2025,ORD895669,Heather Wilkinson,CUST16165,Female,PRD8550,10,Household,Detergent,816.92,1002.69,North Central,Kogi
+02/12/2024,ORD454495,Steven Lee,CUST8700,Male,PRD8642,5,Beverages,Soft Drink,3753.56,4562.25,North West,Zamfara
+16/11/2024,ORD880759,Kimberly Oconnell,CUST28768,Male,PRD1800,19,Electronics,Tablet,4472.54,6062.76,North Central,Plateau
+27/06/2024,ORD350462,Robert Martinez,CUST88743,Male,PRD6412,19,Beverages,Bottle Water,1423.64,1827.96,North West,Sokoto
+04/08/2024,ORD403356,Randall Wallace,CUST20830,Female,PRD8764,18,Beverages,Bottle Water,4193.9,5149.48,South South,Bayelsa
+30/09/2024,ORD478934,Connie Buck,CUST43585,Female,PRD2629,8,Electronics,Smartphone,3548.4,5101.46,North West,Sokoto
+08/11/2024,ORD465566,Jessica Jacobs,CUST78787,Female,PRD1204,6,Beverages,Soft Drink,3946.85,5404.69,South East,Imo
+24/06/2024,ORD4496,Pamela Rivera,CUST50647,Female,PRD7554,2,Electronics,Laptop,2165.89,3221.58,North Central,Benue
+23/06/2024,ORD338521,Kenneth Thomas,CUST73257,Female,PRD4265,9,Groceries,Beans,2836.73,4208.57,North Central,Kogi
+26/07/2024,ORD917817,Robert Cross,CUST89960,Male,PRD9850,4,Household,Dishwasher,1593.26,2127.1,South East,Enugu
+07/07/2024,ORD79731,Jason Ward,CUST57021,Female,PRD8250,12,Groceries,Beans,1675.44,2019.18,North West,Jigawa
+11/12/2024,ORD342982,John Coffey,CUST52219,Female,PRD6972,18,Groceries,Beans,1748.36,1977.56,North Central,Benue
+06/10/2024,ORD591206,Rachel Golden,CUST49685,Male,PRD7572,19,Groceries,Vegetable Oil,1601.22,1922.18,North East,Adamawa
+11/11/2024,ORD328052,Jorge Garner,CUST53851,Female,PRD4875,17,Fashion,Cap,1534.67,1720.93,North East,Adamawa
+17/04/2025,ORD467286,Jill Jefferson,CUST58623,Male,PRD3484,17,Household,Detergent,3065.75,3907.04,North West,Jigawa
+01/12/2024,ORD716747,John Shah,CUST24165,Female,PRD1360,7,Electronics,Smartphone,4035.61,5898.03,South East,Abia
+27/07/2024,ORD727781,Karen Avila,CUST43294,Male,PRD1103,15,Beverages,Juice,3547.25,4751.4,South East,Abia
+18/03/2025,ORD925490,Joseph Brown,CUST89462,Male,PRD4220,5,Fashion,Shirt,1496.38,1804.16,South South,Cross River
+16/11/2024,ORD433287,Maureen Porter,CUST38086,Male,PRD8166,11,Groceries,Palm Oil,859.38,1154.4,North West,Sokoto
+06/08/2024,ORD552454,Sharon Salinas,CUST34485,Female,PRD8539,4,Fashion,Shoes,2274.01,2662.56,South East,Ebonyi
+11/04/2025,ORD546389,Michelle Moore,CUST17970,Female,PRD9375,4,Beverages,Bottle Water,2640.29,3359.66,South West,Ekiti
+26/03/2025,ORD524603,Nicole Spears,CUST22357,Male,PRD8892,7,Household,Toilet Paper,1316.84,1959.98,North West,Zamfara
+14/02/2025,ORD514262,Janet Jones,CUST18070,Male,PRD8836,18,Beverages,Bottle Water,885.11,1115.09,South South,Cross River
+18/08/2024,ORD476115,Daniel King,CUST50271,Male,PRD7498,13,Beverages,Bottle Water,2353.25,3328.8,South South,Cross River
+21/11/2024,ORD370207,Maria Ross,CUST91468,Female,PRD3904,9,Beverages,Juice,1819.22,2497.89,North Central,Benue
+15/12/2024,ORD155234,Ryan Arnold,CUST51600,Male,PRD8617,13,Household,Detergent,4461.9,6005.95,South South,Edo
+23/11/2024,ORD542140,Rebecca Willis,CUST14349,Female,PRD7391,17,Beverages,Juice,2145.09,3162.11,North West,Zamfara
+16/01/2025,ORD888097,Anna Johnson,CUST91978,Male,PRD4148,11,Household,Detergent,2669.88,3513.84,North West,Kaduna
+28/07/2024,ORD527778,Joseph Ross,CUST84349,Male,PRD8398,7,Electronics,Charger,4022.96,5588.87,South West,Osun
+12/04/2025,ORD390266,Linda Gonzalez,CUST10772,Male,PRD5007,4,Electronics,Tablet,4800.37,6082.38,South South,Akwa Ibom
+23/10/2024,ORD142381,Anna Livingston,CUST63018,Female,PRD6590,4,Electronics,Laptop,3817.22,5162.22,South East,Imo
+12/04/2025,ORD553017,Kathryn Rush,CUST76017,Male,PRD1915,14,Fashion,Shoes,4711.84,7013.24,South South,Akwa Ibom
+27/09/2024,ORD781319,Randall Williams,CUST68116,Female,PRD4722,6,Electronics,Laptop,4583.7,6781.15,North West,Kebbi
+19/03/2025,ORD556661,Patrick Stephens,CUST15802,Female,PRD5202,11,Electronics,Tablet,966.27,1095.99,South East,Anambra
+12/09/2024,ORD977685,Diana Harvey,CUST91648,Male,PRD7555,10,Electronics,Smartphone,1626.44,2214.81,North Central,Nasarawa
+03/08/2024,ORD309226,Jasmine Ryan,CUST50564,Female,PRD4574,20,Beverages,Soft Drink,725.19,963.55,South West,Lagos
+31/10/2024,ORD916578,Evan Morgan,CUST70349,Female,PRD4469,8,Household,Dishwasher,3012.72,4143.22,North Central,Benue
+07/08/2024,ORD419471,Kelli Shaw,CUST60098,Male,PRD6527,2,Beverages,Juice,3246.22,3839.9,South South,Rivers
+27/06/2024,ORD735515,Anthony Smith,CUST22223,Male,PRD6497,20,Fashion,Cap,2687.19,3218.93,South East,Abia
+09/02/2025,ORD225846,Nicole Cox,CUST64829,Female,PRD7272,20,Electronics,Tablet,653.3,884.3,North Central,Niger
+17/09/2024,ORD501492,Samuel Calhoun,CUST93217,Male,PRD5312,14,Fashion,Trousers,700.37,989.72,South West,Ekiti
+03/03/2025,ORD311240,Melissa Washington,CUST21352,Male,PRD4324,2,Groceries,Vegetable Oil,2397.18,3359.76,South West,Ondo
+07/03/2025,ORD808526,Lauren Owens,CUST77526,Female,PRD5197,9,Fashion,Trousers,4443.3,6496.69,South East,Enugu
+04/02/2025,ORD782005,Annette Perez,CUST47676,Male,PRD6170,11,Household,Dishwasher,4497.29,6607.68,South South,Edo
+08/10/2024,ORD142862,David Lyons,CUST75066,Male,PRD7083,17,Groceries,Beans,3265.09,4542.03,North East,Gombe
+29/06/2024,ORD169078,Wesley Thompson,CUST5423,Male,PRD2638,19,Groceries,Rice,1485.41,1775.24,North East,Taraba
+09/07/2024,ORD200346,Javier Hubbard,CUST4116,Male,PRD8562,11,Groceries,Beans,1448.99,1836.28,South East,Imo
+03/04/2025,ORD422429,Christina Johnson,CUST80794,Female,PRD4781,15,Fashion,Trousers,1796.32,2102.14,South West,Lagos
+25/10/2024,ORD321522,Erin Robinson,CUST55483,Female,PRD3145,20,Household,Toilet Paper,750.99,1091.09,North West,Kano
+26/01/2025,ORD90997,Christina Hall,CUST54242,Male,PRD3553,4,Fashion,Cap,1876.49,2476.78,South West,Ondo
+02/05/2025,ORD434955,Johnny Hensley,CUST21478,Male,PRD5221,18,Beverages,Bottle Water,3077.5,4167.36,North East,Yobe
+12/02/2025,ORD974262,Melissa Jones,CUST47017,Female,PRD4714,8,Household,Detergent,4242.32,5846.44,North Central,Nasarawa
+06/06/2024,ORD375374,Kathryn Ramirez,CUST85710,Female,PRD4207,5,Groceries,Beans,3705.92,4565.55,South East,Anambra
+15/06/2024,ORD795330,Amy Robinson MD,CUST82693,Male,PRD9687,5,Groceries,Beans,3053.1,4254.8,North West,Zamfara
+20/04/2025,ORD667124,Laura Butler,CUST29859,Male,PRD7605,3,Electronics,Tablet,1409.23,2032.81,South East,Abia
+05/08/2024,ORD875747,Laura Reynolds,CUST7826,Male,PRD6805,1,Beverages,Juice,3526.3,4801.45,North Central,Kwara
+08/10/2024,ORD760478,Tina Thomas,CUST7237,Female,PRD3436,1,Groceries,Vegetable Oil,4578.54,5259.2,South East,Enugu
+01/01/2025,ORD497581,Richard Hayes,CUST53097,Female,PRD8006,19,Household,Detergent,4541.08,5514.55,North West,Sokoto
+21/07/2024,ORD912783,Austin Murphy,CUST64235,Female,PRD5322,19,Electronics,Smartphone,3672.55,5242.15,North East,Taraba
+28/12/2024,ORD402733,Donna Cannon,CUST23704,Male,PRD8459,20,Beverages,Bottle Water,1336.88,1978.3,South East,Ebonyi
+12/07/2024,ORD402446,Gloria Kelly,CUST80626,Female,PRD5747,14,Groceries,Rice,2176.92,2854.51,North West,Kebbi
+07/07/2024,ORD490962,Melissa Schultz DDS,CUST72503,Male,PRD2612,11,Groceries,Beans,1539.94,2252.48,North West,Kano
+29/10/2024,ORD557067,Michelle Vargas,CUST88416,Male,PRD9104,9,Fashion,Shoes,1242.35,1601.42,South West,Lagos
+31/10/2024,ORD446430,Daniel Bennett,CUST11395,Female,PRD6550,13,Household,Toilet Paper,1610.37,1954.55,South South,Akwa Ibom
+22/10/2024,ORD467933,Denise Moss,CUST17796,Male,PRD8769,13,Electronics,Tablet,4838.77,6529.56,South South,Bayelsa
+07/05/2024,ORD417957,Scott Shaw,CUST3868,Female,PRD8343,11,Electronics,Tablet,3513.15,5149.09,North East,Borno
+08/09/2024,ORD751205,Rebecca Willis,CUST78388,Female,PRD8560,2,Fashion,Trousers,2358.17,2785.29,South East,Abia
+31/08/2024,ORD889737,Melissa Montoya,CUST57636,Male,PRD1944,11,Groceries,Rice,592.2,799.11,North West,Kano
+28/05/2024,ORD536136,Olivia Burns,CUST73182,Male,PRD3540,20,Groceries,Palm Oil,2600.64,3610.06,North Central,Benue
+01/03/2025,ORD609885,Mrs. Rachel Simpson,CUST49411,Male,PRD1104,3,Electronics,Tablet,547.59,717.02,South South,Bayelsa
+23/07/2024,ORD434138,Glen Walker,CUST6058,Male,PRD7331,9,Fashion,Trousers,763.63,842.52,North Central,Nasarawa
+08/11/2024,ORD519754,Dustin Sanchez,CUST9008,Female,PRD1855,2,Electronics,Smartphone,2726.11,3475.84,North East,Borno
+01/07/2024,ORD678426,Amanda Zimmerman,CUST79981,Male,PRD6447,5,Electronics,Laptop,4225.04,6279.82,North Central,FCT
+09/03/2025,ORD543578,Melanie Boyd,CUST99994,Female,PRD4366,6,Groceries,Vegetable Oil,3891.08,4981.37,South West,Ondo
+19/02/2025,ORD601806,Ryan Carpenter,CUST23569,Female,PRD7836,3,Groceries,Vegetable Oil,4168.77,6002.82,North West,Kaduna
+23/03/2025,ORD611005,Betty Benjamin,CUST94493,Female,PRD7516,11,Groceries,Rice,3300.58,4533.29,South West,Lagos
+03/11/2024,ORD951555,David Russell,CUST50477,Male,PRD9882,16,Household,Dishwasher,3473.24,4319.52,South East,Imo
+19/12/2024,ORD944312,Brandon Wong,CUST96420,Male,PRD5560,10,Household,Dishwasher,4876.7,6839.98,South West,Ogun
+28/06/2024,ORD785268,Bryan Booth,CUST5489,Female,PRD4771,19,Beverages,Soft Drink,1815.62,2654.36,North Central,Kwara
+14/06/2024,ORD584152,Joshua Morrison,CUST23696,Female,PRD1421,11,Electronics,Tablet,3644.9,4690.89,South East,Abia
+02/12/2024,ORD557773,Cindy Hall,CUST21589,Female,PRD5588,2,Beverages,Bottle Water,1725.96,2553.61,South East,Abia
+03/08/2024,ORD908326,Evelyn Todd,CUST41511,Male,PRD2089,16,Fashion,Trousers,2851.8,3916.17,South East,Ebonyi
+27/06/2024,ORD383618,Mandy Lee,CUST6396,Male,PRD1992,5,Groceries,Rice,4516.63,5480.49,North Central,Niger
+10/07/2024,ORD358171,Paul Grant,CUST18976,Male,PRD7844,20,Household,Detergent,2883.08,3226.18,North Central,FCT
+07/11/2024,ORD794305,Susan Cole,CUST25220,Male,PRD8900,12,Fashion,Trousers,2844.89,3901,North East,Borno
+20/12/2024,ORD583816,Nathan Holloway,CUST94317,Male,PRD8195,17,Fashion,Shoes,564.96,795.93,South East,Abia
+09/06/2024,ORD549801,David Johnson,CUST22998,Female,PRD7254,20,Electronics,Smartphone,2085.03,2723.62,North East,Taraba
+01/12/2024,ORD168657,Corey Dixon MD,CUST54430,Male,PRD7245,13,Household,Dishwasher,2587.83,3391.89,North East,Adamawa
+25/12/2024,ORD673930,Stephen Long,CUST68192,Male,PRD4671,10,Beverages,Bottle Water,3355.71,3973.25,South West,Lagos
+19/11/2024,ORD433741,Julie Martin,CUST20164,Male,PRD2222,1,Beverages,Soft Drink,1685.59,2157.82,North Central,Niger
+03/12/2024,ORD832916,Matthew Wright,CUST96167,Male,PRD3056,5,Groceries,Rice,3129.41,3635.98,South East,Ebonyi
+14/08/2024,ORD265109,Aaron Chavez,CUST12194,Male,PRD6778,3,Electronics,Charger,3684.76,4718.69,North East,Gombe
+25/07/2024,ORD544269,Gary Anderson,CUST14348,Male,PRD4673,15,Groceries,Beans,4761.56,5533.29,North Central,Benue
+20/10/2024,ORD393134,Tammie Smith,CUST66040,Male,PRD6894,7,Fashion,Trousers,2898.17,3727.31,North West,Kebbi
+26/01/2025,ORD42292,Paul White,CUST29828,Female,PRD3419,8,Electronics,Smartphone,1669.59,1845.81,North Central,Kwara
+04/05/2025,ORD996571,James Jones,CUST60715,Male,PRD9939,5,Fashion,Cap,2969.27,3954.26,South East,Imo
+11/05/2024,ORD831827,Rachael Richmond,CUST96543,Female,PRD8862,18,Fashion,Cap,3182.81,3684.72,South East,Enugu
+10/01/2025,ORD538426,Brian Cooper,CUST22855,Female,PRD8611,1,Electronics,Charger,1897.67,2166.72,South East,Ebonyi
+04/10/2024,ORD375466,Raymond Duarte,CUST66808,Male,PRD8320,18,Household,Toilet Paper,3938.82,5126.29,North Central,Niger
+08/06/2024,ORD428117,Stephen Webster,CUST49239,Female,PRD7690,4,Groceries,Beans,1876.14,2137.38,South West,Osun
+12/09/2024,ORD996972,Regina Johnson,CUST87848,Female,PRD8014,15,Electronics,Charger,547.52,661.11,South South,Cross River
+14/01/2025,ORD556538,Rachel Shepherd,CUST19703,Male,PRD4049,11,Household,Detergent,3423.82,4028.98,North Central,Nasarawa
+27/10/2024,ORD485619,Michelle Johnson,CUST90723,Male,PRD6001,20,Beverages,Soft Drink,539,693.88,South East,Enugu
+02/03/2025,ORD391912,Angela Quinn,CUST74980,Female,PRD3285,19,Fashion,Shirt,4483.48,5571.64,South South,Edo
+29/12/2024,ORD279415,Charles Robinson,CUST82160,Male,PRD8279,14,Groceries,Rice,4236.84,6230.55,South South,Cross River
+16/12/2024,ORD174310,Steven Williams,CUST84891,Female,PRD5843,7,Groceries,Beans,4623.02,5966.42,South West,Ogun
+16/08/2024,ORD120889,James Pittman,CUST42677,Male,PRD5803,10,Groceries,Beans,4035.38,5743.54,North West,Zamfara
+19/10/2024,ORD715757,Linda Hunter,CUST5548,Female,PRD8941,9,Fashion,Trousers,2818.11,3836.51,North West,Zamfara
+05/05/2024,ORD780947,Rebecca Roy,CUST87134,Male,PRD2483,2,Beverages,Soft Drink,3073.94,3482.89,North Central,Kogi
+01/04/2025,ORD227913,Jonathan Sexton,CUST2657,Male,PRD5595,17,Fashion,Cap,3369.93,4590.16,South East,Abia
+18/04/2025,ORD230548,Heather Porter,CUST48333,Female,PRD5855,5,Groceries,Beans,2247.64,2771.61,North Central,Kwara
+01/02/2025,ORD239885,Jenny Holmes,CUST69150,Female,PRD5436,11,Electronics,Laptop,4764.86,5653.03,North West,Kebbi
+26/08/2024,ORD121644,Andres Bryant,CUST46108,Female,PRD1317,8,Beverages,Juice,1728.51,2287.94,South South,Edo
+01/10/2024,ORD274341,Bryan Gomez,CUST24078,Female,PRD5315,14,Electronics,Smartphone,2970.52,4208.97,South West,Oyo
+22/08/2024,ORD248430,Steven Bowman,CUST86511,Male,PRD4967,11,Electronics,Smartphone,4596.88,5180.58,South West,Ekiti
+26/06/2024,ORD988582,Curtis Howell,CUST7667,Female,PRD7935,2,Electronics,Laptop,4112.79,5041.82,North East,Gombe
+29/10/2024,ORD549060,Isabella Davis,CUST33091,Female,PRD3559,7,Household,Dishwasher,3885.91,5394.8,North Central,FCT
+09/07/2024,ORD107652,Pamela Morris,CUST75107,Female,PRD3378,20,Electronics,Tablet,4730.8,6930.42,North East,Yobe
+15/09/2024,ORD382875,Richard Galloway,CUST58889,Female,PRD5780,7,Household,Dishwasher,2175.35,2652.83,South South,Delta
+13/07/2024,ORD603818,Isaiah Daugherty,CUST12396,Female,PRD2084,20,Fashion,Shoes,2650.65,3154.06,North West,Jigawa
+07/03/2025,ORD501429,Courtney Schultz,CUST93259,Male,PRD3563,18,Household,Detergent,2982.95,3504.87,North West,Kebbi
+31/12/2024,ORD409008,Kimberly Cooper,CUST86466,Female,PRD8647,19,Electronics,Laptop,1134.52,1605.65,North West,Jigawa
+06/04/2025,ORD159227,James Valdez,CUST28009,Female,PRD3827,1,Fashion,Trousers,2804.16,3941.57,South West,Lagos
+20/12/2024,ORD274047,Dana James,CUST47126,Male,PRD7796,7,Electronics,Charger,1603.19,2007.44,North East,Adamawa
+28/09/2024,ORD127301,John Ford,CUST53754,Female,PRD2631,7,Groceries,Beans,2447.68,2828.67,North East,Adamawa
+11/07/2024,ORD554308,Steve Day,CUST40747,Male,PRD5549,20,Electronics,Tablet,742.19,1102.65,North West,Jigawa
+24/07/2024,ORD781630,Krystal Terry,CUST87443,Male,PRD2217,16,Fashion,Shoes,4387.89,6564.51,North Central,Plateau
+26/05/2024,ORD967313,Melissa Davis,CUST87107,Female,PRD1366,10,Beverages,Juice,4869.93,6292.61,South East,Ebonyi
+14/11/2024,ORD29009,Jill Ramirez,CUST84330,Male,PRD2060,13,Groceries,Rice,2451.89,3369.26,North East,Adamawa
+09/06/2024,ORD295971,Jacob Jackson,CUST993,Female,PRD3289,8,Household,Toilet Paper,3882.99,5498.32,South West,Lagos
+29/01/2025,ORD626475,Erik Clark,CUST27927,Male,PRD5032,17,Groceries,Rice,3829.18,4645.66,North East,Borno
+22/05/2024,ORD671156,Rachael Garcia,CUST34800,Female,PRD7574,14,Fashion,Trousers,4624.96,6598.94,North Central,FCT
+26/09/2024,ORD650687,Tina Grimes,CUST32564,Male,PRD9977,1,Household,Toilet Paper,4780.84,5865.8,South East,Imo
+24/08/2024,ORD426849,Mark Collins,CUST69004,Male,PRD1572,8,Household,Toilet Paper,3456.21,4989.61,South South,Edo
+30/03/2025,ORD190859,Brittany Rivera,CUST7891,Female,PRD8496,13,Household,Dishwasher,2716.64,3214.92,South East,Imo
+20/07/2024,ORD196790,Sean Wu,CUST60099,Female,PRD9337,18,Fashion,Cap,2853.17,3461.08,South West,Lagos
+07/02/2025,ORD185388,James Gonzalez,CUST71173,Male,PRD6718,1,Groceries,Rice,3204.63,3592.76,North Central,Kwara
+05/09/2024,ORD495727,George Thomas,CUST30141,Female,PRD9742,15,Groceries,Palm Oil,531.22,615.86,North East,Adamawa
+15/03/2025,ORD709462,Benjamin Cameron,CUST52750,Female,PRD6041,8,Groceries,Beans,4433.02,5052.83,North East,Borno
+02/02/2025,ORD880796,Victor Boyle,CUST97761,Female,PRD9309,17,Electronics,Charger,2528.79,3043.13,North Central,Benue
+29/09/2024,ORD389224,Jeff Murphy,CUST53257,Male,PRD7059,7,Groceries,Beans,3505.95,3913.52,South South,Akwa Ibom
+15/03/2025,ORD831803,Mark Salinas,CUST46218,Male,PRD7630,7,Electronics,Smartphone,4819.38,6599.42,South East,Imo
+05/10/2024,ORD512136,Jose Ortega,CUST71185,Male,PRD9949,17,Household,Dishwasher,534.69,782.06,North Central,Benue
+27/03/2025,ORD864377,Pedro Morgan,CUST62894,Female,PRD5251,13,Household,Dishwasher,3627.5,4732.89,North Central,Kogi
+06/10/2024,ORD849858,Hector Walker,CUST44865,Female,PRD2184,9,Beverages,Juice,2598.46,3857.87,North West,Sokoto
+02/12/2024,ORD625641,Edward Vaughn,CUST69952,Male,PRD4965,4,Beverages,Soft Drink,3964.8,5682.27,South West,Ogun
+21/10/2024,ORD86928,Louis Valencia,CUST54290,Female,PRD3890,12,Groceries,Rice,1073.45,1536.87,South West,Oyo
+08/06/2024,ORD63857,Timothy Jones,CUST90872,Female,PRD1516,13,Beverages,Soft Drink,2543.13,3054.61,North West,Kano
+07/01/2025,ORD845503,Pamela Harris,CUST35884,Male,PRD2097,19,Groceries,Palm Oil,3406.06,4969.95,North East,Bauchi
+16/05/2024,ORD773964,Peter Mann,CUST42920,Female,PRD4021,15,Electronics,Tablet,4906.6,6936.96,North West,Kebbi
+22/07/2024,ORD656732,Peggy Adams,CUST50544,Female,PRD1915,14,Household,Detergent,4455.66,5249.23,South West,Osun
+26/08/2024,ORD878029,Geoffrey Dunlap,CUST14802,Female,PRD6020,6,Fashion,Cap,2342.84,3445.72,South South,Cross River
+05/05/2025,ORD918281,Annette Valentine,CUST23927,Male,PRD5220,17,Beverages,Juice,1395.62,1538.1,South South,Akwa Ibom
+30/12/2024,ORD117044,Kristina Simon,CUST53314,Female,PRD3157,7,Household,Toilet Paper,3814.11,4924.22,South West,Ekiti
+24/07/2024,ORD784397,Larry Brown,CUST58018,Male,PRD2274,12,Electronics,Smartphone,535.3,656.66,North West,Kebbi
+27/11/2024,ORD818965,Dr. Jessica Perry,CUST4647,Male,PRD8047,16,Electronics,Charger,1054.07,1338.91,North Central,Kwara
+10/01/2025,ORD244422,Janet Rivas,CUST98631,Female,PRD6341,14,Beverages,Soft Drink,3499.91,4640.66,North Central,Plateau
+08/06/2024,ORD858620,Alexander Grant,CUST77736,Male,PRD7609,20,Electronics,Tablet,1509.87,1983.39,South East,Ebonyi
+27/12/2024,ORD6176,Jason Lee,CUST53616,Female,PRD7076,3,Groceries,Rice,3709.45,4321.41,South South,Akwa Ibom
+16/11/2024,ORD943253,Luke Smith,CUST74971,Female,PRD1834,10,Electronics,Tablet,2836.38,3210.61,North East,Bauchi
+19/05/2024,ORD360987,Dale Martinez,CUST85336,Female,PRD1978,4,Fashion,Cap,2098.1,2312.79,North West,Kano
+23/12/2024,ORD331086,Martha Miller,CUST6547,Male,PRD8914,8,Fashion,Trousers,4905.46,6252.45,South East,Enugu
+27/11/2024,ORD181904,Tanner Scott,CUST12849,Female,PRD9091,5,Beverages,Juice,4350.64,5016.19,South South,Delta
+28/10/2024,ORD255104,Robert Stewart Jr.,CUST51393,Male,PRD5754,16,Household,Toilet Paper,4843.31,5713.1,South East,Ebonyi
+19/09/2024,ORD555202,Gabriel Snyder,CUST37543,Female,PRD4916,12,Beverages,Soft Drink,4989.66,6860.67,South West,Osun
+20/09/2024,ORD907674,Raven Miller,CUST18128,Male,PRD2091,7,Groceries,Beans,1059.5,1252.25,North Central,Nasarawa
+04/05/2025,ORD368936,Samantha Garner,CUST33722,Female,PRD1885,5,Household,Dishwasher,3180.92,4384.58,South East,Imo
+12/05/2024,ORD848674,Kelly Pennington,CUST56714,Male,PRD3401,9,Beverages,Juice,3330.95,3792.5,North Central,Nasarawa
+30/09/2024,ORD172422,Kenneth Crawford,CUST48325,Female,PRD5344,18,Beverages,Soft Drink,2247.47,2711.72,South South,Cross River
+28/06/2024,ORD21557,Robert Powell,CUST19426,Female,PRD6253,7,Beverages,Juice,3505.83,4114.01,South East,Enugu
+17/07/2024,ORD261325,Kevin Johnson,CUST36710,Female,PRD1825,15,Beverages,Juice,4580.75,5986.75,North West,Kano
+25/04/2025,ORD693571,Lisa Gutierrez,CUST45921,Female,PRD4131,12,Groceries,Rice,1382.45,1549.7,South East,Ebonyi
+30/01/2025,ORD324398,Timothy Adams,CUST58740,Female,PRD6382,20,Household,Detergent,3949.48,5135.19,South West,Lagos
+12/03/2025,ORD622514,Joanne Green,CUST4783,Male,PRD5134,17,Groceries,Rice,3807.26,4526.54,South West,Osun
+04/06/2024,ORD205152,Kristen Ross,CUST49416,Female,PRD1974,10,Beverages,Juice,2975.41,4320.08,North Central,Kwara
+24/10/2024,ORD190788,Tammy Hanson,CUST88577,Female,PRD9155,19,Household,Toilet Paper,2946.96,3671.1,North West,Kano
+27/02/2025,ORD812819,Seth Wilcox,CUST47497,Female,PRD6261,11,Electronics,Smartphone,3537.02,4123.42,North Central,Nasarawa
+26/05/2024,ORD370483,Frank Smith,CUST82643,Female,PRD5980,5,Household,Toilet Paper,4615.59,5549.44,South West,Ekiti
+14/01/2025,ORD958932,Stephen Ingram,CUST92589,Male,PRD7617,15,Beverages,Bottle Water,3168.78,4267.33,South South,Edo
+03/09/2024,ORD33130,Lee King,CUST98592,Male,PRD9858,16,Groceries,Vegetable Oil,1567.16,2039.64,South West,Ekiti
+11/04/2025,ORD414083,Vicki Brown,CUST19240,Female,PRD6670,16,Electronics,Charger,1229.9,1539.27,North Central,Kogi
+22/01/2025,ORD36413,Donald Evans,CUST37205,Female,PRD3714,8,Beverages,Juice,1286.81,1524.4,South South,Cross River
+30/10/2024,ORD216616,Sara Yates,CUST22516,Female,PRD2654,4,Groceries,Vegetable Oil,3215.48,4404.41,South South,Rivers
+31/03/2025,ORD554141,Samantha Evans,CUST80915,Female,PRD2011,20,Beverages,Bottle Water,2653.64,3456.39,North West,Jigawa
+16/10/2024,ORD183883,Nathaniel Smith,CUST70138,Female,PRD9209,20,Groceries,Palm Oil,1628.27,2030.98,South West,Ondo
+22/03/2025,ORD894757,Jordan Avila,CUST64458,Male,PRD6074,20,Household,Detergent,1685.02,1978.47,South East,Enugu
+26/10/2024,ORD312288,Sergio Ruiz,CUST28110,Male,PRD7736,1,Electronics,Smartphone,1035.93,1318.37,North Central,Plateau
+29/09/2024,ORD908244,Scott Hernandez,CUST84001,Female,PRD2653,6,Household,Detergent,2316.95,2956.74,South South,Edo
+30/03/2025,ORD25337,Jeremy Leblanc,CUST71664,Female,PRD2180,4,Electronics,Smartphone,3696.11,4137.33,North East,Yobe
+18/06/2024,ORD700434,Mr. Kevin Brown,CUST67812,Female,PRD1897,6,Electronics,Charger,1436.99,1943.18,South West,Lagos
+20/12/2024,ORD902919,Gregory Hernandez,CUST81956,Male,PRD6685,7,Groceries,Beans,1109.2,1224.7,South West,Ekiti
+30/01/2025,ORD507848,Anna Frazier,CUST50600,Female,PRD7066,17,Beverages,Bottle Water,4561.03,5346.38,South South,Akwa Ibom
+25/08/2024,ORD33445,Larry Clements,CUST95256,Male,PRD6054,16,Beverages,Bottle Water,3386.92,3999.61,South East,Abia
+03/05/2025,ORD187507,Debra Simmons,CUST40667,Male,PRD5117,4,Groceries,Vegetable Oil,4065.81,5213.12,South East,Ebonyi
+05/07/2024,ORD122326,Jill Mayo,CUST59911,Male,PRD8204,14,Groceries,Palm Oil,1334.17,1554.48,North Central,Benue
+19/12/2024,ORD23021,Jacob Greene,CUST14921,Male,PRD6615,3,Household,Toilet Paper,1595.47,1876.51,South East,Ebonyi
+09/01/2025,ORD922161,Taylor Jackson,CUST57093,Female,PRD8053,3,Electronics,Tablet,4873.66,7036.42,North Central,Plateau
+26/06/2024,ORD317578,Adam Manning,CUST97837,Male,PRD7615,13,Household,Toilet Paper,2259.67,3347.12,South West,Osun
+25/10/2024,ORD6205,Angela Osborne,CUST1744,Male,PRD4973,7,Household,Dishwasher,4384.89,5751.11,South South,Rivers
+05/10/2024,ORD572967,Lisa Morris,CUST64249,Male,PRD8147,13,Household,Detergent,4616.02,5852.3,North Central,Plateau
+21/11/2024,ORD218120,Jacob Brown,CUST42368,Female,PRD9474,7,Household,Toilet Paper,568.17,772.4,South East,Anambra
+08/04/2025,ORD869369,Richard Johnson,CUST8305,Male,PRD7211,13,Groceries,Rice,644.58,788.94,North Central,Kogi
+02/10/2024,ORD926582,Michelle Hawkins,CUST47049,Male,PRD4794,5,Fashion,Trousers,3726.72,4509.18,North West,Zamfara
+25/05/2024,ORD169807,Andrew Lynch,CUST75719,Female,PRD5792,14,Household,Detergent,4859.01,6674.35,North West,Katsina
+16/02/2025,ORD546034,Kristen Graham,CUST50151,Female,PRD9932,8,Electronics,Laptop,605.07,845.48,North East,Taraba
+06/01/2025,ORD36454,Michele Schultz,CUST90085,Female,PRD9860,5,Household,Toilet Paper,896.42,1145.28,South West,Ondo
+03/08/2024,ORD546545,Daniel Velazquez,CUST40499,Male,PRD2966,17,Electronics,Smartphone,3403.97,4101.4,North Central,Niger
+17/02/2025,ORD623391,Jessica Lopez,CUST92862,Male,PRD4086,15,Electronics,Smartphone,2576.62,3798.69,North Central,Nasarawa
+25/03/2025,ORD419197,Tiffany Li,CUST22082,Female,PRD9815,13,Groceries,Palm Oil,4435.79,6213.79,North West,Kaduna
+09/09/2024,ORD436072,Kimberly Moore,CUST55186,Female,PRD1994,18,Electronics,Smartphone,4211.07,4940.2,North Central,Niger
+19/08/2024,ORD407552,Tracey Barnes,CUST88380,Male,PRD7323,13,Groceries,Beans,780.66,981.04,North East,Adamawa
+22/03/2025,ORD798910,Chloe Shepherd,CUST97905,Male,PRD1527,12,Household,Dishwasher,4202.91,6241.15,South West,Ondo
+18/11/2024,ORD284903,Dana Thomas,CUST32469,Male,PRD4643,10,Groceries,Beans,4794.11,6901.45,North Central,Nasarawa
+24/08/2024,ORD169219,Kevin Thompson,CUST50322,Female,PRD3119,17,Household,Dishwasher,3110.88,4106.57,South South,Edo
+14/04/2025,ORD65312,Brian Marks,CUST60224,Female,PRD5443,17,Household,Detergent,2014.84,2556.73,North Central,Nasarawa
+12/07/2024,ORD218245,Carol Phillips,CUST61011,Male,PRD1318,9,Fashion,Shoes,2320.81,3446.35,South East,Anambra
+15/04/2025,ORD705343,Diane Jones,CUST3068,Male,PRD1025,13,Beverages,Juice,1860.56,2255.99,South South,Delta
+14/07/2024,ORD606892,John Williams,CUST66812,Male,PRD4290,7,Beverages,Juice,2049.81,2535.66,North West,Jigawa
+22/09/2024,ORD275438,Joseph Scott,CUST46927,Male,PRD5840,6,Fashion,Trousers,1586.28,1802.86,South South,Rivers
+21/12/2024,ORD995317,Paul Lara,CUST98666,Female,PRD4999,3,Beverages,Juice,1747.51,2335.45,South East,Ebonyi
+11/06/2024,ORD146336,Melissa Willis,CUST61954,Male,PRD9066,6,Electronics,Charger,4261.14,4822.12,North Central,Kogi
+08/10/2024,ORD129774,Kathy Scott,CUST52188,Male,PRD2428,16,Beverages,Bottle Water,2959.88,3681.25,North Central,FCT
+21/08/2024,ORD41404,Amber Chambers,CUST73858,Female,PRD1628,12,Fashion,Cap,3466.38,4099.97,South South,Rivers
+26/10/2024,ORD514878,Brooke Shelton,CUST82692,Female,PRD4776,17,Fashion,Cap,4862.61,5362.54,South West,Ondo
+17/01/2025,ORD957730,Denise Ryan,CUST35151,Female,PRD2304,9,Household,Detergent,550.36,817.75,South East,Anambra
+27/09/2024,ORD582139,Lisa Spencer,CUST50465,Female,PRD8502,13,Fashion,Cap,1439.01,2010.28,North East,Borno
+11/01/2025,ORD726720,Amber Hill,CUST85718,Male,PRD7052,1,Groceries,Beans,1046.38,1425.83,North East,Borno
+09/02/2025,ORD714854,Jonathan Woodard,CUST7132,Female,PRD7211,6,Electronics,Smartphone,4830.78,7132.48,South South,Edo
+27/12/2024,ORD159051,Chad Erickson,CUST49281,Male,PRD2956,17,Household,Toilet Paper,927.72,1096.89,North Central,Niger
+22/03/2025,ORD166755,Victoria Berger,CUST8696,Female,PRD9429,11,Beverages,Juice,1570.29,2269.77,South West,Osun
+25/04/2025,ORD977220,Joseph Henry DDS,CUST31897,Male,PRD2115,16,Household,Dishwasher,795.44,880.99,North West,Sokoto
+20/03/2025,ORD240150,Benjamin Kennedy,CUST38036,Female,PRD2249,6,Fashion,Shoes,4487.06,6635.99,North West,Kano
+30/09/2024,ORD460369,Joshua Curtis,CUST49764,Female,PRD1071,14,Fashion,Cap,2115.48,2425.78,South West,Osun
+20/01/2025,ORD773676,Kelsey Ayers,CUST50482,Female,PRD3758,11,Beverages,Bottle Water,2526.04,3770.4,North Central,Kwara
+03/09/2024,ORD277816,Mrs. Heather Mcconnell,CUST73677,Male,PRD7043,2,Electronics,Charger,4959.05,6728.51,North East,Taraba
+18/09/2024,ORD824850,Wendy Mitchell,CUST37788,Male,PRD2476,6,Household,Detergent,3059.84,4305.68,South West,Lagos
+11/06/2024,ORD681184,Michelle Castro,CUST91547,Female,PRD4486,9,Groceries,Palm Oil,2879.1,4092.88,North East,Adamawa
+20/01/2025,ORD564932,Robin Brown,CUST80401,Female,PRD1822,13,Beverages,Bottle Water,3937.68,5330,South East,Abia
+24/01/2025,ORD474562,Clayton Alvarez,CUST58634,Male,PRD1905,12,Electronics,Laptop,2992.86,3426.46,North Central,Benue
+07/08/2024,ORD704341,Monica Ward,CUST91731,Female,PRD4318,2,Beverages,Soft Drink,2313.25,3180.87,South West,Lagos
+03/01/2025,ORD42311,Mrs. Ashley Young,CUST24565,Male,PRD5434,12,Fashion,Cap,2833.5,4163.21,North Central,FCT
+14/05/2024,ORD481075,Jennifer Moore,CUST6052,Male,PRD5475,7,Electronics,Laptop,2260.01,3126.69,South South,Delta
+12/05/2024,ORD423759,Steven Sanders,CUST6173,Male,PRD3507,8,Fashion,Cap,3692.27,5516.34,South East,Imo
+10/02/2025,ORD808223,Robert Rodriguez,CUST6089,Female,PRD1220,2,Beverages,Juice,2464.22,3408.42,North West,Kano
+23/03/2025,ORD44244,Stanley Woodard,CUST71001,Female,PRD9098,15,Beverages,Juice,2239.44,2805.18,North West,Sokoto
+04/09/2024,ORD40144,Sarah Ward,CUST73408,Female,PRD8255,15,Electronics,Tablet,4808.69,5293.23,North Central,Niger
+05/02/2025,ORD578897,Jeff Smith,CUST49240,Male,PRD4112,9,Household,Detergent,4321.91,6202.34,North Central,Plateau
+10/07/2024,ORD229466,Charles Oneill,CUST76427,Male,PRD2777,6,Household,Dishwasher,2241.84,2683.92,North West,Jigawa
+31/07/2024,ORD768671,Mrs. Faith Prince,CUST74261,Female,PRD8823,1,Electronics,Charger,4206.19,5781.87,North East,Taraba
+26/08/2024,ORD786433,Catherine Morris,CUST43794,Male,PRD1486,8,Groceries,Beans,4176.99,4829.44,North West,Kaduna
+02/05/2025,ORD323290,Sean Ruiz,CUST74587,Male,PRD8556,3,Groceries,Vegetable Oil,4201.7,5145.31,North East,Yobe
+19/01/2025,ORD334123,Denise Krueger,CUST50285,Male,PRD8753,17,Beverages,Soft Drink,2893.79,3408.29,South West,Osun
+26/07/2024,ORD182779,Jessica Watts,CUST14320,Female,PRD9200,16,Electronics,Tablet,4978.23,6735.94,North West,Kebbi
+28/07/2024,ORD864795,Beverly Waters,CUST63575,Female,PRD3309,13,Groceries,Beans,2753.11,3503.97,South East,Enugu
+07/02/2025,ORD437035,Dr. Todd Sloan,CUST76707,Female,PRD2064,4,Fashion,Cap,2481.73,3013.71,South South,Akwa Ibom
+21/01/2025,ORD653636,Zachary Hill,CUST47414,Male,PRD7648,19,Beverages,Bottle Water,1974.84,2822.78,North East,Yobe
+26/03/2025,ORD311895,Scott Gonzalez,CUST75380,Male,PRD9081,16,Beverages,Soft Drink,2270.72,3226.22,South East,Ebonyi
+15/02/2025,ORD351528,William Dickson,CUST29434,Female,PRD4442,3,Beverages,Bottle Water,4897.64,5414.94,North East,Adamawa
+30/09/2024,ORD343261,Riley Garrett,CUST960,Female,PRD5934,18,Household,Detergent,3193.04,3796.68,North East,Bauchi
+28/01/2025,ORD975174,Phillip Bennett,CUST37462,Male,PRD6328,17,Beverages,Soft Drink,2172.04,3007.62,North East,Adamawa
+27/02/2025,ORD616429,Christopher Martin,CUST63740,Male,PRD9991,14,Household,Toilet Paper,2478.99,3081.34,North Central,Plateau
+04/07/2024,ORD756971,Brianna Reid,CUST58691,Male,PRD3311,2,Fashion,Cap,1962,2510.36,South West,Osun
+02/01/2025,ORD602753,Reginald Hopkins,CUST71563,Male,PRD9909,7,Household,Dishwasher,1409.98,2020.56,North Central,Kogi
+10/12/2024,ORD723979,Sarah Jones,CUST15361,Male,PRD9858,2,Household,Toilet Paper,554.25,679.65,South West,Ekiti
+02/11/2024,ORD295922,Raymond Fletcher,CUST69345,Female,PRD4101,20,Fashion,Trousers,3685.22,4865.72,North West,Kano
+01/11/2024,ORD223930,Daniel Boyd,CUST69816,Male,PRD9512,18,Fashion,Trousers,4398.29,6229.03,South East,Enugu
+17/11/2024,ORD922063,Elizabeth Spencer,CUST82927,Male,PRD2547,20,Fashion,Shirt,2307.92,2600.47,North West,Sokoto
+22/10/2024,ORD752994,Joseph Steele,CUST93495,Male,PRD9068,18,Electronics,Charger,1428.18,1862.76,North Central,Niger
+03/01/2025,ORD316542,Matthew Combs,CUST8412,Female,PRD6063,20,Household,Detergent,1155.26,1582.96,North Central,Benue
+22/10/2024,ORD15572,Eric Spence,CUST98110,Male,PRD8891,8,Household,Dishwasher,3893.94,5136.57,North East,Bauchi
+01/02/2025,ORD295538,Karen Webb,CUST7156,Female,PRD2157,8,Household,Detergent,1869.99,2475.93,South South,Rivers
+25/06/2024,ORD272158,Cindy Keith,CUST10696,Male,PRD1241,10,Household,Dishwasher,4544.65,6405.26,North West,Zamfara
+10/04/2025,ORD963733,Mr. James Mitchell DDS,CUST32452,Male,PRD4860,15,Household,Dishwasher,2501.62,3665.47,North Central,Niger
+20/10/2024,ORD172492,Alyssa Yoder,CUST69414,Male,PRD5826,7,Household,Dishwasher,2967.06,4042.56,North West,Zamfara
+07/12/2024,ORD836094,Jeremy Kline,CUST45804,Female,PRD9913,9,Electronics,Smartphone,4796.9,6294.39,South South,Edo
+29/10/2024,ORD17860,Elizabeth Fox,CUST75704,Female,PRD2450,1,Fashion,Shirt,556.75,671.38,South South,Bayelsa
+18/02/2025,ORD485500,Nicole Burns,CUST79028,Male,PRD5306,9,Beverages,Soft Drink,4849.24,5850.29,North West,Zamfara
+23/11/2024,ORD39030,Clifford Bowman,CUST95744,Female,PRD8494,12,Fashion,Shirt,1559.07,2117.82,South West,Ekiti
+03/07/2024,ORD355412,Deanna Reid,CUST88077,Male,PRD3144,1,Groceries,Rice,4898.31,5608.27,South South,Delta
+20/05/2024,ORD153318,Angel Watkins,CUST5236,Male,PRD1646,17,Electronics,Charger,4664.75,6267.49,South West,Ekiti
+04/08/2024,ORD853341,Tina Burch,CUST25789,Female,PRD5885,7,Beverages,Bottle Water,4348.88,5633.92,South South,Delta
+10/06/2024,ORD922203,Lori Jacobs,CUST1172,Male,PRD3721,6,Beverages,Juice,3776.74,4701.06,North East,Taraba
+17/07/2024,ORD278178,Ashley Andersen,CUST31633,Male,PRD8308,2,Fashion,Trousers,4700.92,6544.03,South East,Imo
+20/02/2025,ORD10534,Cody Richardson,CUST53914,Female,PRD1720,16,Fashion,Trousers,1409.24,1729.04,South East,Abia
+30/11/2024,ORD146482,Kevin Stephenson,CUST45775,Female,PRD7763,18,Beverages,Juice,2294.9,2613.83,North Central,Niger
+31/08/2024,ORD986604,James West,CUST26,Male,PRD5656,12,Household,Toilet Paper,2964.77,3443.36,North Central,Niger
+05/09/2024,ORD143481,Patrick Sparks,CUST88368,Male,PRD7841,7,Electronics,Laptop,1436.7,1916.8,South South,Delta
+08/09/2024,ORD337717,Jose Levine,CUST22151,Female,PRD3115,11,Household,Detergent,829.61,1015.25,North West,Katsina
+23/04/2025,ORD126361,Anthony Jennings,CUST7451,Male,PRD3480,1,Groceries,Rice,3639.8,5283.83,South West,Ogun
+22/05/2024,ORD125084,Kelly Fernandez,CUST12360,Female,PRD6537,20,Groceries,Beans,739.51,1013.66,North West,Sokoto
+05/01/2025,ORD645001,Christopher Newman,CUST34175,Male,PRD1447,8,Groceries,Palm Oil,2377.27,3561.61,North West,Zamfara
+23/04/2025,ORD810875,Olivia Jones,CUST53916,Female,PRD4223,3,Household,Dishwasher,3508.58,4864.01,South South,Akwa Ibom
+19/03/2025,ORD934881,Allison Leonard,CUST39266,Female,PRD6941,10,Household,Detergent,4998.83,6022.52,South West,Ondo
+08/03/2025,ORD857182,Bonnie Smith,CUST35865,Male,PRD1688,3,Groceries,Rice,969.95,1315.08,North Central,Kwara
+21/07/2024,ORD345596,Mary Williams,CUST18067,Female,PRD5472,4,Beverages,Bottle Water,3884.41,5530.57,North Central,FCT
+19/02/2025,ORD90903,Anthony Gross,CUST59024,Female,PRD8399,2,Groceries,Rice,4323.13,6478.26,South East,Ebonyi
+29/07/2024,ORD733474,Brian Woodward,CUST32542,Male,PRD7796,1,Fashion,Trousers,2738.61,3591.14,North East,Yobe
+29/11/2024,ORD60418,Amanda Williamson,CUST32507,Male,PRD8584,11,Household,Dishwasher,2522.39,2947.67,South South,Rivers
+14/09/2024,ORD287904,Jordan Becker,CUST21881,Female,PRD3481,15,Beverages,Juice,1513.44,1833.07,South East,Abia
+30/12/2024,ORD463929,Jason Lane,CUST35265,Female,PRD3821,3,Beverages,Bottle Water,2828.7,3869.73,South South,Rivers
+15/12/2024,ORD821113,Eugene Hayes,CUST86281,Male,PRD9501,13,Fashion,Shoes,2353.6,3399.72,North East,Gombe
+28/04/2025,ORD114281,Stephanie King,CUST93253,Male,PRD7366,18,Beverages,Juice,2130.24,2880.92,North West,Jigawa
+21/09/2024,ORD304216,Katherine Gomez,CUST1654,Female,PRD5581,10,Groceries,Rice,1487.14,2001.7,South South,Bayelsa
+25/01/2025,ORD138249,Erica Smith,CUST99165,Male,PRD5476,7,Fashion,Cap,4547.52,5020.67,North Central,Niger
+01/09/2024,ORD985877,Emily Jones,CUST58557,Male,PRD8589,15,Groceries,Vegetable Oil,852.27,1030.61,North West,Kano
+25/11/2024,ORD91085,Gary Davis,CUST76988,Male,PRD1988,16,Electronics,Tablet,1403.02,1831.46,North Central,Plateau
+25/05/2024,ORD254419,Andrew Donaldson,CUST99905,Male,PRD5389,4,Fashion,Shirt,3564.61,4659.47,South East,Imo
+16/02/2025,ORD616995,Lauren Clements,CUST16841,Female,PRD1314,16,Fashion,Cap,1769.89,2267.2,South East,Imo
+17/02/2025,ORD177656,Andrew Mcdonald,CUST72573,Male,PRD7073,15,Fashion,Shoes,4860.92,5442.91,North East,Adamawa
+22/12/2024,ORD506817,Brittany Jackson,CUST95579,Female,PRD7448,18,Electronics,Charger,2794.02,4067.94,South West,Ondo
+25/08/2024,ORD387644,Kyle Dawson,CUST12491,Female,PRD7697,18,Groceries,Vegetable Oil,2689.03,3056.17,South West,Oyo
+01/08/2024,ORD976504,Daniel Thompson,CUST33738,Male,PRD9322,14,Electronics,Smartphone,3591.64,3964.35,South South,Rivers
+13/05/2024,ORD344937,Cassie Chavez,CUST59120,Female,PRD8883,17,Household,Toilet Paper,2667,3198.78,North West,Kano
+06/10/2024,ORD733062,Robert Hawkins,CUST91955,Male,PRD7391,20,Fashion,Trousers,4483.81,5230.67,South West,Ogun
+12/10/2024,ORD245835,Dennis Dunlap,CUST90166,Female,PRD9990,10,Fashion,Shirt,4302.03,5081.95,South East,Anambra
+15/07/2024,ORD896940,April Patel,CUST92668,Male,PRD1074,4,Beverages,Juice,533.7,669.05,North West,Kaduna
+08/11/2024,ORD842517,Brandi Mcdonald,CUST96290,Female,PRD2986,15,Fashion,Cap,4423.65,5744.27,South West,Oyo
+19/06/2024,ORD500537,Kelly Rogers,CUST79828,Male,PRD4881,17,Fashion,Shirt,3821.54,4957.52,North East,Gombe
+24/10/2024,ORD896873,Harry Turner,CUST2971,Male,PRD7554,11,Groceries,Palm Oil,1563.75,2325.09,North Central,Benue
+20/09/2024,ORD211297,Brittany Smith,CUST54752,Female,PRD3451,5,Groceries,Palm Oil,4408.44,6286.87,South East,Imo
+12/04/2025,ORD507221,Meghan Thomas,CUST58700,Female,PRD6965,4,Beverages,Soft Drink,3438.37,4510.89,South East,Anambra
+07/03/2025,ORD894094,Anne Shaffer,CUST91803,Male,PRD4107,18,Groceries,Rice,2020.1,2454.58,North Central,Kogi
+06/04/2025,ORD873878,Elizabeth Crawford,CUST27894,Male,PRD8578,18,Beverages,Juice,675.26,744.35,South West,Ondo
+20/06/2024,ORD399759,David Contreras,CUST40197,Male,PRD8644,11,Groceries,Rice,1775.24,2500.15,South West,Lagos
+15/08/2024,ORD126475,Anthony Jones,CUST73110,Female,PRD3462,9,Electronics,Tablet,806.64,979.71,South East,Anambra
+11/09/2024,ORD742001,Sheila Ruiz,CUST32374,Female,PRD7650,11,Household,Dishwasher,3443.02,4126.79,North East,Bauchi
+18/05/2024,ORD666382,Sean Daniel,CUST40274,Female,PRD2491,14,Beverages,Bottle Water,4627.29,6004.23,North West,Kebbi
+14/06/2024,ORD47150,Haley Edwards,CUST47465,Female,PRD3634,9,Beverages,Soft Drink,4480.44,6265.08,North East,Bauchi
+25/09/2024,ORD863181,Christina Byrd,CUST26812,Female,PRD4549,15,Electronics,Smartphone,1284.71,1423.68,North West,Kebbi
+22/01/2025,ORD302158,Scott Brown,CUST49200,Female,PRD5303,19,Beverages,Soft Drink,2773.47,4151.89,South East,Abia
+04/10/2024,ORD725304,Laura Johnson,CUST59368,Female,PRD2957,8,Household,Toilet Paper,4204.49,5069.91,North Central,Kogi
+29/12/2024,ORD10563,Natasha Robinson,CUST98687,Male,PRD9143,12,Electronics,Tablet,4812.61,6251.44,North East,Borno
+02/12/2024,ORD896403,Casey Oneill,CUST18228,Female,PRD8090,16,Fashion,Trousers,2710.19,3892.72,North Central,Niger
+21/03/2025,ORD370636,Tamara Johnston,CUST94168,Female,PRD2598,9,Beverages,Soft Drink,4454.09,6241.88,South South,Cross River
+29/01/2025,ORD295305,Jonathan Tate,CUST46558,Female,PRD6202,10,Household,Detergent,594.08,743.33,North East,Adamawa
+06/09/2024,ORD380501,Katelyn Daugherty,CUST90601,Female,PRD8380,1,Groceries,Palm Oil,993.92,1242.82,South West,Ekiti
+15/05/2024,ORD610778,Allison Decker,CUST87756,Male,PRD8265,14,Groceries,Rice,3607.35,5041.14,South South,Edo
+16/05/2024,ORD968250,Brian Solis,CUST58697,Male,PRD8134,15,Groceries,Palm Oil,4033.42,5182.73,North East,Taraba
+17/04/2025,ORD923880,Jennifer Wallace,CUST96844,Female,PRD2933,5,Electronics,Smartphone,4062.46,5633.86,North East,Borno
+05/05/2024,ORD755641,Cynthia Vazquez,CUST74702,Female,PRD5918,7,Groceries,Vegetable Oil,2514.76,3120.35,South South,Akwa Ibom
+24/01/2025,ORD517840,Samantha Taylor,CUST18752,Male,PRD8836,4,Groceries,Beans,1136.1,1599.49,South South,Cross River
+04/08/2024,ORD413085,Bobby Jenkins,CUST50688,Male,PRD5152,12,Household,Detergent,4672.13,6786.21,South South,Bayelsa
+29/08/2024,ORD805094,Laurie Pierce,CUST36256,Male,PRD4946,20,Groceries,Rice,2595.72,2957.87,North Central,FCT
+17/08/2024,ORD91488,Gerald Wilcox,CUST60239,Female,PRD8004,2,Groceries,Beans,1616.33,2154.23,South East,Imo
+02/12/2024,ORD477065,Thomas Carpenter,CUST70784,Female,PRD3518,8,Fashion,Cap,2689.64,3268.74,North Central,Niger
+05/07/2024,ORD242129,Amanda Orr,CUST48140,Male,PRD5467,10,Beverages,Soft Drink,1202.7,1360.03,South South,Bayelsa
+14/05/2024,ORD317434,James Hanson,CUST78812,Male,PRD8800,19,Beverages,Soft Drink,565.56,705.72,South East,Enugu
+03/11/2024,ORD439480,Sharon Haynes,CUST54137,Female,PRD1025,13,Beverages,Juice,565.61,808.3,South South,Akwa Ibom
+29/01/2025,ORD803352,Jeffrey Horton,CUST30879,Male,PRD5812,12,Household,Dishwasher,1360.94,2026.59,North Central,Niger
+09/11/2024,ORD68029,Martin Hicks,CUST42728,Female,PRD7152,12,Electronics,Tablet,1749.37,2545.41,South South,Edo
+12/09/2024,ORD219140,Lucas Blake,CUST29590,Female,PRD5238,8,Groceries,Beans,2466.11,2954.19,North East,Gombe
+08/07/2024,ORD484463,Samantha Tapia,CUST79365,Female,PRD9460,3,Beverages,Soft Drink,4954.14,5652.62,North East,Yobe
+23/04/2025,ORD215710,Nathan Martinez,CUST78374,Male,PRD4111,10,Beverages,Bottle Water,2488.84,3514.8,South East,Anambra
+09/12/2024,ORD729141,Jane Christian,CUST86105,Male,PRD9077,18,Fashion,Cap,1183.25,1476.26,North West,Zamfara
+02/06/2024,ORD975885,Debra Owen,CUST37247,Male,PRD8151,8,Electronics,Laptop,2218.6,3092.53,South West,Oyo
+12/07/2024,ORD56652,Andrew Bryant,CUST15362,Male,PRD2685,8,Fashion,Trousers,4183.12,5296.14,South East,Anambra
+17/05/2024,ORD293120,Timothy Cruz,CUST88635,Female,PRD8045,15,Household,Detergent,2418.88,3098.39,South West,Ondo
+14/12/2024,ORD528631,Jesse Ryan,CUST19334,Male,PRD9441,4,Fashion,Shoes,4566.93,5157.51,North Central,Nasarawa
+11/10/2024,ORD681060,Nicole Nunez,CUST38637,Female,PRD7152,3,Household,Toilet Paper,931.43,1173.36,South East,Abia
+24/09/2024,ORD12495,George Peterson,CUST47828,Male,PRD9951,10,Fashion,Cap,2281.38,3101.76,South South,Cross River
+02/01/2025,ORD773961,Melissa Oneal,CUST17515,Male,PRD1182,3,Groceries,Rice,2943.73,4336.86,North Central,Nasarawa
+30/12/2024,ORD786392,Dr. Kayla Lopez,CUST12441,Female,PRD5997,16,Household,Dishwasher,2416.59,2762.84,North West,Jigawa
+04/04/2025,ORD783116,Lori Phillips,CUST93085,Female,PRD9074,5,Electronics,Laptop,1886.14,2676.09,South South,Cross River
+06/09/2024,ORD253395,Terrence Whitney,CUST57331,Female,PRD4601,9,Fashion,Cap,3421.37,3783.02,North West,Kaduna
+25/04/2025,ORD678640,Scott Reese,CUST41550,Male,PRD7498,3,Electronics,Charger,4582.92,6014.83,North East,Borno
+09/11/2024,ORD525688,David Ramos,CUST90619,Female,PRD5807,15,Groceries,Rice,1659.01,2471.03,South East,Abia
+02/06/2024,ORD754477,Stephanie Conway,CUST91713,Female,PRD7585,11,Groceries,Beans,3429.35,5082.32,South East,Ebonyi
+04/04/2025,ORD655886,Courtney Lopez,CUST41065,Male,PRD5431,17,Groceries,Palm Oil,1392.76,1801.98,South East,Anambra
+08/02/2025,ORD610965,Mr. Joseph Olson,CUST39260,Female,PRD6163,13,Fashion,Trousers,1005.23,1134.94,South East,Abia
+27/03/2025,ORD742194,Patricia Carey,CUST13018,Male,PRD4750,11,Beverages,Soft Drink,4122.3,5602.65,North East,Borno
+01/05/2025,ORD892760,Richard Keller,CUST90214,Female,PRD8710,14,Groceries,Vegetable Oil,4757.04,5447.16,North Central,Niger
+19/09/2024,ORD905811,William Newton,CUST53196,Female,PRD1064,7,Household,Toilet Paper,880.35,1198.21,North West,Katsina
+06/07/2024,ORD215164,Paul Woods,CUST93565,Female,PRD6707,16,Beverages,Juice,3536.19,5091.83,North Central,Plateau
+04/06/2024,ORD967977,Tristan Fuller,CUST18924,Female,PRD6354,11,Groceries,Rice,3227.65,3706.75,North Central,Plateau
+24/09/2024,ORD788816,Mary Sandoval,CUST39186,Male,PRD3491,19,Fashion,Shirt,1531.85,1980.53,South East,Abia
+24/02/2025,ORD764304,Michael Tran,CUST90313,Female,PRD5042,17,Beverages,Soft Drink,4879.01,6221.31,South South,Delta
+07/07/2024,ORD436960,Alexandra Hanson,CUST1447,Female,PRD3252,15,Household,Detergent,3628.09,4426.83,North West,Kano
+03/06/2024,ORD176442,Dr. Alexis Montgomery,CUST75995,Male,PRD3828,11,Fashion,Cap,1348.86,1873.52,South East,Ebonyi
+22/04/2025,ORD580034,Stacey Marquez,CUST51881,Female,PRD7192,5,Groceries,Palm Oil,4888.46,6116.67,North Central,FCT
+05/01/2025,ORD267871,Debra Meyer,CUST94581,Female,PRD9741,12,Electronics,Tablet,2940.99,3442.29,South East,Anambra
+12/12/2024,ORD915750,Caroline Brown,CUST27577,Male,PRD1759,7,Beverages,Soft Drink,4111.52,5348.56,South East,Anambra
+08/12/2024,ORD499849,Stephen Massey,CUST3811,Male,PRD3024,15,Fashion,Shirt,3769.1,4942.47,South East,Ebonyi
+29/03/2025,ORD833585,Kenneth Odom,CUST72457,Female,PRD3581,15,Electronics,Laptop,1460.52,2045.66,North West,Katsina
+18/09/2024,ORD672250,Frank Morris,CUST50702,Female,PRD9476,9,Household,Detergent,2431.2,2981.96,South South,Delta
+02/03/2025,ORD717168,Stephen Atkinson PhD,CUST16070,Male,PRD5888,17,Beverages,Bottle Water,4710.11,5565.85,South South,Bayelsa
+26/08/2024,ORD451137,Sarah Day,CUST27550,Male,PRD3426,2,Household,Dishwasher,3117,4465.33,South South,Rivers
+25/06/2024,ORD570160,Joshua Reyes,CUST5037,Male,PRD1741,4,Groceries,Rice,4643.99,6348.72,South East,Anambra
+26/05/2024,ORD330584,Michelle Cain,CUST16961,Male,PRD3288,20,Groceries,Palm Oil,1553.25,1938.79,North East,Taraba
+14/01/2025,ORD276686,Bruce Conner,CUST57144,Female,PRD7833,9,Beverages,Juice,1091.94,1319.23,North Central,FCT
+26/09/2024,ORD483787,Janet Mullins,CUST11974,Female,PRD6627,11,Fashion,Shoes,2469.55,3129.43,South South,Akwa Ibom
+12/04/2025,ORD725661,Tanya Mckenzie,CUST15220,Male,PRD2453,19,Beverages,Juice,1934.56,2700.78,North East,Gombe
+14/11/2024,ORD49766,Vincent Thomas,CUST63194,Male,PRD3590,6,Electronics,Smartphone,2979.63,4205.79,North East,Borno
+06/11/2024,ORD341873,Carl Grant,CUST24611,Female,PRD4478,10,Groceries,Vegetable Oil,4212.7,5669.29,South East,Enugu
+13/05/2024,ORD409107,Shawn Lane,CUST26584,Male,PRD7060,1,Electronics,Smartphone,944.72,1173.78,South West,Osun
+07/03/2025,ORD970229,Hector Avila,CUST38206,Female,PRD8156,17,Electronics,Tablet,2559.21,3831.25,South South,Akwa Ibom
+18/02/2025,ORD596433,Cheryl Moon DDS,CUST92580,Male,PRD1417,13,Electronics,Smartphone,3474.42,5018.44,South West,Ogun
+02/06/2024,ORD128477,Jessica Harris,CUST61478,Female,PRD4088,12,Fashion,Shirt,554.35,789.74,South East,Imo
+04/02/2025,ORD79391,Kristy Henderson,CUST13021,Male,PRD3786,1,Fashion,Shirt,2236.76,2645.2,North West,Katsina
+16/06/2024,ORD899500,Theodore Villanueva,CUST56161,Female,PRD2140,9,Electronics,Laptop,2149.7,2406.53,South East,Abia
+29/10/2024,ORD771745,Linda Sanders DVM,CUST36215,Male,PRD5831,10,Beverages,Juice,1335.64,1717.39,North Central,Niger
+09/02/2025,ORD860017,Juan Strickland,CUST17365,Male,PRD5842,11,Household,Dishwasher,2789.41,3905.8,North Central,Nasarawa
+18/04/2025,ORD797596,Richard Fitzgerald,CUST18762,Female,PRD4731,20,Beverages,Juice,3704.37,4963.37,North West,Kano
+05/05/2025,ORD117476,David Sanders,CUST76869,Male,PRD3172,19,Household,Detergent,3470.61,4340.24,North West,Kano
+10/03/2025,ORD655181,Mr. Frank Boyle,CUST24257,Male,PRD2092,6,Electronics,Laptop,2937.79,3597.49,North West,Jigawa
+27/09/2024,ORD844721,Wendy Herring,CUST36612,Male,PRD4786,19,Household,Toilet Paper,2213.18,2438.92,South West,Ogun
+20/11/2024,ORD550654,Michael Lewis,CUST71960,Female,PRD9647,8,Electronics,Tablet,2321.27,3309,South West,Lagos
+02/04/2025,ORD796461,Dave Lawson,CUST8439,Male,PRD6932,11,Groceries,Palm Oil,2748.28,3313.27,North West,Zamfara
+11/01/2025,ORD789838,Daniel Davis,CUST97496,Female,PRD8176,15,Household,Toilet Paper,3922.49,4490.58,South East,Imo
+25/02/2025,ORD591226,Christine King,CUST41555,Female,PRD7762,15,Fashion,Trousers,4369.54,5004.26,North West,Jigawa
+18/09/2024,ORD427378,Andrea Hardy,CUST88875,Male,PRD4408,8,Fashion,Shoes,1208.27,1681.8,South East,Ebonyi
+24/08/2024,ORD211731,Lauren Mooney,CUST69242,Male,PRD3842,4,Electronics,Laptop,507.6,732.32,North West,Kaduna
+13/05/2024,ORD155648,Michael Flores,CUST54754,Male,PRD5593,15,Household,Dishwasher,3957.57,5337.65,South South,Rivers
+01/10/2024,ORD490028,Andrew Perez,CUST66195,Female,PRD6396,3,Household,Dishwasher,1967.95,2168.04,North West,Kano
+09/12/2024,ORD999497,Jennifer Sosa,CUST36551,Female,PRD6364,5,Beverages,Bottle Water,4411.96,6427.97,North East,Bauchi
+23/03/2025,ORD768672,Spencer Ferrell,CUST89792,Female,PRD2049,4,Beverages,Bottle Water,2804.26,4073.01,North West,Kano
+14/02/2025,ORD939137,Angela Vasquez,CUST32430,Male,PRD5257,6,Beverages,Bottle Water,2330.48,3292.74,North Central,Kwara
+27/08/2024,ORD784640,Angela Little,CUST55304,Male,PRD9740,18,Fashion,Cap,2151.95,2666.89,North West,Kano
+30/08/2024,ORD814492,Jeffrey Anderson,CUST34497,Male,PRD1122,4,Beverages,Soft Drink,987.52,1100.01,North West,Kaduna
+20/07/2024,ORD857121,Nicole Smith,CUST96706,Female,PRD7156,5,Electronics,Tablet,3893.06,4291.25,North Central,Niger
+04/08/2024,ORD317305,Melissa Burgess,CUST5528,Male,PRD1902,5,Fashion,Cap,4886.74,7311.84,North Central,Benue
+09/11/2024,ORD92134,Sarah Bridges,CUST1408,Male,PRD4780,11,Groceries,Palm Oil,2015.4,2431.74,South West,Ekiti
+28/01/2025,ORD303471,Julie Ochoa,CUST11516,Female,PRD3813,12,Electronics,Charger,2182.17,2510.44,South West,Lagos
+20/02/2025,ORD78618,Andrea Fields,CUST31416,Female,PRD8450,3,Electronics,Laptop,3430.85,4773.93,South East,Anambra
+10/10/2024,ORD862875,Jon Daniels,CUST476,Male,PRD9834,20,Household,Toilet Paper,2319.4,3144.83,North East,Yobe
+15/05/2024,ORD453205,Shelley Evans,CUST53357,Female,PRD1752,18,Fashion,Trousers,3011.12,3317.13,North East,Gombe
+12/02/2025,ORD225305,Kevin Morales,CUST50884,Male,PRD5267,5,Beverages,Bottle Water,3575.33,4296.77,North West,Sokoto
+20/08/2024,ORD965390,Sarah Larson,CUST77855,Female,PRD4867,19,Fashion,Trousers,3043.85,3390.46,South South,Akwa Ibom
+29/04/2025,ORD106922,Carlos Simon,CUST75945,Male,PRD6028,11,Fashion,Shoes,1669.02,2217.02,South East,Imo
+30/04/2025,ORD592514,Lisa Brown,CUST35521,Male,PRD1997,20,Fashion,Shirt,3213.36,4152.93,South West,Osun
+02/12/2024,ORD676003,Joyce Thomas,CUST35551,Male,PRD3972,14,Fashion,Shoes,2761.1,3081.45,South South,Bayelsa
+22/09/2024,ORD711127,Rhonda Estrada,CUST15017,Male,PRD8609,16,Groceries,Vegetable Oil,4000.92,4809.94,South East,Enugu
+25/09/2024,ORD825332,Emily Oneill,CUST44910,Female,PRD8137,8,Beverages,Juice,994.76,1101.87,South South,Edo
+12/05/2024,ORD560547,Edwin Walker,CUST99152,Male,PRD2099,7,Groceries,Beans,2667.14,3820.62,North East,Bauchi
+19/12/2024,ORD530595,Richard Dixon,CUST63862,Female,PRD9597,7,Fashion,Shoes,2387.85,3017.72,North East,Yobe
+18/10/2024,ORD231897,Erica Burke,CUST78360,Female,PRD5592,10,Beverages,Soft Drink,3571.44,4642.87,North West,Kebbi
+09/04/2025,ORD164986,Brian Mayo,CUST42231,Female,PRD5860,5,Electronics,Smartphone,3964.97,5364,South East,Ebonyi
+15/12/2024,ORD325760,Andrew Love,CUST73894,Male,PRD3731,12,Household,Toilet Paper,2761.8,3672.71,South South,Delta
+08/03/2025,ORD270976,Ashley Ingram,CUST51420,Female,PRD1514,6,Beverages,Soft Drink,2301.2,2601.85,South East,Imo
+02/05/2025,ORD559209,Ray Santos,CUST31753,Male,PRD1597,3,Beverages,Juice,1666.05,2068.37,South East,Anambra
+15/11/2024,ORD141827,Michael Miller,CUST24752,Female,PRD1067,18,Groceries,Palm Oil,3972.28,5414.5,North West,Sokoto
+15/03/2025,ORD956228,Carlos Benson,CUST91396,Female,PRD6519,10,Household,Detergent,584.58,813.77,North West,Zamfara
+10/06/2024,ORD929854,Karina Lamb,CUST76291,Female,PRD6331,7,Groceries,Vegetable Oil,1188.33,1670.92,North Central,FCT
+11/09/2024,ORD377734,Amber Blankenship,CUST8030,Female,PRD8470,4,Fashion,Shoes,4086.14,5263.31,South West,Oyo
+28/05/2024,ORD461491,Kelsey Parker,CUST14482,Female,PRD1151,17,Beverages,Soft Drink,1646.52,2457.15,South South,Edo
+03/02/2025,ORD402721,Kevin Torres,CUST19998,Female,PRD6107,14,Beverages,Soft Drink,4311.64,5528.9,North East,Yobe
+20/11/2024,ORD592607,Susan Cortez,CUST492,Female,PRD1421,8,Household,Detergent,1712.89,2050.78,South West,Lagos
+04/01/2025,ORD162731,Sheila Lee,CUST23082,Female,PRD6665,1,Beverages,Soft Drink,4907.97,6435.29,North West,Zamfara
+18/01/2025,ORD750409,Daniel Jones,CUST95988,Female,PRD4322,13,Fashion,Shoes,1476.98,2200.96,North Central,Plateau
+09/08/2024,ORD656485,Randy Thompson,CUST42395,Female,PRD6742,12,Fashion,Shirt,4271.37,6130.26,North Central,Niger
+22/10/2024,ORD245204,James Thomas,CUST95073,Male,PRD8684,16,Household,Detergent,3791.69,4992.52,South West,Ondo
+11/03/2025,ORD280174,Ana Brown,CUST89029,Male,PRD9270,8,Electronics,Smartphone,2783.46,3866.14,South West,Ogun
+28/02/2025,ORD151659,Tara Smith,CUST62255,Male,PRD2302,10,Beverages,Soft Drink,2870.77,4290.81,North East,Gombe
+18/04/2025,ORD117013,Jacob Key,CUST56171,Female,PRD5835,6,Beverages,Bottle Water,3549.04,5291.12,South East,Imo
+21/12/2024,ORD419905,Ms. Tina Beck,CUST61154,Male,PRD4833,14,Groceries,Rice,863.03,1009.4,North Central,Plateau
+08/06/2024,ORD85897,Molly Burke,CUST20030,Female,PRD1154,4,Electronics,Laptop,2615.15,3690.92,North Central,Kogi
+19/12/2024,ORD816577,Barbara Johnson,CUST89958,Female,PRD9948,7,Groceries,Rice,3695.84,4199.8,South East,Imo
+19/08/2024,ORD624135,David Schmidt,CUST92575,Male,PRD5824,7,Household,Detergent,2660.6,3140.69,South South,Akwa Ibom
+25/10/2024,ORD146589,Amy West,CUST71439,Male,PRD3838,2,Fashion,Shirt,3772.15,5169.42,North Central,Benue
+31/07/2024,ORD626440,Christina Hernandez,CUST69190,Male,PRD6616,1,Beverages,Soft Drink,4740.16,6259.83,South East,Enugu
+12/01/2025,ORD647139,Sara Wilkinson,CUST80883,Male,PRD5569,5,Beverages,Bottle Water,1015.48,1422.82,North Central,Benue
+02/01/2025,ORD271588,Stacey Smith,CUST65927,Male,PRD2921,13,Beverages,Soft Drink,4617.91,5623.56,South West,Ondo
+16/02/2025,ORD519078,Heidi Kelly,CUST5521,Male,PRD5431,3,Fashion,Shoes,1210.23,1570.18,North West,Jigawa
+04/06/2024,ORD487104,Jessica Gomez,CUST28917,Female,PRD8941,18,Household,Detergent,570.04,712.23,South East,Imo
+02/10/2024,ORD213573,Ricky Douglas,CUST49609,Male,PRD2980,2,Fashion,Cap,3610.32,5270.96,South South,Bayelsa
+23/02/2025,ORD447850,Travis Gill,CUST59127,Male,PRD2235,15,Fashion,Shirt,790.29,1184.4,South East,Anambra
+23/03/2025,ORD374313,Andrew Krueger,CUST56835,Female,PRD8884,7,Groceries,Rice,3746.42,4213.37,North West,Sokoto
+31/12/2024,ORD745604,Joseph Skinner,CUST73435,Female,PRD2686,7,Electronics,Laptop,3668.52,5103.87,South East,Ebonyi
+21/11/2024,ORD282309,Roger Salazar,CUST9996,Female,PRD6697,8,Household,Dishwasher,3754.25,5265.83,North West,Kaduna
+16/11/2024,ORD528955,Mr. Ricky Peters,CUST35028,Female,PRD5712,1,Beverages,Juice,3436.17,4337.04,North West,Zamfara
+07/03/2025,ORD327331,Benjamin Larson,CUST53862,Male,PRD5768,14,Groceries,Vegetable Oil,2534.46,2868.6,North East,Adamawa
+02/01/2025,ORD322441,Roger Scott,CUST93640,Female,PRD9482,5,Electronics,Laptop,2602.26,3851.19,South South,Delta
+17/12/2024,ORD6902,Emma Mclean,CUST52471,Female,PRD3529,17,Household,Toilet Paper,4892.03,6071.62,North West,Kaduna
+20/04/2025,ORD558059,Melissa Holder,CUST46449,Male,PRD3818,3,Electronics,Smartphone,4762.49,6941.95,North East,Adamawa
+12/07/2024,ORD62780,Sandra Reyes,CUST15894,Female,PRD9905,11,Electronics,Charger,3724.67,5137.58,South East,Enugu
+27/01/2025,ORD410984,James Norton,CUST5772,Male,PRD4845,5,Groceries,Palm Oil,2505.3,2905.85,North West,Jigawa
+11/02/2025,ORD873966,Jonathan Brewer Jr.,CUST99569,Male,PRD6605,20,Household,Detergent,3163.91,3496.42,North Central,Benue
+24/03/2025,ORD89430,Samantha Bowen,CUST20211,Female,PRD4427,10,Household,Toilet Paper,534.18,652.68,North Central,Benue
+13/09/2024,ORD710588,Mr. Michael Hill,CUST63473,Male,PRD7832,11,Household,Dishwasher,4864.93,5918.36,South East,Imo
+16/02/2025,ORD55808,Amanda Stuart,CUST457,Male,PRD7692,8,Electronics,Smartphone,578.38,769.53,South West,Ondo
+27/08/2024,ORD951754,Sonia Johnson,CUST69431,Male,PRD3173,17,Beverages,Soft Drink,4546.06,5146.09,North West,Jigawa
+03/03/2025,ORD374547,Sarah Fry,CUST76997,Male,PRD6701,7,Groceries,Vegetable Oil,916.19,1088.7,North Central,Plateau
+09/03/2025,ORD512333,Frederick Garcia,CUST86844,Female,PRD4570,4,Household,Toilet Paper,938.22,1304.41,North West,Kebbi
+10/12/2024,ORD631016,Jordan Curtis,CUST45887,Female,PRD6518,13,Groceries,Beans,2490.43,2820.48,South West,Oyo
+09/01/2025,ORD327475,Robert Holmes,CUST31218,Male,PRD7381,2,Electronics,Charger,851.51,980.79,North West,Zamfara
+09/05/2024,ORD916707,Donald Sparks,CUST27110,Male,PRD7606,2,Groceries,Beans,1953.02,2228.09,North West,Kano
+06/10/2024,ORD45864,Katrina Newton,CUST23451,Male,PRD9672,15,Beverages,Soft Drink,2591.87,3186.56,North Central,Niger
+16/05/2024,ORD542696,Timothy Hayes,CUST37394,Male,PRD3687,5,Electronics,Tablet,4133.79,6012.97,North Central,Benue
+01/06/2024,ORD194529,Lori Harris DVM,CUST53507,Female,PRD9240,2,Electronics,Charger,2131.33,2523.93,North West,Katsina
+24/09/2024,ORD470573,Amber Mitchell,CUST56589,Female,PRD3643,6,Groceries,Rice,1623.4,1817.97,South West,Ogun
+21/02/2025,ORD104915,Miranda Henry,CUST17561,Male,PRD4662,17,Beverages,Bottle Water,4622.43,5474.5,North Central,Kogi
+14/01/2025,ORD774948,Gregory Hunt,CUST82387,Male,PRD6964,11,Household,Detergent,2490.19,3546.49,North West,Kano
+26/12/2024,ORD846701,Anthony Greene,CUST11939,Male,PRD3959,11,Household,Detergent,1249.47,1531.51,South South,Delta
+25/07/2024,ORD935118,Sandra White,CUST4659,Female,PRD9744,14,Fashion,Trousers,1635.61,1919.29,North East,Yobe
+13/02/2025,ORD797072,Christopher Moreno,CUST65955,Female,PRD5438,2,Fashion,Trousers,1823.94,2180.27,South South,Delta
+27/09/2024,ORD959211,Timothy Short,CUST65453,Male,PRD1124,15,Household,Toilet Paper,2891.92,3883.53,South East,Enugu
+24/12/2024,ORD506249,Maria Walker,CUST77089,Female,PRD7133,11,Fashion,Shoes,4057.19,5037.85,North Central,Kogi
+05/08/2024,ORD44083,Krystal Gillespie,CUST39213,Male,PRD3016,5,Fashion,Cap,1550.32,1938.92,South West,Ekiti
+17/09/2024,ORD115789,Paul Barnes,CUST36786,Female,PRD6774,18,Electronics,Smartphone,2262.68,3055.02,North Central,Plateau
+06/10/2024,ORD188936,Jamie Parker,CUST65835,Male,PRD6971,6,Electronics,Smartphone,1041.33,1239.65,North West,Kaduna
+23/01/2025,ORD427098,Michael George,CUST51265,Female,PRD7666,7,Electronics,Laptop,643.87,770.35,South West,Lagos
+01/07/2024,ORD456165,Alicia Vance,CUST12584,Female,PRD6118,17,Beverages,Soft Drink,795.4,1036.85,South West,Ekiti
+04/02/2025,ORD278749,Raymond Williams,CUST6268,Male,PRD8560,3,Beverages,Soft Drink,662.07,899.71,North West,Zamfara
+23/03/2025,ORD636299,Amber Nichols,CUST80563,Male,PRD2462,11,Fashion,Shoes,2259.06,3079.96,North East,Yobe
+08/03/2025,ORD862766,Jerry Ramirez,CUST3292,Male,PRD8157,19,Household,Toilet Paper,4821.23,7192.59,North Central,FCT
+13/12/2024,ORD389933,Holly Contreras,CUST38693,Male,PRD3608,16,Fashion,Shirt,697.91,908.94,North East,Adamawa
+09/03/2025,ORD864558,Cody Miranda,CUST23954,Male,PRD3101,7,Household,Detergent,1314.84,1602.17,South West,Ogun
+22/12/2024,ORD466112,Justin Miller,CUST63778,Female,PRD9217,3,Household,Detergent,3098.55,3414.23,South West,Ekiti
+31/03/2025,ORD995980,William Wong,CUST69822,Female,PRD1651,16,Household,Toilet Paper,2181.97,3182.61,North Central,Nasarawa
+08/10/2024,ORD790086,Emma Martinez,CUST90263,Male,PRD8246,9,Household,Dishwasher,2203.78,2944.76,North West,Zamfara
+01/07/2024,ORD528050,Michelle Williams,CUST18213,Female,PRD1480,6,Household,Toilet Paper,1275.19,1627.54,South South,Delta
+22/06/2024,ORD920448,Garrett Proctor,CUST36351,Female,PRD2015,5,Groceries,Vegetable Oil,3734.16,4862.29,South West,Ekiti
+22/11/2024,ORD82199,Andrew Moore,CUST84104,Male,PRD7952,2,Electronics,Smartphone,1330.02,1646.32,South West,Ondo
+09/07/2024,ORD381728,Crystal Payne,CUST81792,Female,PRD1440,20,Fashion,Shirt,3884.01,5793.91,North East,Borno
+22/11/2024,ORD614418,Joseph Jones,CUST90650,Male,PRD5692,18,Groceries,Beans,3556.81,5011.96,South West,Ondo
+23/04/2025,ORD57203,Nicholas Ball,CUST38225,Male,PRD7604,2,Electronics,Laptop,1160.81,1541.91,North East,Gombe
+29/05/2024,ORD426315,Antonio Campbell,CUST94844,Male,PRD6975,6,Groceries,Beans,1354.96,1545.88,South South,Rivers
+17/04/2025,ORD962934,David Gray,CUST21647,Male,PRD7103,1,Household,Detergent,2597.5,2859.15,North West,Jigawa
+30/09/2024,ORD876572,Kelly Stevens,CUST6418,Female,PRD9796,1,Electronics,Charger,4860.85,6024.94,North West,Katsina
+11/04/2025,ORD618117,Jill Aguilar,CUST78936,Female,PRD7946,17,Household,Detergent,1475.95,1760.03,North West,Kaduna
+23/06/2024,ORD270151,Nicholas Fox,CUST4541,Male,PRD8370,18,Fashion,Trousers,4180.5,5119.85,South East,Enugu
+16/10/2024,ORD886955,Jennifer Bates,CUST29213,Female,PRD7754,19,Electronics,Tablet,930.26,1248.8,North West,Kaduna
+07/12/2024,ORD964062,Renee Parker,CUST18522,Female,PRD5857,16,Beverages,Bottle Water,2847.84,3691.73,South East,Anambra
+28/05/2024,ORD732707,Hannah Contreras,CUST56534,Male,PRD9122,14,Household,Detergent,879.34,1202.1,South East,Ebonyi
+21/08/2024,ORD445868,Carrie Fisher,CUST88434,Male,PRD6731,12,Household,Toilet Paper,1852.34,2525.95,South South,Bayelsa
+19/08/2024,ORD198026,Jonathan Parsons,CUST1542,Male,PRD2456,3,Electronics,Tablet,1502.07,1718.56,South South,Edo
+05/06/2024,ORD90334,Scott Ramirez,CUST93234,Female,PRD4816,9,Electronics,Tablet,605.94,859.17,South East,Abia
+28/10/2024,ORD716872,Larry Monroe,CUST28444,Male,PRD3149,2,Beverages,Bottle Water,3923.22,4332.58,South East,Ebonyi
+18/03/2025,ORD855958,Christopher Quinn,CUST80260,Male,PRD6656,12,Household,Dishwasher,3223.69,4524.57,North Central,Nasarawa
+31/05/2024,ORD498352,Shannon Bell,CUST69861,Female,PRD6952,10,Electronics,Charger,4797.65,6101.65,South West,Osun
+02/05/2025,ORD98735,Pamela Mayer,CUST55033,Female,PRD2793,4,Household,Dishwasher,753.91,1117.6,North East,Taraba
+30/04/2025,ORD86522,Lawrence Martinez,CUST33455,Female,PRD5888,20,Household,Detergent,4529.96,5230.06,South West,Ekiti
+10/04/2025,ORD331194,Christopher Roberts,CUST56069,Male,PRD2453,10,Groceries,Palm Oil,2096.6,2877.04,North West,Kaduna
+15/01/2025,ORD793111,Samantha Rodriguez,CUST90725,Female,PRD5123,15,Household,Dishwasher,4147.1,6016.78,North Central,Niger
+13/08/2024,ORD15916,Chloe Mayer,CUST17453,Female,PRD4886,6,Beverages,Soft Drink,3130.32,4327.11,North West,Zamfara
+12/04/2025,ORD902845,Bailey Singh,CUST81335,Female,PRD7738,3,Groceries,Palm Oil,1260.8,1815.35,North Central,Kwara
+27/08/2024,ORD574308,Raymond Contreras,CUST19994,Male,PRD6905,19,Household,Toilet Paper,3589.05,4262.95,South West,Ogun
+17/03/2025,ORD49114,Nichole Campbell,CUST36455,Male,PRD6602,18,Beverages,Bottle Water,684.49,893.56,North Central,Benue
+06/02/2025,ORD270443,Brett Foley,CUST24948,Female,PRD6562,18,Beverages,Juice,4431.39,6487.53,North West,Kaduna
+05/03/2025,ORD321965,Julie Collins,CUST46022,Male,PRD5917,16,Electronics,Tablet,4134.28,4806.04,South South,Edo
+10/11/2024,ORD392355,Dr. Mary Brooks,CUST97310,Male,PRD4473,9,Household,Toilet Paper,1545,1784.6,North East,Bauchi
+04/11/2024,ORD129652,Todd Spencer,CUST23945,Male,PRD6029,18,Groceries,Vegetable Oil,1242.87,1627.01,South East,Enugu
+28/06/2024,ORD393135,Shelley Butler,CUST87200,Male,PRD1886,8,Fashion,Shoes,1512.71,1904.68,South West,Ogun
+23/01/2025,ORD349999,Patricia Ford,CUST62640,Female,PRD1664,18,Groceries,Rice,3363,4331.34,North West,Kaduna
+31/07/2024,ORD947425,Linda Hogan,CUST21790,Female,PRD3977,3,Household,Dishwasher,3375.31,3926.34,South West,Ogun
+15/02/2025,ORD770427,Christina Rodriguez,CUST85455,Female,PRD1356,5,Fashion,Cap,4894.82,5773.13,North West,Zamfara
+22/02/2025,ORD68396,Lauren Hendricks,CUST99657,Male,PRD5045,3,Fashion,Cap,4165.11,5214.99,North Central,FCT
+26/05/2024,ORD746611,Connie Perez,CUST54996,Female,PRD2359,17,Fashion,Shirt,3395.96,4034.85,North Central,Nasarawa
+24/03/2025,ORD701837,Vincent Schroeder,CUST1030,Male,PRD9184,16,Household,Toilet Paper,1997.7,2917.5,South West,Oyo
+10/03/2025,ORD68570,Mia Anderson,CUST71009,Female,PRD5467,7,Groceries,Vegetable Oil,1402.37,1712.34,South West,Osun
+03/02/2025,ORD221872,Michael Garcia,CUST16310,Male,PRD1432,2,Beverages,Juice,2377.59,3105.76,North West,Sokoto
+16/10/2024,ORD790442,Christine Castro,CUST9821,Female,PRD9858,6,Electronics,Tablet,1465.92,2145.69,South South,Akwa Ibom
+01/07/2024,ORD329576,Carla Wilson,CUST35874,Male,PRD5538,2,Groceries,Vegetable Oil,4579.35,6011.79,North Central,Nasarawa
+10/07/2024,ORD878839,Susan White,CUST25697,Male,PRD9532,9,Electronics,Charger,1502.17,1848.41,North West,Kano
+18/09/2024,ORD16916,Christine Miller MD,CUST33798,Male,PRD9729,16,Electronics,Tablet,4542.9,6604.15,South South,Delta
+17/08/2024,ORD961765,Jessica Ross,CUST22352,Female,PRD5242,2,Groceries,Rice,1924.65,2671.44,North West,Jigawa
+01/10/2024,ORD303613,Emily Benjamin,CUST83089,Female,PRD9654,3,Groceries,Rice,4326.35,6253.99,North Central,Plateau
+02/06/2024,ORD650882,Carol Soto,CUST56111,Male,PRD7017,16,Household,Detergent,3993.47,5868.84,North East,Yobe
+12/03/2025,ORD132333,Heather Gomez,CUST4377,Female,PRD4405,13,Fashion,Shoes,1274.79,1552.36,South South,Cross River
+19/09/2024,ORD342345,Teresa Hill,CUST59200,Female,PRD9470,11,Groceries,Beans,2422.14,2887.95,South South,Rivers
+21/11/2024,ORD182390,Alicia Horton,CUST73869,Male,PRD9581,17,Beverages,Soft Drink,1323.43,1788.43,North Central,Niger
+06/08/2024,ORD950434,Jorge Hanson,CUST19293,Female,PRD9399,11,Household,Detergent,3995.4,4958.02,North Central,Niger
+18/09/2024,ORD997550,Alejandro Vasquez,CUST12314,Female,PRD3884,15,Groceries,Beans,926.61,1325.91,North Central,Kwara
+10/01/2025,ORD199597,Mary Jones,CUST84754,Female,PRD8162,2,Groceries,Palm Oil,4032.44,5747.85,North East,Gombe
+26/02/2025,ORD675823,Mark Turner,CUST72251,Female,PRD3960,6,Fashion,Shirt,2995.09,4202.08,South South,Rivers
+17/01/2025,ORD794099,Daniel Bauer,CUST33103,Male,PRD7431,20,Electronics,Smartphone,717.96,797.2,South West,Ogun
+03/01/2025,ORD817839,Jeffrey Wells DDS,CUST40407,Female,PRD8312,9,Beverages,Juice,3615,5369.14,North West,Kaduna
+25/10/2024,ORD202142,Emily Holloway,CUST72722,Male,PRD4014,2,Household,Detergent,4992.96,6074.14,North Central,FCT
+23/11/2024,ORD775995,Joshua Martin,CUST29179,Male,PRD5464,18,Household,Dishwasher,2150.08,3078.76,South East,Anambra
+08/04/2025,ORD366689,Susan Brown,CUST72815,Male,PRD1414,7,Household,Toilet Paper,3019.38,3783.03,South West,Ogun
+21/02/2025,ORD558391,Brooke Graham,CUST66176,Female,PRD9022,7,Household,Toilet Paper,4566.97,5703.97,South West,Osun
+02/01/2025,ORD195562,Mercedes Maxwell,CUST18690,Female,PRD2764,7,Electronics,Smartphone,2587,3086.11,South West,Osun
+01/01/2025,ORD761448,Jessica Harrison,CUST4460,Male,PRD3104,18,Electronics,Laptop,2462.56,3381.86,South West,Oyo
+28/07/2024,ORD75935,Garrett Jones,CUST25503,Male,PRD1217,16,Beverages,Bottle Water,3116.35,4527.11,North East,Taraba
+15/07/2024,ORD409144,Sydney Padilla,CUST73754,Male,PRD2301,1,Household,Dishwasher,581.15,688.56,North East,Yobe
+14/03/2025,ORD79983,Jamie Farley,CUST27768,Female,PRD1910,7,Electronics,Smartphone,3959.82,4526.77,North West,Zamfara
+01/08/2024,ORD320500,Melanie Jacobson,CUST88061,Male,PRD2475,20,Electronics,Charger,3684.79,5058.2,North West,Jigawa
+27/02/2025,ORD716924,Franklin Reed,CUST52286,Male,PRD6004,15,Groceries,Beans,3966.44,5385.65,South West,Ekiti
+22/05/2024,ORD758050,Dan Schmitt,CUST56033,Male,PRD4186,15,Groceries,Vegetable Oil,2383.55,3075.37,North Central,Kwara
+01/04/2025,ORD934887,Nancy Ochoa,CUST92070,Female,PRD5304,7,Groceries,Vegetable Oil,1906.77,2117.49,South South,Bayelsa
+28/09/2024,ORD430456,Edward Garcia,CUST8262,Female,PRD1843,5,Electronics,Tablet,2186.95,2485.77,North East,Gombe
+16/06/2024,ORD440196,Harold Chavez,CUST72517,Male,PRD3859,8,Fashion,Trousers,3384.62,4005.38,South East,Abia
+07/11/2024,ORD106540,Barry Rangel,CUST98458,Female,PRD9876,4,Electronics,Tablet,683.35,1010.94,North East,Bauchi
+16/02/2025,ORD556047,Justin Kelley,CUST48121,Female,PRD6204,5,Fashion,Cap,4453.35,6177.74,South South,Rivers
+08/05/2024,ORD140973,Jody Camacho,CUST90341,Male,PRD6261,3,Household,Detergent,2603.87,3823.3,North Central,Benue
+03/04/2025,ORD694745,Beth Fernandez,CUST84434,Female,PRD7643,13,Fashion,Trousers,1097.7,1429.79,South West,Lagos
+12/05/2024,ORD470258,Joseph Howell,CUST11768,Male,PRD9794,9,Household,Dishwasher,3714.07,4751.48,North West,Kano
+14/01/2025,ORD355962,Anne Griffin,CUST41408,Female,PRD6020,20,Electronics,Smartphone,3861.24,5027.45,South West,Ogun
+01/04/2025,ORD415021,Mr. Sean Vasquez,CUST11733,Female,PRD1305,14,Household,Detergent,2734.52,3817.74,North Central,FCT
+16/09/2024,ORD65030,Diane Cunningham,CUST95517,Female,PRD4379,6,Household,Dishwasher,2949.57,4346.35,South West,Osun
+14/05/2024,ORD876562,Laurie Castaneda,CUST73616,Female,PRD8648,5,Fashion,Shirt,3837.27,5457.81,South West,Osun
+08/02/2025,ORD118475,Tanya Stephenson,CUST76598,Male,PRD4007,16,Beverages,Juice,4499.31,5792.97,South West,Ondo
+03/01/2025,ORD217062,Michele Walker,CUST97652,Female,PRD5624,16,Fashion,Shirt,2443.98,3292.31,South West,Ekiti
+01/12/2024,ORD609567,Mrs. Ashley Fuentes,CUST77127,Female,PRD2010,14,Electronics,Charger,2399.83,3390.15,North East,Adamawa
+21/03/2025,ORD509245,Christopher Moore,CUST63446,Male,PRD4458,18,Beverages,Juice,1192.98,1343.57,North West,Sokoto
+27/05/2024,ORD925584,Deborah Hunter MD,CUST38247,Female,PRD2202,14,Fashion,Cap,2906.87,3772.79,South West,Oyo
+25/12/2024,ORD160170,Sherri Hunter,CUST94434,Female,PRD1382,13,Beverages,Juice,2799.28,3553.62,North Central,Nasarawa
+15/08/2024,ORD490336,Tammy Nguyen,CUST44428,Male,PRD6246,16,Groceries,Beans,989.15,1149.61,North West,Kebbi
+24/02/2025,ORD1226,Melissa Fields,CUST82913,Male,PRD2140,5,Fashion,Shoes,601.84,696.63,North Central,Kwara
+22/10/2024,ORD932839,Erica Ruiz,CUST75601,Male,PRD4449,17,Fashion,Shirt,4771.1,5623.02,South South,Delta
+25/01/2025,ORD166626,Donald Conway,CUST23730,Male,PRD3323,11,Household,Toilet Paper,4378.25,5558.18,South South,Cross River
+29/05/2024,ORD200070,Marilyn Brown,CUST27403,Male,PRD2789,6,Groceries,Palm Oil,4731.82,6772.34,North Central,Benue
+13/09/2024,ORD313207,Justin Solomon,CUST2422,Male,PRD2179,20,Groceries,Vegetable Oil,709.06,1006.24,South West,Osun
+08/01/2025,ORD296826,Pamela Green,CUST15748,Female,PRD8742,20,Household,Dishwasher,4334.48,5952.04,South East,Abia
+09/06/2024,ORD955900,Joshua Jones,CUST37693,Female,PRD8186,16,Groceries,Palm Oil,2257.98,3229.76,North West,Kaduna
+21/02/2025,ORD124521,Todd Hurley,CUST29725,Female,PRD8290,15,Household,Dishwasher,2572.23,3480.65,South West,Lagos
+28/04/2025,ORD930173,Christine Kidd,CUST23894,Female,PRD9069,4,Beverages,Juice,2424.5,2945.39,South South,Bayelsa
+26/01/2025,ORD377214,Melinda Palmer,CUST71530,Male,PRD6310,4,Beverages,Soft Drink,873.96,1047.65,North Central,Plateau
+10/05/2024,ORD194687,Brian Mckenzie,CUST48402,Female,PRD5393,14,Groceries,Rice,2406.57,3303.04,North Central,Kwara
+20/09/2024,ORD406318,Michael Grimes,CUST41839,Male,PRD2987,8,Beverages,Soft Drink,4588.3,5738.25,North Central,Nasarawa
+17/11/2024,ORD924723,Paige Gallegos,CUST70859,Male,PRD3216,10,Fashion,Shoes,2630.14,3465.77,South East,Ebonyi
+13/02/2025,ORD371344,William Glenn,CUST87777,Male,PRD1046,9,Electronics,Laptop,2625.5,3809.14,North Central,Kwara
+05/09/2024,ORD976235,Beth Williams,CUST67692,Female,PRD4672,12,Electronics,Smartphone,4956.88,7284.07,North West,Zamfara
+03/08/2024,ORD88105,Rebecca Foster MD,CUST57753,Male,PRD4228,13,Electronics,Smartphone,851.79,1042.74,South West,Lagos
