@@ -1,4 +1,4 @@
-# Beta-Marketplace Sales Analysis
+# Beta Marketplace Sales Analysis
 
 
 ## Tables of Content
@@ -27,17 +27,17 @@ This repository contains the analysis of the Beta Marketplace dataset, focusing 
 
 ### Dataset Sources & Description
 
-Sales Data: The Primary Dataset used for this Analysis is "Beta Marketplace Sales Dataset.csv" file, containing detailed information about eachsales made by the Company.
+Sales Data: The Primary Dataset used for this Analysis is "Beta Marketplace Sales Dataset.csv" file, containing detailed information about each sales made by the Company.
 
 
 ### Objectives
 
 The main objectives of this analysis are to:
-- Understand Product Performance: Identify top-performing and bottom-performing products/subcategories by revenue, profit, and quantity sold.
-- Analyze Customer Behavior: Segment customers by gender, region, and purchase patterns to understand customer lifetime value and product preferences.
-- Assess Financial Health: Evaluate monthly and daily revenue trends, cost structures, and profit margins to identify periods of growth or decline.
-- Understanding regional distribution of various product hierarrchy.
-- Identify Opportunities: Uncover insights that can lead to improved inventory management, targeted marketing campaigns, and enhanced financial strategies.
+- understand Product Performance: Identify top-performing and bottom-performing products/subcategories by revenue, profit, and quantity sold.
+- analyse Customer Behavior: Segment customers by gender, region, and purchase patterns to understand customer lifetime value and product preferences.
+- assess Financial Health: Evaluate monthly and daily revenue trends, cost structures, and profit margins to identify periods of growth or decline.
+- understanding regional distribution of various product hierarchy.
+- identify Opportunities: Uncover insights that can lead to improved inventory management, targeted marketing campaigns, and enhanced financial strategies.
 
 
 ### Tools Used
@@ -157,11 +157,14 @@ ORDER BY
 
 ### Dashboards
 
+![Screenshot 2025-07-01 052314](https://github.com/user-attachments/assets/719b9354-9b09-4985-bb07-a800271061b4)
+[Screenshot 2025-07-01 052355](https://github.com/user-attachments/assets/43906c49-6c9b-4527-8e4b-5545bcd6fbe9)
+!![Screenshot 2025-07-01 055542](https://github.com/user-attachments/assets/5e65465b-ce31-4aa7-8a14-7559246b8688)
+![Screenshot 2025-07-01 055844](https://github.com/user-attachments/assets/a1fe0ba0-aab9-4bec-906d-22b22f6888c1)
 
-![Screenshot (88)](https://github.com/user-attachments/assets/ad7f0224-fdd0-4be6-9e19-c8eb955bc35f)
-![Screenshot (89)](https://github.com/user-attachments/assets/9f9b7f67-5f46-46ac-8bfe-c0d54787f3f2)
-![Screenshot (90)](https://github.com/user-attachments/assets/1603cbf5-182e-4437-ab83-7dfb1bb1a0bf)
-![Screenshot (91)](https://github.com/user-attachments/assets/a36efca9-6102-4112-9eb2-a27555535935)
+
+
+
 
 
 ### Key Findings
@@ -193,7 +196,7 @@ Based on the analysis, several Key findings  emerged;
 
 - Reassess and optimize pricing strategy for low-profit products by observing the bottom 5 products by products. Investigate whether high unit costs, discount or operational inefficiencies are eroding profit margins.
 - Focus Marketing and stocking  strategy on high revenue & Margin Products(Juice, dishwashers & detergent). Prioritize these products in promotion, inventory planning and ad spend. Consider cross selling them with other related products to drive even more value.
-- Consider analyzing why South-West and South-East lag in revenue despite economic potential. Also investigate the pricing strategy in states  with low unit prices for potential margin optimization.
+- Consider analyzing why South-West and South-East lag in revenue despite economic potential. In addition, investigate the pricing strategy in states  with low unit prices for potential margin optimization.
 - Boost Marketing around June to mitigate sales dips.
 - Analyze the customer behavior further to confirm reasons for mid-year and year-end trends.
 - Plan inventory and staffing around peak months (January, September and October).
