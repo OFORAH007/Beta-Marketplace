@@ -158,12 +158,9 @@ ORDER BY
 ### Dashboards
 
 ![Screenshot 2025-07-01 052314](https://github.com/user-attachments/assets/719b9354-9b09-4985-bb07-a800271061b4)
-[Screenshot 2025-07-01 052355](https://github.com/user-attachments/assets/43906c49-6c9b-4527-8e4b-5545bcd6fbe9)
+![Screenshot 2025-07-01 052355](https://github.com/user-attachments/assets/47fa0de0-7cb4-4181-b214-0f90447b842b)
 !![Screenshot 2025-07-01 055542](https://github.com/user-attachments/assets/5e65465b-ce31-4aa7-8a14-7559246b8688)
 ![Screenshot 2025-07-01 055844](https://github.com/user-attachments/assets/a1fe0ba0-aab9-4bec-906d-22b22f6888c1)
-
-
-
 
 
 
