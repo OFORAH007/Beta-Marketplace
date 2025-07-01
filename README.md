@@ -160,8 +160,7 @@ ORDER BY
 ![Screenshot 2025-07-01 210854](https://github.com/user-attachments/assets/6cc760ea-d5a3-4be8-a5fc-2e8e5b2c6a20)
 ![Screenshot 2025-07-01 212352](https://github.com/user-attachments/assets/29029d7c-7b59-4329-8a07-e4898566c3b1)
 ![Screenshot 2025-07-01 212436](https://github.com/user-attachments/assets/c72a9dc1-3962-49ee-93fd-c5516dacf5e3)
-![Screenshot 2025-07-01 212535](https://github.com/user-attachments/assets/8fdf64e4-69e8-4942-ab0a-29121b159963)
-
+![Screenshot 2025-07-01 222127](https://github.com/user-attachments/assets/00eda042-d825-43cf-a8dd-61f95221b969)
 
 ### Key Findings
 
