@@ -174,7 +174,7 @@ Based on the analysis, several Key findings  emerged;
   - Despite being part of profitable categories (Vegetable Oil), these specific products have low profit margins, possibly due to high unit cost, low selling price or low volume of sales.
 
 - Customer Insight
-   - Customer IDs (CUST3292, CUST75107, CUST54742) with high Life Time Value (LTV) should be targeted for marketting effort.
+   - Customer IDs (  CUST75107, CUST3292, CUST48740, CUST13118) with high Life Time Value (LTV) should be targeted for marketting effort.
    - Low Repeat Rate: 0.00 repeat rate suggests a need for customer retention strategies.
    - Customer Gender Distribution: Relatively balanced (49.7% Male, 50.3% Female).
    - Top States by Customers: FCT, Kwara, Taraba, Bauchi, Katsina.
