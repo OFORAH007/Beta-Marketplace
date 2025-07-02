@@ -157,10 +157,12 @@ ORDER BY
 
 ### Dashboards
 
-![Screenshot 2025-07-01 210854](https://github.com/user-attachments/assets/6cc760ea-d5a3-4be8-a5fc-2e8e5b2c6a20)
-![Screenshot 2025-07-01 212352](https://github.com/user-attachments/assets/29029d7c-7b59-4329-8a07-e4898566c3b1)
-![Screenshot 2025-07-01 212436](https://github.com/user-attachments/assets/c72a9dc1-3962-49ee-93fd-c5516dacf5e3)
+
+![Screenshot 2025-07-02 092516](https://github.com/user-attachments/assets/b29a5984-a3f5-4a69-83cc-15527f30e926)
+![Screenshot 2025-07-02 092550](https://github.com/user-attachments/assets/38b78c7f-5be3-44c8-aa54-84fb4cbae888)
+![Screenshot 2025-07-02 092649](https://github.com/user-attachments/assets/6dca3772-c90f-4766-aa16-9b46322f1166)
 ![Screenshot 2025-07-01 222127](https://github.com/user-attachments/assets/00eda042-d825-43cf-a8dd-61f95221b969)
+
 
 ### Key Findings
 
